@@ -1,0 +1,52 @@
+【视频{{编号}}】
+【全局视觉风格】
+{{风格锁原文：照抄这部戏的竖屏剧设定那一行，一字不动}}
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：{{这一场特有的材质，风格锁里写过的不再写，不超过 40 字，如"礼服下摆被划破，掌心擦伤，玻璃碴在灯下一闪一闪"}}；{{剧设定里的颜色句，照抄}}
+【实拍特效规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+1. Light comes only from {{这一场有来源的光，用东西说，不写东南西北}}. Every light lights its surroundings: faces, hands, {{空气里的东西}} and the air itself, the light falling off into deep darkness. Nothing glows without lighting the world around it. {{剧设定"特效质感：固定句"，照抄}}
+{{v4：这一段用到的方向，每个一句光，照抄场景锁（X5），以 FACING N (toward <什么>): 开头，写主光从画面哪边来、软硬、光源本身进不进画面。没用到的方向不写}}
+2. Matter in the air: {{这一场空气里的东西，怎么动，如 fine glass grit and dust hang in the light; every crack and fall throws a little more of it up}}; shoot through {{虚焦的前景层，写清压在画面哪条边}} so that everything feels photographed in one real space.
+3. Each kind of contact has its own effect. {{这一场的接触各一句，剧设定定义过的照抄核心句：玻璃开裂照抄"玻璃地板开裂"（一镜最多升一级，P12），碎玻璃照抄"碎玻璃"，落到气垫照抄"救生气垫"……没定义过的写物理行为：怎么动、照亮什么、怎么停}}
+4. Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; {{剧设定里的后半句，照抄}}
+5. Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+{{资产行：格式同文戏骨架；人物行写这一段从第几级开始（裂到哪一步、哪里擦伤），后面才发生的不写在资产行（B7）}}
+【场景：{{场景名}}】
+{{v4：整块照抄场景锁里的【场景】块（X3）：地图（用实物说，不写东南西北）；站位锚点（谁身后固定是方向几）；不入画；整段在这一个地方，不换地点。没有资产图的群演写清长相和衣服（R4）}}
+【人物与表演——高优先级】
+SMALL AND TRUE: real people, a camera very close; two to four small physical signals at a time, never mimed, never a blank face. THREE LAYERS: a shock is a flicker, then the fear leaking out, then the grip.
+{{每个在场的人一句英文，从人物表演档案里挑（T2）：<英文称呼> (<中文名>): <这一段的状态>; <害怕从哪漏>.}}
+Every named character appears exactly once.
+ENGLISH ONLY: every spoken word is in American English, never Chinese; background people make only wordless sounds (gasps, breath).{{有台词才写： This segment has only these <句数> lines, each spoken once, word for word, by the person named; only the speaker's lips move.}}
+【险情——最高优先级】
+STEADY HAZARD: the camera stands on solid ground and stays steady; it does not fly, fall or tumble. What moves is the people, the glass and the debris. The camera only reacts with a small jolt when something heavy lands close to it.
+HAZARD LOGIC: {{英文 2–4 句：危险从哪里开始、按什么顺序变（照剧设定的分级，一镜最多升一级）；谁要去哪、谁抓住了什么；什么还没发生}}
+FACES: fear shows first in the hands and the breath: fingers grip until the knuckles whiten, breaths come short and quick, the eyes stay on the danger; nobody screams unless it is a written line.
+【镜头衔接——高优先级】
+{{镜头数，英文大写}} SHOTS, hard cuts only at {{切点}} s. Every cut is matched on action: each shot opens exactly where the last one ended; no action restarts after a cut. 180-degree rule: {{A}} is always on the LEFT, {{B}} on the RIGHT; the camera never crosses the line between them.
+TALL FRAME: the frame is tall and narrow. Whatever falls, falls down the height of the frame; whoever reaches, reaches along it. Faces and hands that matter stay in the upper two thirds of the frame.
+UPRIGHT: the camera is always level and the right way up: the floor at the bottom of the frame, gravity pulling down, heads above feet.
+ONE IMAGE: every shot is one continuous image of one real space through one lens: no split screen, no panels, no picture in picture, no double exposure.
+【本段战损】
+BATTLE DAMAGE: at the start {{开场谁带什么伤、裂到第几级；都没有就写 nobody is hurt and the floor is whole}}. Each wound appears only at the moment it is dealt, then stays to the end: {{这一段新增的伤和裂，写在第几镜}}.
+镜头1｜0–{{秒}}s｜{{中文，不超过 15 字}}
+[{{景别}} {{焦距}}, 方向{{N}}（朝{{什么}}），{{机位：站在实地上，不悬空、不在玻璃下、不正上方拍人（P1–P4）；从配方库选}}]
+运镜：{{固定 / 缓推……}}（{{触发，不超过 12 个字}}）
+0–{{x}}s: {{这一拍：位置一句 + 危险这一拍到了哪一级 + 人的 2–4 个信号（手、呼吸、眼睛）}}
+Practical effects: {{这一镜谁的光照到谁、新出现了什么；不重新定义特效}}
+Sound: {{一个最要紧的声音：一声脆响、一声闷响、喘气；不写没写稿的人声}}
+镜头2｜{{a}}–{{b}}s｜{{中文，不超过 15 字}}
+[{{景别}} {{焦距}}, 方向{{N}}（朝{{什么}}），{{机位}}]
+运镜：{{}}（{{}}）
+{{a}}–{{x}}s: Matched on action, {{接上一镜最后的那个动作}}. {{逐拍}}
+{{有台词才写，紧跟在喊的那一拍后面，放在两次危险之间的空当里（Q4、T14）：Dialogue: <起止秒>, <谁>, to <谁>, in American English, <怎么喊，不超过 10 个英文词>: {<台词原文>}}}
+{{x}}–{{b}}s: {{说后那一拍：喊的人嘴唇合上，眼睛回到危险上；听的人的一个信号}}
+Practical effects: {{}}
+Sound: {{}}
+{{其余镜头照镜头2；一段最多 5 镜；一镜一个物理变化（P11）；人穿过实物切在动作中间（P10）；整块塌落拆三镜（P 节"叙事任务 → 安全拍法"）}}
+【结束状态】
+END STATE: the last frame is the end of shot {{最后一镜编号}}: {{最后一帧谁在哪、抓着什么、危险到了哪一级；有台词的段写 every line has been spoken}}; {{什么还没发生}}.
+严禁字幕，画面中不出现任何文字。{{剧设定"结尾：固定句"里其余的句子，照抄}}
+不生成BGM：不要音乐、配乐、旋律，只保留{{对白、}}呼吸声、{{这一场的声音，如 玻璃的脆响、风声}}和动作的声音。
+Practical in-camera effects only: {{这一场用到的实拍特效，如 real glass grit, dust and wind}}. No glowing energy, no light beams, no particle-system effects, no video-game effects.

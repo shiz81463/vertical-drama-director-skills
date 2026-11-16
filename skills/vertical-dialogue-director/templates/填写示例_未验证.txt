@@ -1,0 +1,74 @@
+【第10集·段1】
+【全局视觉风格】
+Netflix 顶级美剧的真人实拍质感，当代美国豪门都市爱情剧，高预算剧集的布景、服装、化妆与电影级布光：《摘金奇缘》式豪门盛宴的金色华光，《绯闻女孩》式上流名利场的锋利光泽，顶级珠宝与香水广告级的皮肤和高光质感，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 电影胶片拍摄（日景 250D，夜景 500T），柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 35mm，中景 50mm，面部特写 85mm），1/8 黑柔焦滤镜，浅景深，奶油般柔和的圆形焦外，细腻的胶片颗粒。色彩以暖香槟金与深青蓝的冷暖对比为骨架，象牙白与祖母绿点缀，肤色温暖、红润、通透，饱和度浓郁而克制。真实材质：真丝缎面流动的长高光与被身体撑紧的褶皱，亮片、水晶与珠宝切面的细碎火彩，定制羊毛西装的织纹，抛光石材和玻璃里的倒影，香槟里一串串上升的气泡，烫金纸面的压凹纹路。真实活人皮肤：毛孔、细小绒毛、碎发、雀斑，鼻翼和额头一点自然的油润光泽，逆光时耳廓微微透红，自然妆面；身材与体态完全照参考图，丰满的身体有真实的重量，布料被真实地撑起和垂坠，不做美颜瘦身。负面提示词：动漫、二次元、卡通、插画、CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、网红滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、古装、奇幻魔法光效、文字、水印、LOGO。
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：领带上一道长高光，展柜玻璃和大理石里都有倒影；所有东西都笼在同一种暖香槟金色的光里，肤色暖而通透，暗部压深、带一点干净的深青蓝。
+【实拍光影规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+Every light lights the faces near it, the light falling off into deep darkness. Nothing glows without lighting the world around it. The afternoon daylight comes through the foyer's west windows as one huge, soft, warm source and lies in long pale-gold panes across the polished marble; a face turned toward the glass is lit warm and clear, anyone with the glass behind them takes a thin bright edge along the hair and shoulders, and the marble, bright enough to hold a reflection, throws the light back up as a soft fill under every chin and into the eyes. Overhead the great crystal ceiling light adds a warm, soft top light and scatters small, sharp glints that shift slowly over skin, satin and glass; the jewelry in the lit glass cases answers with tiny, sharp sparks that barely move, and the far corners of the foyer settle into soft shadow. Every face is lit the way a lead is lit in a high-end drama: a large, soft key from a light that is really in the scene, the shadow side of the face falling away cleanly into shade, a thin edge of light along the hair and shoulders that lifts the person off the background, and a clear catchlight in each eye. The eye always goes to the faces first: they are the most carefully lit thing in the frame, the background falls away behind them into soft focus, and the blacks are deep and clean yet still hold detail.
+Air: dust drifts in the window light; shoot past a blurred glass-case edge so that everything feels photographed in one real space.
+Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; the window and crystal highlights roll off into a soft, creamy bloom while the shadows sink into a deep, clean teal-blue darkness.
+Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+国际珠宝峰会前厅 @国际珠宝峰会前厅 ：外形照参考图，不采用参考图的光线和CG质感；参考图的几个画面是同一个地方的不同角度，成片里就是这一个地方。整座前厅只有一盏很大的水晶吊灯，在顶上；一整排落地窗在前厅一侧，窗外是高楼；玻璃展柜和高花柱沿紫色长地毯两边排开；大理石地面亮得能照出倒影。屋顶比人高五六倍。参考图里没有人：成片里只有下面写到的人。背景板、接待台和横幅不入画，画面里读不出一个字。
+伊森 @Ethan ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个伊森，别人都不长他的样子、不穿他的衣服。比接待员高一个头；手里没有东西；西装笔挺。
+接待员 @工作人员 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；参考图是一组人，只用最左边那位女接待，成片里只有她一个。比伊森矮一个头；手里没有东西；工牌上的字读不出。
+峰会宾客 @峰会宾客 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；都不长主要人物的样子。正常成年人的身高；七八名，在展柜之间三三两两站着，端着香槟杯，不看镜头。
+【场景：国际珠宝峰会前厅，午后】
+前厅照参考图。同一个下午，整段都在落地窗前这一带，不换地点。
+【人物与表演——高优先级】
+SMALL AND TRUE: real people, a camera very close; two to four small physical signals at a time, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling leaking out, then control. The listener is always acting too, lips closed.
+Ethan (伊森) came far too early: head high, his fingers going back to his tie and cuffs. The receptionist (工作人员) is courteous.
+Every named character appears exactly once.
+ENGLISH ONLY: every spoken word is in American English, never Chinese; background people make only wordless sounds. This segment has only these three lines, each spoken once, word for word, by the person named; only the speaker's lips move.
+【空间与视线——最高优先级】
+SPACE: Ethan stops the receptionist one pace from the windows, face to face; later he stands alone. 180-degree rule: Ethan is always on the LEFT of frame, the receptionist on the RIGHT; the camera never crosses the line between them.
+EYELINES: Ethan looks screen-RIGHT and a little down, the receptionist screen-LEFT and a little up; the camera stays at eye height. In singles each eyeline passes just beside the lens.
+【戏的逻辑——高优先级】
+SCENE LOGIC: Ethan adores W.H. from her work alone and hides how badly he wants to meet her; his hands give him away. Her polite answer turns his impatience into nerves, then into private happiness.
+【镜头衔接——高优先级】
+FIVE SHOTS, hard cuts only at 3, 7, 11 and 15 s. Each shot opens exactly where the last one ended; no line and no action restarts after a cut.
+TALL FRAME: the frame is tall and narrow. The two of them share it in depth, one seen over the other's shoulder, never spread across its width. Faces stay in the upper two thirds of the frame.
+UPRIGHT: the camera is always level and the right way up: floor at the bottom, gravity pulling down, heads above feet.
+ONE IMAGE: every shot is one continuous image of one real space through one lens: no split screen, no panels, no double exposure.
+SHOT AND REVERSE SHOT: both sides at the same size; over the shoulder while they face each other, a clean single once he is alone.
+CAMERA FEELS: the camera moves only when a feeling changes and holds still while a feeling is held in; it never zooms.
+【本段状态】
+STATE: Each change appears only at the moment it happens, then stays: from shot 4 he is alone, tie and left cuff freshly straightened; from shot 5 the smile stays.
+镜头1｜0–3s｜峰会的气派，人群里最急的人
+[大全景 35mm, 吊灯的高度，斜着往下看；画面尽头是落地窗]
+运镜：吊灯压在画面上方 → 缓缓降到人群上方（有人等不及了）
+0–2s: Crystal glitters across the top of the frame; below, guests stand in twos and threes.
+2–3s: Far in the depth by the windows, high in the frame, Ethan walks fast through the guests into the receptionist's path.
+Sound: A glass touching a glass, heels on marble.
+镜头2｜3–7s｜他拦着人问，期待藏不住
+[中近景 50mm, 接待员左肩后、肩高；她的肩只占画面右下角、虚焦]
+运镜：固定（只看他的急）
+3–4s: Matched on action, Ethan stops one pace from her, upper middle of the frame, looking screen-RIGHT and a little down; he leans in, brows up.
+Dialogue: 3–7s, Ethan, to the receptionist, in American English, quick and eager, trying to sound casual: {Excuse me, has W.H. arrived yet? The guest designer?}
+4–7s: A smile he cannot hold back; two fingers touch his tie knot.
+Sound: The rustle of his sleeve.
+镜头3｜7–11s｜一句"快了"，等待变成紧张
+[中近景 50mm, 伊森右肩后、肩高；他的肩只占画面左下角、虚焦]
+运镜：固定（等她答完，看他的肩）
+7–9s: Cut on the line, the receptionist looks screen-LEFT and a little up at Ethan, a small courteous shake of the head; his shoulder in the corner sinks a fraction as she begins.
+Dialogue: 7–11s, the receptionist, to Ethan, in American English, courteous and even: {Not yet, Mr. Voss. We're expecting her any minute now.}
+9–11s: Her eyes crease kindly as she finishes; his shoulder rises on a caught breath; one quick nod.
+Sound: His short breath in.
+镜头4｜11–15s｜赶紧照一照自己，紧张全在手上
+[中近景 50mm, 镜头在他面前一步、和眼睛一样高；他面朝镜头，像在照镜子；身后是虚焦的前厅]
+运镜：固定（他在把紧张压回去）
+11–13s: Cut on the line, Ethan stands alone facing the lens, eyes just beside it; his fingers tighten the tie knot a hair and smooth the tie flat.
+13–15s: He tugs his left cuff down, fingers not quite steady; his shoulders rise on one deep breath and settle.
+Sound: The click of a cufflink.
+镜头5｜15–17s｜心里只剩她，笑自己跑出来
+[近景 85mm, 在他身侧前方约一米；脸撑满画面宽、在画面上半]
+运镜：固定（让这一刻多停一会儿）
+15–16.6s: Cut on the look, Ethan's eyes rest just past the lens at screen-RIGHT; one corner of his mouth rises, then the other.
+Dialogue: 15–16.6s, Ethan, to himself, in American English, under his breath, smiling: {Finally gonna meet her.}
+16.6–17s: His lips close; his eyes go soft and bright.
+Sound: His breath.
+【结束状态】
+END STATE: the last frame is the end of shot 5: Ethan alone, smiling, eyes just beside the lens; every line has been spoken, lips closed.
+严禁字幕，画面中不出现任何文字。
+全片实速，不要慢镜头。
+不生成BGM：不要音乐、配乐、旋律，只保留对白、呼吸声、杯子轻碰声、高跟鞋踩大理石声和动作的声音。

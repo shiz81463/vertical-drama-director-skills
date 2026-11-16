@@ -1,0 +1,4 @@
+interface:
+  display_name: "分镜编导"
+  short_description: "把剧本拆成有节拍、站位、机位和场景卡的逐镜分镜脚本。"
+  default_prompt: "用 $storyboard-director，把我提供的剧本做成竖屏分镜，带场景卡和出图清单。"

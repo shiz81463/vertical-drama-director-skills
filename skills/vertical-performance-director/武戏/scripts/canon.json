@@ -1,0 +1,161 @@
+{
+  "note": "竖屏武戏编导的原句库（从横屏原版改出来，2026-10-22）。每部戏的风格锁、画面质感、特效质感不在这里，在 竖屏制作/剧设定/<剧名>.md（规则 S1–S5）。这里只放所有戏通用的原句：texturePrefix 是画面质感的通用开头；required：必须一字不差的原句；status=verified 表示在验收通过的成片里用过（source 是哪一条），unverified 表示还没验证。用 make_canon.js 登记新的验证结果；改原句先问用户。 竖屏加了 V 开头的原句（TALL FRAME），都还没验证。",
+  "texturePrefix": "像一部用35mm胶片实拍的电影，不是CG动画",
+  "required": [
+    {
+      "id": "C1-胶片定性",
+      "level": "fail",
+      "text": "PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "C1-镜头和胶片",
+      "level": "fail",
+      "text": "Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches;",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "C2-光有来源",
+      "level": "fail",
+      "text": "Nothing glows without lighting the world around it.",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "C2-光往深暗衰减",
+      "level": "warn",
+      "text": "the light falling off into deep darkness",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "C3-前景层",
+      "level": "warn",
+      "text": "so that everything feels photographed in one real space",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "D2-风比打击先到",
+      "level": "warn",
+      "text": "the air arrives before the blow",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "D3-一种接触一种特效",
+      "level": "fail",
+      "text": "Each kind of contact has its own effect.",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "D3-火星只在金属相碰",
+      "level": "warn",
+      "text": "Sparks come only where",
+      "status": "unverified",
+      "whenRe": "\\bsparks?\\b"
+    },
+    {
+      "id": "D2-刀光不是细线",
+      "level": "warn",
+      "text": "never a thin line",
+      "status": "verified",
+      "source": "v13",
+      "whenRe": "\\b(sword|blade|sabre|saber|knife|dagger|spear|halberd|glaive|axe)s?\\b"
+    },
+    {
+      "id": "D9-克制",
+      "level": "fail",
+      "text": "Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "E2-两种取景",
+      "level": "fail",
+      "text": "Every shot uses one of two framings.",
+      "status": "verified",
+      "source": "v13",
+      "when": "【体型与比例"
+    },
+    {
+      "id": "E2-不准缩小",
+      "level": "fail",
+      "text": "Never shrink the",
+      "status": "verified",
+      "source": "v13",
+      "when": "【体型与比例"
+    },
+    {
+      "id": "G1-相对速度",
+      "level": "fail",
+      "text": "SPEED IS RELATIVE:",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "G1-镜头差点跟不上",
+      "level": "warn",
+      "text": "The camera only just keeps up",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "H2-接动作切规则",
+      "level": "fail",
+      "text": "no action restarts after a cut",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "H1-镜头停住不超过半秒",
+      "level": "fail",
+      "text": "never holds still for more than half a second",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "J-完整攻防单元",
+      "level": "warn",
+      "text": "EVERY EXCHANGE is complete",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "J-受击三段",
+      "level": "warn",
+      "text": "REAL HIT REACTIONS, VIOLENT, each heavier than the last",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "B7-伤口打中才出现",
+      "level": "warn",
+      "text": "Each wound appears only at the moment it is dealt",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "V4-TALL FRAME",
+      "level": "fail",
+      "text": "TALL FRAME: the frame is tall and narrow.",
+      "status": "unverified"
+    },
+    {
+      "id": "V3-脸在画面上方",
+      "level": "warn",
+      "text": "stay in the upper two thirds of the frame",
+      "status": "unverified"
+    },
+    {
+      "id": "R3-每人只出现一次",
+      "level": "fail",
+      "text": "appears exactly once",
+      "status": "verified",
+      "source": "惹火私厨第34集 G1、G5 返工（文戏），用户 2026-10-23 认可"
+    }
+  ]
+}

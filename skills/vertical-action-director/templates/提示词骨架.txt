@@ -1,0 +1,64 @@
+【视频{{编号}}】
+【全局视觉风格】
+{{风格锁原文：照抄这部戏的竖屏剧设定（竖屏制作\剧设定\<剧名>.md）那一行，一字不动}}
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：{{这一场的材质：皮肤、布料、头发、兵器在这场戏里是什么状态，如"皮肤有毛孔和汗，粗布被汗浸透、有分量，刀身上有油和划痕"}}；{{剧设定里的颜色句，照抄，如《宁小贤》：所有东西都笼在同一种暖黄琥珀色的光里，暗部压深、带一点青绿。}}
+【实拍特效规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+1. {{先写暗：如 The inn is dark as night.}} Light comes only from {{这一场有来源的光，如 two oil lamps on the counter and the torches by the door}}. Every flame and spark lights its surroundings with an uneven flicker: faces, skin, steel, {{这一场的空气里的东西，如 dust and smoke}} and the air itself, the light falling off into deep darkness. Nothing glows without lighting the world around it. {{剧设定里的整体色调句，照抄，如《宁小贤》有火光时：The image stays warm amber overall: the firelight dominates.}}
+{{v4：这一段用到的方向，每个一句光，照抄场景锁（X5），以 FACING N (toward <什么>): 开头，写主光从画面哪边来、软硬、光源本身进不进画面。没用到的方向不写}}
+2. Matter in the air: {{这一场空气里的东西，怎么动：如 dust and straw hang in the lamplight the whole time; every fast move throws it up}}, and every impact throws a burst of {{dust / spray / snow / sweat}} along with whatever it breaks loose. {{会翻滚的东西：如 Smoke rolls along the ceiling, lit orange from below.}} {{从镜头前飘过的东西}} drift between the camera and the fighters, some of it right across the lens. Shoot through foreground layers ({{这一场虚焦的前景，竖屏写清压在画面哪条边上，如 a table edge along the bottom of the frame, a hanging lantern at one side, a wooden pillar down one edge}}) so that everything feels photographed in one real space.
+3. Air: when a body or a weapon moves fast, a visible push of air goes ahead of it, {{它推开了什么，如 scattering the dust and bending the lamp flames}}; robes and hair are pressed flat before the blow lands: the air arrives before the blow.
+4. Each kind of contact has its own effect. {{有金属相碰才写；剧设定里定义过火星，就照抄它的核心句：Sparks come only where metal strikes metal: a short burst of separate sparks of uneven size that fly apart in arcs under gravity, cool from white to orange to dull red and die {{落在哪里灭掉}}.}} {{砍到皮肉：如 A cut to flesh opens a thin line that wells dark blood.}} {{拳脚或钝器打在身上：如 A blow to the body knocks a burst of sweat and dust out of the cloth.}} {{气浪：A blast of air shows as {{空气里的东西}} jetting outward.}}
+5. {{兵器的轨迹，有刀剑才写：The {{兵器}} slash: {{兵器本身的样子}}. Every swing tears through the {{dust / rain / smoke}} along its arc and leaves a broad smear of it filling the whole area the blade sweeps, dense at the leading edge, gone within a third of a second; never a thin line.}}
+6. {{火或这一场别的特效：剧设定里定义过的照抄核心句；没定义过的用物理行为写（怎么动、照亮什么、怎么消失）；没有就删掉这一条}}
+7. Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; {{剧设定里的后半句，照抄，前面换这一场的光源，如《宁小贤》：the fire highlights clip and glow while the shadows sink into a deep amber-green darkness.}}
+8. Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+{{资产行：画面里出现的场景、人物、群演、兵器道具，有参考图的每样一行（规则 R1）；只写尺寸、数量、状态、在干什么和与参考图不同的地方，不写外形。下面四种格式，用不到的删掉}}
+{{地点}} @{{地方}}_总览 ：{{v4：照抄这一集"场景锁"里的总览资产行，不重写（X1、X2）。格式：外形照参考图，不采用参考图的光线和CG质感；下面几张是同一个地方朝不同方向看的样子，成片里就是这一个地方。独一无二的东西在哪一头；尺寸，对比人；参考图里没有人：成片里只有下面写到的人。不用多格拼图}}
+方向{{N}}背景 @{{地方}}_{{N朝哪}} ：{{v4：照抄场景锁里这个方向的背景图资产行；这一段用到几个方向写几条，没用到的不写（X2）。格式：外形照参考图，不采用参考图的构图和CG质感；成片里方向N（朝什么）的镜头，背景就是图里这一头：2–3 样东西在画面哪边。图里没有人。尺寸，对比人。不写"不采用参考图的光线"：这张图的光要用}}
+{{人物名}} {{@人物资产}} ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；{{数量：如 图中的特写和三个全身像是同一个人}}，成片里只有一个{{人物名}}{{；容易被拿去套脸的主角加：别人都不长他的样子、不穿他的衣服}}。{{尺寸：最好对比画面里看得见的东西}}；{{状态：如 正常人眼，不发光；兵器在哪只手里}}。{{和参考图不一样的地方：不采用参考图里的……：成片里……；没有就删掉}}
+{{群演名}} {{@群演资产}} ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；参考图里几个人穿的是同一身，成片里所有{{群演名}}都是这一身。{{尺寸，如 正常成年男子的身高}}；{{这一段有几名、各在干什么、拿什么兵器}}。{{和参考图姿势不一样的地方；没有就删掉}}
+{{兵器或道具名}} {{@道具资产}} ：外形照参考图，不采用参考图的光线、背景和CG质感；成片里只有一件。{{尺寸，如 比手臂还长}}；{{在谁手里、第几镜换手或脱手}}。{{和参考图不一样的地方；没有就删掉}}
+【场景：{{场景名}}】
+{{v4：整块照抄场景锁里的【场景】块（X3）：地图（用实物说，不写东南西北）；站位锚点（谁身后固定是方向几）；不入画；整段在这一个地方，不换地点。没有资产图的群演写清长相和衣服（R4）}}
+{{可选，英文一句禁止项：如 INSIDE THE INN ONLY: no sky, no crowd beyond the two fighters. 没有就删掉}}
+{{可选：【主体规则——高优先级】整场都要守住的状态，英文 2–4 句。例：EXACTLY TWO FIGHTERS in every frame ... 骑鸟照抄 v13 的【人鸟一体】。不需要就删掉这一块}}
+{{可选：【体型与比例——最高优先级】对手比人大十倍以上才写，照 v13 的【体型与比例】改锚点（规则 E2）；竖屏让大的一方在画面上方、撑出上沿和左右两边。用了这块，下面【打斗】改标"高优先级"。不需要就删掉这一块}}
+【打斗——最高优先级】
+ENGLISH ONLY: every spoken word is in American English, never Chinese; background people make only wordless sounds (gasps, breath, grunts).{{有喊话或对白才写： This segment has only these <台词句数，英文> lines, each spoken once, word for word, by the person named; only the speaker's lips move.}}
+TONE: fierce and fast from the first frame, everything at real speed; hit-stops last only a few frames and snap back to full speed.
+FIGHT LOGIC: {{这一场的打法，英文 3–5 句：谁拿什么、用哪只手（只写这一次）；双方想要的距离（安全区和杀伤区）；主角要去哪、打到哪里才算数；每一招由局面逼出来；谁在什么空档里出手}}
+Every named character appears exactly once, and no extra looks like any of them.
+EVERY EXCHANGE is complete: intent, attack, dodge or block, impact, body reaction, loss of balance, change of position, next move; the momentum of one move starts the next. No pause lasts longer than half a second. Weapon contact lasts 2 to 4 frames, then they part.
+REAL HIT REACTIONS, VIOLENT, each heavier than the last: first the final acceleration, robes and hair dragged back, air pressed ahead of the blow; then the contact, 2 to 4 frames of hit-stop, then {{这一场会被打出来的东西：如 sweat, dust, blood or splinters}} blasting outward and the camera knocked hard; then the transfer of force: the point of contact moves first, the body folds around it, the head whips after it; {{挨打的人}} is hurled far, away from whoever hit them, {{撞到什么：如 crashing through a table and tumbling}}. The face of whoever is hit shows the pain. Nobody recovers instantly.
+【镜头衔接——高优先级】
+{{镜头数，英文大写，如 SIX}} SHOTS, hard cuts only at {{切点，如 2, 4, 5, 8 and 11}} s. Every cut is matched on action: each shot opens by continuing the exact movement the last shot ended on, in the same direction, in the same {{地方，如 part of the room}} and light; no action restarts after a cut. 180-degree rule: {{A}} is always on the LEFT, {{B}} on the RIGHT; {{进攻和被打飞的方向，如 the swordsman attacks toward the bandit, up into the depth of the room; anyone who is hit flies away from whoever hit them}}. Never cross the axis. Every shot is a new moment from a new angle; nothing is shown twice.
+TALL FRAME: the frame is tall and narrow. The two fighters are not spread across its width: when both are in frame, {{真有高低差才写：A is near the lens, low in the frame, and B is farther back, higher in the frame；两人站在同一地面就写：both stand on the same ground at their real heights, the nearer one larger（P21）}}, or one is above the other. Faces and every point of contact stay in the upper two thirds of the frame. Movement that must be read, a rush, a throw, a fall, runs along the length of the frame, toward or away from the lens or down its height, rather than across its narrow width.
+UPRIGHT: the camera is always level and the right way up: the floor at the bottom of the frame, gravity pulling down, heads above feet, even while the camera is knocked and tumbles.
+ONE IMAGE: every shot is one continuous image of one real space through one lens: no split screen, no panels, no picture in picture, no double exposure.
+VISUAL TENSION: the camera never holds still for more than half a second and never lingers on a face: it moves with the action, rushes in physically, never zooming, whips to each new threat a beat late, is knocked by every blow and tumbles with whoever is thrown.
+SPEED IS RELATIVE: when the camera follows a fighter, it keeps pace with them, so they stay sharp while the world tears past: whatever is within a few meters, {{近处的东西，如 pillars, lamp flames, flying splinters}}, flashes past in two or three frames as streaks; {{远一点的东西}} smears along the line of movement; the far background barely moves. The camera only just keeps up: on every turn it lags, overshoots and catches up. Speed leaves traces: {{速度留下的痕迹，如 the wake of each rush tears the dust into curls, and the wind of it flattens robes and hair}}.
+【本段战损】
+BATTLE DAMAGE: at the start {{开场谁带什么伤；都没伤就写 nobody is hurt}}. Each wound appears only at the moment it is dealt, then stays to the end: {{这一段新增的伤，写具体位置，要和镜头里打中的位置一致}}.
+镜头1｜0–{{秒}}s｜{{中文一句：开场关系镜头，两边各在哪（谁近在下、谁远在上）、隔多远、兵器在谁手里}}
+[{{景别}} {{焦距}}, 方向{{N}}（朝{{什么}}），{{机位：离谁多远、在哪、朝哪；同框用纵深，如 low behind the swordsman's RIGHT shoulder (the shoulder on the camera's side of the line), looking across the room}}]
+运镜：{{起点 → 因为谁做了什么，镜头怎么动 → …}}
+0–{{秒}}s: Already mid-fight. {{关系镜头：两边各在哪（谁离镜头近、在画面下方，谁远、在画面上方）、相距多远、兵器状态、竖着的地标；0.5 秒内就开打}}
+Practical effects: {{这一镜谁的光照到谁}}
+Sound: {{}}
+镜头2｜{{a}}–{{b}}s｜{{中文一句：动作 → 动作 → 动作}}
+[{{景别}} {{焦距}}, 方向{{N}}（朝{{什么}}），{{机位；过肩就写前景的肩只压在画面下角}}]
+运镜：{{起点 → 因为谁做了什么，镜头怎么动 → …}}
+{{a}}–{{x}}s: Matched on action, {{接着上一镜最后的那个动作，同方向}}. {{逐拍，带 ATTACK / DODGE / DEFENSE / COUNTERATTACK / REAL HIT REACTION 标签；每一下打击写三段：风先到 → 一眨眼的接触 → 力传出去}}
+{{有喊话才写这一行，紧跟在喊的那一拍后面；喊话放在两次交换之间的空当里，不压在打中的那一帧（Q4）：Dialogue: <起止秒>, <谁>, to <谁>, in American English, <怎么喊，不超过 10 个英文词>: {<台词原文>}}}
+{{x}}–{{b}}s: {{}}
+Practical effects: {{这一镜谁的光照到谁、新出现了什么；不重新定义特效}}
+Sound: {{打击声要重}}
+{{其余镜头照镜头2 的格式写；15 秒最多 6 镜，宁少勿多（R8）；一个移动在一镜里写完起点和终点（R7）；镜头朝场景资产主画面的反方向拍时，写清画面尽头是什么（R6）；紧和松交替，松靠高度和纵深撑开；来回切两三次给一个同框（纵深或过肩）；被打飞的路线顺着画面长边；结尾一镜是关系镜头，用全段最大的景别看结果（俯拍或纵深）}}
+【结束状态】
+END STATE: the last frame is the end of shot {{最后一镜编号}}, still moving: {{最后一帧谁在哪、什么状态、兵器在哪}}; {{什么还没发生，如 the next blow has not landed}}.
+严禁字幕，画面中不出现任何文字。{{剧设定"结尾：固定句"里其余的句子，照抄，如 全片实速，不要慢镜头。}}
+不生成BGM：不要音乐、配乐、旋律，只保留{{这一场的声音，如 风声、火声}}、金属声、打斗音效、发力声和{{有台词时加：对白、}}环境声。
+{{剧设定要求英文风格复述的戏才写复述；《320磅》这类写了"不复述"的不写。英文一句话剧情不写（和 FIGHT LOGIC 重复，N2）}} Practical in-camera effects only: {{这一场用到的实拍特效，如 real dust, splinters and sweat}}. {{有独一无二的东西时写 Only one <东西> in the <场景>.}} No glowing energy, no light beams, no particle-system effects, no radial zoom blur, no drawn speed lines, no video-game effects.
+{{v3：No CGI look、no plastic skin、No slow motion、No music, no subtitles 这些和风格锁负面词、中文固定句重复，不写（N2）。风格锁里没有这些负面词的戏，才在这一行末尾补 No CGI look, no plastic skin.}}
