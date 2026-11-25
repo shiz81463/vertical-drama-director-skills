@@ -1,0 +1,91 @@
+# ❌ 反面案例：结构是好的（V2），坏在这几句，不要照抄。第 27 集段 7 的 v2，成片 E27_分镜07。
+# 坏在哪：11 "把她整个裹进去"→ 人消失；12 "红蓝的光从镜头身后推过去"→ 警车闪一下就没了、方向变成朝陆地、父亲跪到栈道正中；16 落幅"纹丝不动"。
+【第27集·段7】
+竖屏 9:16，全长 18 秒，4 个镜头，硬切在 6、10、14 秒。
+【全局视觉风格】
+真人实拍的当代芝加哥黑帮家庭惊悚剧，顶级流媒体犯罪剧情剧的质感，高预算剧集的布景、服装、化妆与电影级布光：低调暖光与沉进黑里的空间，冷峻钢蓝的夜，克制的老钱质感与定制大衣，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 500T 电影胶片拍摄，柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 28–35mm，中景 40–65mm，面部特写 85–100mm），1/8 黑柔焦滤镜，浅景深，柔和的圆形焦外，细腻的胶片颗粒。低调布光，大光比，光只来自画面里真实存在的灯：夜里的冷是钢蓝色（湖面和对岸城市的反光），唯一的暖是钠黄色的码头灯；一张脸一次只属于一种光，眼睛里始终有眼神光；黑位深而干净、带一点墨蓝，暗部仍有细节，饱和度克制，肤色真实。冬天的空气看得见：贴着湖面的薄雾、灯头周围的雾晕、室外呵出的白气、风里的细水雾。真实材质：精纺羊毛风衣的织纹、吸了潮气发沉的下摆、湿成一缕一缕的头发、反着灯光的湿木板、栏杆的锈和水珠、集装箱剥落的漆皮、钢刃和皮鞋上窄长的高光。真实活人皮肤：毛孔、细纹、胡茬、鬓角的灰发、碎发，室外冻红的鼻尖和指节，鼻翼和额头一点自然的油光，泪痕，自然妆面，中年人的脸有中年人的纹路，不做美颜。负面提示词：CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、眼睛陷在黑里、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、文字、水印、LOGO。
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：湿木栈道反着灯光，生锈的铁栏杆挂着水珠，集装箱的漆皮剥落；头发被湖风和雾气打湿成一缕一缕，脸上有泪痕和冻红，大衣吸了潮气发沉；暗部压深、带一点墨蓝。
+【实拍光影规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+Every light lights the faces near it, the light falling off into deep darkness. Nothing glows without lighting the world around it. On the pier, light comes only from three sodium-yellow dock lamps on the container side, with darkness between their pools, and from the cold glow of the lake and the misty city lights on its far shore. Each dock lamp is one sodium-yellow pool on wet planks with a halo of mist around the lamp head; between one pool and the next the pier is nearly black, the lake is a black surface with a few broken reflections, and the city lights across the water are small and soft through the mist. Outdoors every breath shows: a small pale cloud leaves the mouth or nose with each exhale and each spoken phrase, drifts a hand's width, catches whatever light is near and is gone within a second. Whatever the colour of the light, the blacks are the same in every scene: deep, clean and faintly ink-blue, still holding detail in hair and dark wool. Every face keeps a clear catchlight in each eye from a light that is really in the scene, and the eyes are never lost in shadow.
+Emergency lights are red and blue sweeping in turn, about once a second: they wash over faces, walls and wet ground from one side, light up breath and the mist in the air as they pass, and between sweeps the scene drops back to its own light; the vehicles themselves stay far back behind the trees and the chain-link fence at the landward end.
+Air: a thin mist off the lake hangs over the pier and fine spray drifts in the wind the whole time; every fast move tears it, and every breath shows; shoot through the soft edge of a rusted railing post, a coat collar or wet hair down one side of the frame so that everything feels photographed in one real space.
+Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; the dock lamp highlights clip and glow while the shadows sink into a deep ink-blue darkness.
+Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+【场景与方位】
+旧码头 @S50_旧码头栈道与集装箱藏身区_场景基础参考_飞书现图 ：外形照参考图，不采用参考图的光线和CG质感；总览图是同一座码头的几个视角，取它的结构、材质、灯的位置和方位；构图和光线以每个镜头写的为准。冬夜，栈道上只有本段写到的人。
+一条伸进湖里的湿木栈道，约五步宽。一头接陆地：水泥地、光秃的树、铁丝网，叫“陆地端”。另一头是一道横栏杆，外面全是湖，叫“尽头”，是死路。一条长边是齐腰的锈栏杆和湖，叫“湖栏”。另一条长边从陆地端往尽头依次是红集装箱、一道黑缝、蓝灰集装箱、一小段敞开的栏杆；集装箱比人高一倍。三盏码头灯都立在集装箱那一边：第一盏灯在红集装箱旁，第二盏灯在蓝灰集装箱旁，第三盏在尽头的转角，叫“尽头灯”。每盏灯在湿木板上落一圈钠黄的光，圈与圈之间是暗的；湖是平的、黑的，有几道碎反光，对岸城市的灯火隔着薄雾，小而软。
+朝陆地：湖栏和黑的湖面在画面左侧，画面右侧由近到远是蓝灰集装箱和第二盏灯、黑缝、红集装箱和第一盏灯，最远处是光秃的树和铁丝网。暗处的脸由左侧湖面的冷光照亮，第二盏灯从右后方在头发和肩上勾一道暖边；尽头灯那圈光里的脸由右侧高处的钠黄暖光照亮。
+朝集装箱（机位背靠湖栏，在尽头灯那圈光边上）：画面左侧边缘是蓝灰集装箱的一角，画面右侧是尽头的横栏杆，背景是敞开的栏杆、尽头灯的灯杆和黑的湖。暖光从两人身后的高处罩下来，脸上是钠黄的暖。
+朝尽头：集装箱和尽头灯在画面左侧，湖栏和黑的湖面在画面右侧，最远处横栏杆外是湖和对岸城市灯火。暗处的脸由右侧湖面的冷光照亮，左侧发际有尽头灯的一线暖边；尽头灯那圈光里的脸由左侧高处的钠黄暖光照亮。
+【人物与道具】
+文森特 @文森特 @文森特音频 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个文森特，别人都不长他的样子、不穿他的衣服。四十五岁，比伊森高半个头，鬓角少量灰白，短须；黑色长风衣，深色衬衫。
+奥利维亚 @奥利维亚 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个奥利维亚，别人都不长她的样子、不穿她的衣服。二十二岁，比伊森矮半个头；金色长发湿成一缕一缕，橄榄色工装外套、米白毛衣，颈侧一道浅红痕。
+Every named character appears exactly once.
+【承接画面】
+第一帧就从下面的状态开始，动作接着往下走：
+文森特：单膝跪在尽头灯那圈暖光里，背朝陆地端，左臂抱紧她，右手停在她后脑的湿发上，眼眶湿着。
+奥利维亚：跪坐在他怀里，额头抵着他胸口，肩膀一抽一抽，双手攥着他风衣的前襟。
+陆地端：很远的树后，雾里刚亮过第一下红、蓝的光。
+【戏的逻辑——高优先级】
+他不许她再道歉，活着就够了。光扫过来的时候，他第一个动作就是拉开风衣把女儿裹进去：父亲到最后都不让她看见身后的狼狈，只给她一片温暖的、安全的黑暗。最后的光停在他背上，进不到她那里。
+【人物与表演——高优先级】
+REAL AND VISIBLE: real people, a camera very close; the feeling shows plainly on the face and in the voice, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling breaking through, and it stays visible. The listener is always acting too, lips closed.
+文森特温柔而坚定：手掌护着她的后脑，声音低，一句比一句轻；光来的时候，他用身体做一堵墙。奥利维亚哭空了，呼吸一点点平下来，眼睛闭上。
+ENGLISH ONLY: every spoken word is in American English; background people make only wordless sounds (gasps, breath, grunts). This clip has one line, spoken once, word for word, by the person named; only the speaker's lips move; nobody says anything else.
+【机位与视线——最高优先级】
+机位始终在湖栏这一侧。文森特背朝陆地端，低头看怀里的女儿；奥利维亚的脸埋在他怀里。每一个眼神都落在戏里的人或东西上，单人镜头的视线擦着镜头边过去。
+【镜头语言——高优先级】
+每个镜头都是一台真实摄影机在现场拍下的完整竖幅画面，地平线是平的。镜头有呼吸：手持或稳定器带着随人物呼吸的细微浮动，每一镜有起点、有落点，快慢跟着情绪走，动作落定以后镜头也慢慢停稳，留半拍。景深分三层：前景虚（栏杆柱、衣角、湿发、肩膀），主体实，后景是化开的灯和湖面。构图用三分法和黄金比例，主体落在一侧三分线上，视线前方留出空间，人物关系靠前后纵深和站、跪、坐的姿态拉开。焦段有变化：广角给空间和冲势，标准镜给关系，长焦给情绪和压缩的灯。每个切点都由一个眼神、一句话或一个动作带出来，下一镜从上一镜停住的地方接着往下走。人物的视线落在戏里的对手身上，擦着镜头边过去。
+Every cut has a reason (a look, a line, a reaction, a movement); each shot opens exactly where the last one ended, and no line and no action restarts after a cut. The camera is always level and the right way up, gravity pulling down, heads above feet. Every shot is one continuous image of one real space, photographed through one lens.
+【本段变化】
+每一项变化只在发生的那一刻出现，然后保持：镜头2 起警灯扫到栈道上；镜头2 起风衣裹住奥利维亚；镜头3 起她闭着眼；镜头4 起光停在文森特的背上。
+【分镜】
+镜头1｜0–6s｜他抱紧她，柔声
+机位：近景 85mm｜朝陆地｜文森特面前、比他眼睛略低
+运镜：稳定器极慢地靠近，跟着两个人叠在一起的呼吸起伏，停住。
+构图：文森特的脸在左侧三分线，下巴贴着她的湿发，她的发顶在右侧三分线；身后很远，红蓝的光斑在雾里一明一暗。
+光影：两个人的脸都在尽头灯的暖光里，身后很远的红蓝在雾里化成一明一暗的圆斑，暖的始终压过冷的。
+0–0.6s：他把她搂得更紧，掌心护着她的后脑。
+0.6–5.4s：文森特贴着她的头发开口，眼睛垂下看着她，拇指在她发上慢慢移了一下；她在怀里轻轻点头。
+Emotion order, strong and plainly visible: aching for her → gentle → firm that she must stop blaming herself.
+Dialogue: 0.6–5.4s, Vincent, to Olivia, in American English, very soft and low, drawn out, a long hush first, then each phrase gentler than the last: {Shh. None of that. You're here, you're alive, that's all that matters.}
+5.4–6s：他的嘴唇贴上她的发顶，合上眼。
+落幅：他的嘴唇贴着她的发顶，眼睛合着。
+声音：湖风，她慢下来的呼吸。
+镜头2｜6–10s｜他把她裹进风衣里
+机位：中全景 35mm｜朝陆地｜横栏杆边、跪着的人的高度
+运镜：接着他合上的眼切开。手持微浮，光扫近时镜头缓缓向左移半步，停在他裹紧她的动作上。
+构图：两个人在右侧三分线的尽头灯暖光里；左侧是伸向陆地端的湿木板，红蓝的光一道一道推过来，远处暗里是队员压着两个人的虚影。
+光影：近处是稳稳的钠黄，左侧的湿木板被红、蓝一道一道扫亮又暗下去，光推到他的肩背为止，风衣里面是黑的。
+6–7.6s：陆地端的雾亮成一片红，又一片蓝，光顺着湿木板一道一道扫近，警笛近了；奥利维亚的头动了一下，要抬起来。
+7.6–10s：文森特没回头，左手拉开风衣的前襟，把她整个裹进去，右手轻轻把她的脸按回胸口，肩背一横，正好挡在她和那片光之间。
+落幅：风衣合拢，她整个在里面，他的背挡住了来光的那一边。
+声音：警笛由远到近，风衣展开又合上的声音。
+镜头3｜10–14s｜温暖的黑暗
+机位：特写 100mm｜朝集装箱｜背靠湖栏、她脸的高度
+运镜：接着合上的风衣切近。手持随她的呼吸极轻地起伏，越来越慢，停住。
+构图：她的侧脸在右侧三分线，贴着黑色羊毛；左侧边缘只有一点红蓝的虚光，碰不到她的脸，她脸上是尽头灯的暖。
+光影：她脸上只有尽头灯漏进来的一点暖，黑色羊毛的织纹贴着脸颊，左侧边缘的红蓝是虚的、慢的。
+10–12s：她的脸颊贴在他胸口，湿发黏在额角，睫毛颤着，听着他的呼吸，眼睛慢慢闭上。
+12–14s：她的呼吸一下比一下长，攥着前襟的手指一根一根松开，搭在那里。
+落幅：她的眼睛闭着，呼吸平了，手指松开搭着。
+声音：两个人的呼吸合到一起，警笛隔着衣服，变得很远。
+镜头4｜14–18s｜光停在他背上
+机位：大全景 35mm｜朝尽头｜文森特身后、高过人头的高度，斜着往下看栈道
+运镜：接着她松开的手切到身后。升降臂缓缓后退一步，越退越静，停住留一拍。
+构图：父亲的背影在左侧黄金分割点的那圈暖光里；湿木板的反光从近处一路引过去，黑的湖和对岸城市灯火在最深处。
+光影：红蓝的光从近处的湿木板一路推向深处，在他深色的背上停住；他身前那圈钠黄安安静静，湖和城市的灯火又小又软。
+14–16s：红蓝的光从镜头身后顺着湿木板推过去，一道接一道，爬到他跪着的脚跟。
+16–18s：光爬上他的风衣，停在他宽阔的背上；背的那一侧，他怀里的那圈暖光稳稳亮着。
+落幅：光停在他背上，暖的那一圈纹丝不动，留一拍。
+声音：警笛到了近处，湖风。
+【结束画面】
+文森特：单膝跪在尽头灯那圈暖光里，背朝陆地端，敞开的风衣把女儿整个裹住，右手护着她的后脑，肩背挡在她和陆地端之间。
+奥利维亚：跪坐在他怀里，脸埋在风衣里，眼睛闭着，呼吸平了。
+陆地端：红蓝的光顺着湿木板扫过来，停在文森特的背上。
+台词已经说完，所有人嘴唇合着。
+【声音】
+全程现场同期声：对白清楚地在最前面，后面是湖风、湿木板、衣料、呼吸，加上每一镜写明的动作声；远近分得清，近的清楚、远的被风吹散。无配乐，无字幕。
+Shot on 35mm Kodak Vision3 film with Cooke spherical primes, high-end live-action crime family drama, Chicago winter night, low-key motivated light from dock lamps and the cold lake, sodium warm against cold steel-blue with deep ink-blue blacks, halation, soft focus at the frame edges, fine film grain.

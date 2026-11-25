@@ -1,0 +1,55 @@
+== 场景：莫雷蒂豪宅餐厅，圣诞夜 ==
+时间: 又一年圣诞夜
+成片里: 屋里只有文森特和奥利维亚两人，其余餐椅空着
+材质: 胡桃木长桌泛着温润包浆，烤火鸡金黄冒热气，高脚水晶杯映着暖烛，米白文件封套系着正红丝带
+颜色句: 暗部压深、带一点墨蓝。
+风格锁: 真人实拍的当代芝加哥圣诞夜家庭剧情剧，原创故事，高端剧集的布景、服装、化妆与电影级布光：低调暖琥珀光与沉进墨蓝里的老钱豪宅房间，定制西装与柔和针织，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 500T 电影胶片拍摄，柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 28–35mm，中景 40–65mm，面部特写 85–100mm），1/8 黑柔焦滤镜，浅景深，柔和的圆形焦外，细腻的胶片颗粒。低调布光，大光比，光只来自画面里真实存在的灯：餐桌蜡烛、水晶吊灯、壁炉活火、边柜台灯与圣诞树暖白彩灯；一张脸一次只属于一种暖琥珀光，眼睛里始终有真实的眼神光；黑位深而干净、带一点墨蓝，暗部仍有细节，饱和度克制，肤色真实。冬夜的空气看得见：炉火前的浮尘、烛火的薄烟、玻璃墙外静静飘落的细雪。真实材质：深棕精纺羊毛西装的织纹、砖红罗纹针织裙的细密针脚、胡桃木长桌的温润包浆、银质雕花刀叉上的细划痕、高脚水晶杯与红酒里的微光、烤火鸡金黄酥脆的纹理、米白厚卡纸与正红丝带的质感。真实活人皮肤：毛孔、细纹、眼尾笑纹、鬓角少量灰发与碎发、自然的鼻翼微光与真实妆面，中年人的脸有中年人的纹路，不做美颜。负面提示词：CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、眼睛陷在黑里、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、文字、水印、LOGO。
+光源: In the dining room, light comes only from the crystal chandelier over the table, the tall taper candles along the table, the living fire in the stone fireplace, the warm table lamp on the sideboard and the warm-white lights of the single Christmas tree by the glass wall; beyond the intact glass wall is the snowy night. The warm light is amber and low: it wraps one side of a face warmly and lets the room beyond fall softly into ink-blue shadow. Each candle flame is small and alive, flickering gently in the warm room. The fireplace holds a low living orange fire casting soft shifting warmth across the far stone hearth. Whatever the light, the blacks stay deep, clean and faintly ink-blue, holding detail in hair and dark wool; every face keeps a clear catchlight in each eye from a real practical light.
+空气: thin candle smoke and fine dust drift before the hearth
+前景: the soft edge of a burning candle flame, a crystal glass or a seated shoulder down one side of the frame
+高光: candle
+总览图: @餐厅完好_总览
+总览: 一条深色胡桃木长餐桌纵向摆在餐厅中央，铺着波斯地毯，桌中央摆着一整只金黄烤火鸡、白瓷餐盘、银质雕花刀叉、细长白色蜡烛与高脚水晶红酒杯。长桌一头是雕花石砌壁炉和正上方的华丽水晶大吊灯（称壁炉端），另一头是深木双开门（称门口端）。面向壁炉看时：左侧是一整面完好无损的黑框落地玻璃墙（墙角靠门口端立着唯一一棵挂暖白金红彩灯的圣诞树，窗外深蓝夜空静静飘雪），右侧是深木餐边柜、柜上一盏暖黄布罩台灯与虚化旧木相框。
+地标: 长桌 长餐桌 壁炉 玻璃墙 边柜 圣诞树
+前景层: 燃烧白烛、高脚水晶杯、坐姿肩膀
+后景层: 柔化成圆斑的暖灯、壁炉火光与窗外飘雪
+焦段: 28–35mm 交代豪宅对称纵深与双人圆满，40–50mm 拍过肩互动与桌面手部，85–100mm 拍眼尾细纹与含泪微光
+结尾: Shot on 35mm Kodak Vision3 film with Cooke spherical primes, high-end live-action original family drama, Chicago on Christmas Eve, low-key motivated light from chandelier, candles, hearth fire and winter glass, warm amber against deep ink-blue shadows, gentle halation, soft focus at the frame edges, fine film grain.
+-- 方向1：朝壁炉 --
+背景: 尽头是燃火雕花石壁炉与正上方水晶大吊灯，画面左侧是完好黑框落地玻璃墙与墙角亮灯圣诞树，右侧是深木餐边柜与暖黄台灯
+光: 水晶吊灯与桌面烛火给出柔和暖琥珀主光，壁炉暖火在深处勾出柔和轮廓
+依据: 平台总览图的正面格和俯视格
+-- 方向2：朝边柜 --
+背景: 机位在餐桌靠玻璃墙一侧斜朝壁炉与边柜交角；画面右侧是深木餐边柜、暖黄布罩台灯与虚化旧木相框，左侧深处带出雕花壁炉一角暖火
+光: 水晶吊灯与桌面烛火从画面左侧给出柔和明亮的暖琥珀主光，右侧暖台灯化作柔和暖色光点
+依据: 平台总览图的正面格和俯视格
+-- 方向3：朝玻璃墙 --
+背景: 机位在餐桌靠边柜一侧斜朝玻璃墙与壁炉交角；画面左侧近处墙角是挂暖白金红彩灯的圣诞树，正面是整面完好黑框落地玻璃墙与窗外深蓝飘雪夜，右侧深处带出雕花壁炉一角暖火
+光: 桌面烛火与水晶吊灯从画面右侧给出柔和明亮的暖琥珀主光，窗外深蓝夜色只留在玻璃之外的远景里
+依据: 平台总览图的正面格和俯视格
+
+== 场景：莫雷蒂豪宅窗外庭院，圣诞雪夜 ==
+时间: 同一圣诞雪夜
+成片里: 室外庭院空无一人，没有车辆和路人
+材质: 厚雪覆顶的砖石屋檐，挂雪的枯枝，通透的黑框落地窗，窗里透出暖琥珀光
+颜色句: 暗部压深、带一点墨蓝。
+风格锁: 真人实拍的当代芝加哥圣诞雪夜家庭剧情剧，原创故事，高端剧集的建筑外景与电影级夜景布光：深蓝飘雪冬夜里透出暖琥珀光的老钱红褐砖石豪宅，挂暖白小彩灯的积雪屋檐与远处芝加哥万家灯火，每一帧都是一张高级电影剧照。35mm 柯达 Vision3 500T 电影胶片拍摄，柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 28–35mm，远景 35–50mm），1/8 黑柔焦滤镜，浅景深与柔和圆形光斑，细腻的胶片颗粒。低调布光，大光比，光只来自画面里真实存在的灯：餐厅落地玻璃窗溢出的暖琥珀光、屋檐与庭院矮柱的暖白圣诞小彩灯、远处芝加哥城市天际线的万家暖金灯火；黑位深而干净、带一点墨蓝，暗部仍有建筑砖石与积雪纹理，饱和度克制。真实材质：覆雪青石板步道、红褐砖墙上的细雪、挂雪枯树枝桠、黑框落地玻璃窗、厚雪覆顶的斜屋檐、飘落在冬夜里的不均匀真实雪花。负面提示词：CGI 渲染感、游戏引擎感、AI 感、过饱和糖水色、圣诞贺卡红绿配色、童话魔法闪光、HDR 过度处理感、过度锐化的数码感、廉价微缩模型感、模糊低清、文字、水印、LOGO。
+光源: Outside on the snowy Chicago Christmas night, light comes only from the rich warm amber glow pouring through the intact dining room glass windows, the warm-white Christmas string lights along the snow-dusted eaves and low courtyard bollards, and the distant sparkling Chicago skyline. Snow falls in real flakes of uneven size, slow and slightly slanted; flakes near the lens soften into gentle blurs, catching the warm window spill and fading against the deep ink-blue night sky. The warm window glow spills across the snow-covered flagstone courtyard and frosted shrubbery just outside the glass, falling off softly into the deep winter blue beyond. Blacks stay deep, clean and faintly ink-blue, holding brick, wet stone, bare winter branches and fresh snow texture.
+空气: drifting snowflakes of uneven size catch the amber window glow at different depths
+前景: snow-laden bare branches and the snow-covered eaves
+高光: window and eaves light
+总览图: @豪宅窗外_总览
+总览: 近处是覆雪青石板庭院、积雪灌木、矮柱暖灯与右侧一棵挂满白雪的枯树；院内正中是一整面通透明亮的黑框餐厅落地玻璃窗，透过清澈玻璃隐约可见温暖琥珀光里的水晶大吊灯、左侧亮灯圣诞树、右侧燃火壁炉与隔着烛光长桌相视而笑的父女剪影；落地窗之上是厚雪覆顶的砖石屋檐，挂着一排温暖细小的圣诞彩灯；越过屋檐向远处铺开深蓝飘雪夜空中的芝加哥城市天际线与远处双尖塔轮廓。
+地标: 落地 屋檐 枯树 庭院 天际线 露台
+前景层: 飘过近处的虚焦雪花、挂雪枯枝
+后景层: 远处的城市灯火
+焦段: 35–50mm 的远景和全景，一级一级拉开
+结尾: Shot on 35mm Kodak Vision3 film with Cooke spherical primes, high-end live-action original family drama, Chicago snowy Christmas night exterior, warm amber window spill and snow-dusted eaves lights against deep ink-blue winter skyline, real falling snow, gentle halation, soft focus at the frame edges, fine film grain.
+-- 方向1：朝暖窗 --
+背景: 前景是覆雪青石板步道、积雪灌木与右侧挂雪枯树枝桠，画面中央是通透明亮的餐厅暖琥珀落地玻璃窗（隐约透出室内水晶吊灯、圣诞树、壁炉与父女温暖剪影），上方屋檐挂着暖白小彩灯，细雪在暖窗溢出的金光里缓缓飘落。
+光: 暖窗的琥珀光从窗口溢出，远处城灯是冷夜里的小光点
+依据: 平台总览图的正面格
+-- 方向2：朝城景 --
+背景: 前景是厚雪覆顶的砖石斜屋檐、一排暖白圣诞小彩灯与一角发亮的餐厅暖窗，远处辽阔展开深蓝飘雪夜空中的芝加哥万家灯火与双尖塔轮廓，细雪如细腻星尘飘过。
+光: 暖窗的琥珀光从窗口溢出，远处城灯是冷夜里的小光点
+依据: 平台总览图的正面格

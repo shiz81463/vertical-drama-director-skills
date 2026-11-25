@@ -1,0 +1,39 @@
+{
+  "name": "系统解锁提示音",
+  "len": 1.6,
+  "layers": [
+    {
+      "at": 0,
+      "gain": 0.8,
+      "set": {
+        "a_osc_1_type": "Sine",
+        "a_osc_2_mute": false,
+        "a_osc_2_type": "Sine",
+        "a_osc_2_octave": "2",
+        "a_osc_2_volume": "-14 dB",
+        "a_amp_eg_attack": "1 ms",
+        "a_amp_eg_decay": "650 ms",
+        "a_amp_eg_sustain": "0 %",
+        "a_amp_eg_release": "300 ms"
+      },
+      "notes": [[0, 0.09, 81, 110], [0.11, 0.09, 85, 112], [0.22, 0.5, 88, 120]]
+    },
+    {
+      "at": 0,
+      "gain": 0.16,
+      "len": 0.5,
+      "set": {
+        "a_osc_1_mute": true,
+        "a_noise_mute": false,
+        "a_filter_1_type": "BP 12 dB",
+        "a_filter_1_resonance": "20 %",
+        "a_amp_eg_attack": "120 ms",
+        "a_amp_eg_decay": "200 ms",
+        "a_amp_eg_sustain": "0 %"
+      },
+      "notes": [[0, 0.3, 60, 100]],
+      "sweep": {"a_filter_1_cutoff": [[0, "900 Hz"], [0.3, "7000 Hz"]]}
+    }
+  ],
+  "fx": {"highpass": 180, "reverb": 0.45}
+}

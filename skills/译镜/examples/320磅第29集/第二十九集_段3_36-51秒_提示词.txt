@@ -1,0 +1,78 @@
+【第29集·段3】
+【全局视觉风格】
+Netflix 顶级美剧的真人实拍质感，当代美国豪门都市爱情剧，高预算剧集的布景、服装、化妆与电影级布光：《摘金奇缘》式豪门盛宴的金色华光，《绯闻女孩》式上流名利场的锋利光泽，顶级珠宝与香水广告级的皮肤和高光质感，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 电影胶片拍摄（日景 250D，夜景 500T），柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 35mm，中景 50mm，面部特写 85mm），1/8 黑柔焦滤镜，浅景深，奶油般柔和的圆形焦外，细腻的胶片颗粒。色彩以暖香槟金与深青蓝的冷暖对比为骨架，象牙白与祖母绿点缀，肤色温暖、红润、通透，饱和度浓郁而克制。真实材质：真丝缎面流动的长高光与被身体撑紧的褶皱，亮片、水晶与珠宝切面的细碎火彩，定制羊毛西装的织纹，抛光石材和玻璃里的倒影，香槟里一串串上升的气泡，烫金纸面的压凹纹路。真实活人皮肤：毛孔、细小绒毛、碎发、雀斑，鼻翼和额头一点自然的油润光泽，逆光时耳廓微微透红，自然妆面；身材与体态完全照参考图，丰满的身体有真实的重量，布料被真实地撑起和垂坠，不做美颜瘦身。负面提示词：动漫、二次元、卡通、插画、CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、网红滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、古装、奇幻魔法光效、文字、水印、LOGO。
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：白裙垂坠干净，羊绒披肩熨得平整，珠宝在灯泡下闪碎光；所有东西都笼在同一种暖香槟金色的光里，肤色暖而通透，暗部压深、带一点干净的深青蓝。
+【实拍光影规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+Every light lights the faces near it, the light falling off into deep darkness. Nothing glows without lighting the world around it. Backstage, light comes only from the warm round bulbs framing the vanity mirrors, small brass lamps on the jewelry table, a few dim warm work lights overhead and one thin cool line of stage light at the gap in the drapes. Every face is lit the way a lead is lit in a high-end drama: a large, soft key from a light that is really in the scene, the shadow side of the face falling away cleanly into shade, a thin edge of light along the hair and shoulders that lifts the person off the background, and a clear catchlight in each eye. The eye always goes to the faces first: they are the most carefully lit thing in the frame, the background falls away behind them into soft focus, and the blacks are deep and clean yet still hold detail.
+FACING 1 (toward the stage drapes): the warm vanity bulbs along the left wall light every face from screen-LEFT, soft and even, the bulbs themselves glowing along the left edge of the frame; the far end falls into darkness except one thin cool blue-white line of stage light at the gap in the drapes.
+FACING 2 (toward the fitting rooms): the warm vanity bulbs light every face from screen-RIGHT, soft and even, only a few bulbs at the right edge of the frame; the ivory curtains behind glow softly under two small warm spotlights.
+Air: a faint haze of face powder and hairspray hangs in the bulb light; shoot through the soft edge of a garment rack down one side of the frame so that everything feels photographed in one real space.
+Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; the bulb highlights roll off into a soft, creamy bloom while the shadows sink into a deep, clean teal-blue darkness.
+Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+发布会后台 @后台_总览 ：外形照参考图，不采用参考图的光线和CG质感；下面几张是同一个地方朝不同方向看的样子，成片里就是这一个地方。一头是两个试衣间，另一头是通往 T 台的黑色幕布；化妆镜只有一排，在一面长墙上，衣架和珠宝桌在对面那面长墙。约十二米长、七米宽，屋顶比人高一倍多。参考图里没有人：成片里只有下面写到的人。
+方向1背景 @后台_1朝舞台口 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向1（朝舞台口）的镜头，背景就是图里这一头：左边一排灯泡化妆镜，右边衣架和墨绿珠宝桌，尽头黑幕布中间一道冷蓝的缝。图里没有人。化妆镜比人高一点。
+方向2背景 @后台_2朝试衣间 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向2（朝试衣间）的镜头，背景就是图里这一头：两道象牙色丝绒帘、中间一面全身镜、一瓶白玫瑰，右边沿露出最后几盏化妆镜灯泡。图里没有人。帘子比人高一个头。
+温蒂 @Wendy ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个温蒂，别人都不长她的样子、不穿她的衣服。第 29 集是减重以后的她，体型照参考图；比伊森矮一个头；穿一条简约的白色长裙。头发别在一侧耳后。这一段开场：站着，在试衣间口外一步，手里没有东西。
+伊森 @Ethan ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个伊森，别人都不长他的样子、不穿他的衣服。比温蒂高一个头；一身定制深色西装。刚给轮椅模特扣好项链，镜3 站起来。这一段开场：蹲着，在最后一个衣架旁的角落，一只胳膊挎着那摞白披肩。
+珍妮 @Jenny ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个珍妮。比温蒂矮一点；一只手攥着平板和一杯冰美式。镜1 凑到温蒂耳边。
+轮椅模特 @轮椅模特 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个，坐在轮椅上的年轻姑娘。坐着时比站着的伊森矮一大截；戴着这一系列的珠宝。在角落，镜3 在伊森身后虚着。
+【场景：发布会后台，夜】
+发布会后台照参考图。发布会当晚，整段在这一个地方，不换地点。
+地图：一头是两个试衣间，另一头是通往 T 台的黑色幕布；站在试衣间口往幕布看，左边一整排灯泡化妆镜，右边是衣架和珠宝桌。
+站位：温蒂和走到她身边说话的人在试衣间口外一步，身后永远是方向2（试衣间）；伊森站着时身后永远是方向1（过道深处和幕布），蹲在角落时身后是方向3（衣架）。
+不入画：镜头不对着化妆镜拍，镜子里不出现镜头和人的倒影；画面里没有字、牌子、屏幕。
+【人物与表演——高优先级】
+SMALL AND TRUE: real people, a camera very close; two to four small physical signals at a time, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling leaking out, then control. The listener is always acting too, lips closed.
+Wendy (温蒂): composed; it leaks from the corners of her mouth and from her ears, which slowly warm.
+Jenny (珍妮): quick and bright, one notch bigger than everyone else, enjoying every second of this.
+Ethan (伊森): earnest; when he catches her looking, he stops for a heartbeat, then a boyish smile takes over his face.
+Every named character appears exactly once.
+ENGLISH ONLY: every spoken word is in American English, never Chinese; background people make only wordless sounds (gasps, breath, laughter, applause). This segment has only these two lines, each spoken once, word for word, by the person named; only the speaker's lips move; nobody says anything else.
+【空间与视线——最高优先级】
+SPACE: Wendy stands one step outside the fitting room; Jenny leans in at her shoulder, half a step behind her; Ethan, at the far end of the aisle beside the last garment rack, stands up from a crouch and turns toward the fitting rooms, about six paces from her. 180-degree rule: Wendy is always nearer the lens with Jenny half a step behind her shoulder, both standing on the same floor; Ethan is always seen with the aisle and the drapes behind him; the camera never crosses the line between Wendy and Ethan.
+EYELINES: Wendy looks screen-RIGHT just beside the lens toward Ethan; Jenny looks screen-LEFT and down at Wendy; Ethan looks screen-LEFT just beside the lens toward Wendy. In singles each eyeline passes just beside the lens. Every look has a target in the scene.
+【戏的逻辑——高优先级】
+SCENE LOGIC: Jenny can see what Wendy will not admit, and teases her for it. Wendy denies it with her words while her face gives her away; when Ethan catches her looking, she is the one who looks away first.
+【镜头衔接——高优先级】
+FOUR SHOTS, hard cuts only at 6, 9 and 12 s. Every cut has a reason (a look, a line, a reaction, a movement); each shot opens exactly where the last one ended, and no line and no action restarts after a cut.
+TALL FRAME: the frame is tall and narrow. People share it in depth, never spread across its width; people standing on the same floor keep their real heights, the nearer one larger. Faces stay in the upper two thirds of the frame; anyone who comes or goes moves toward or away from the lens.
+UPRIGHT: the camera is always level and the right way up: floor at the bottom, gravity pulling down, heads above feet.
+ONE IMAGE: every shot is one continuous image of one real space through one lens: no split screen, no panels, no picture in picture, no double exposure.
+SHOT AND REVERSE SHOT: Wendy with the fitting-room curtains behind her, Ethan with the aisle and the drapes behind him, both singles at the same size, meeting eye to eye at the end.
+CAMERA FEELS: the camera moves only when a feeling changes, eases in as someone gives themselves away, and holds still while a feeling is held in; it never zooms and never cuts away before a reaction lands.
+【本段状态】
+STATE: Each change appears only at the moment it happens, then stays: from shot 1 Jenny is at Wendy's shoulder; from shot 3 Ethan is standing; from shot 4 Wendy's ear is pink.
+镜头1｜0–6s｜珍妮凑过来拆穿
+[中近景 50mm, 方向2（朝试衣间），温蒂斜前方约两米、肩高；两人站在同一地面、拍到胸口以上，温蒂离镜头近，珍妮在她身后半步，比她矮一点；背景是帘子和全身镜]
+运镜：固定（悄悄话）
+0–0.8s: Wendy stands nearest the lens, seen from the chest up, eyes screen-RIGHT; Jenny leans in at her shoulder from screen-RIGHT, a little shorter than her, tablet and iced coffee in one hand, brows up.
+0.8–6s: Jenny speaks into her ear; Wendy keeps watching screen-RIGHT, lips closed, eyes not moving.
+Dialogue: 0.8–6s, Jenny, to Wendy, in American English, fast and low, close to her ear, teasing: {Girl, if I didn't know better, I'd say he's actually in love.}
+Sound: Ice shifting in her cup.
+镜头2｜6–9s｜嘴硬，嘴角却翘了
+[近景 85mm, 方向2（朝试衣间），温蒂面前约一米、眼高；脸撑满画面宽、在画面上半；身后是虚掉的帘子]
+运镜：固定（嘴和嘴角都要看见）
+6–6.5s: Cut on the line, Wendy does not turn to Jenny; her eyes stay screen-RIGHT just beside the lens.
+6.5–8.6s: Wendy speaks; everyone else keeps their lips closed.
+Dialogue: 6.5–8.6s, Wendy, to Jenny, in American English, flat and quiet, refusing the bait: {He's just doing his job.}
+8.6–9s: Her lips close, and one corner of her mouth curls up on its own.
+Sound: Her breath.
+镜头3｜9–12s｜他站起来，撞上她的眼
+[近景 85mm, 方向1（朝舞台口），过道里、伊森面前约一米半、眼高；脸在画面上半；身后是虚掉的过道、衣架和幕布那道冷蓝的缝]
+运镜：固定（愣和笑都在一张脸上）
+9–10.5s: Cut on the look, Ethan rises from his crouch and turns; his eyes land screen-LEFT just beside the lens, right on her, and he stops for a heartbeat, lips parted.
+10.5–12s: Then a wide, boyish smile reaches his eyes; his hand drifts up toward his tie and stops halfway.
+Sound: His knees cracking as he stands.
+镜头4｜12–15s｜她别开眼，耳根红了
+[近景 85mm, 方向2（朝试衣间），温蒂面前约一米、眼高；脸撑满画面宽、在画面上半；身后是虚掉的帘子]
+运镜：固定（让耳朵的红留在画面里）
+12–13s: Cut on the look, Wendy's eyes meet his, then drop away screen-LEFT and down at once.
+13–15s: She presses her lips together against a smile; behind the hair tucked over one ear, the ear slowly turns pink.
+Sound: A soft breath out.
+【结束状态】
+END STATE: the last frame is the end of shot 4: Wendy in close-up, eyes down and away at screen-LEFT, lips pressed on a smile, one ear pink; every line has been spoken and all lips are closed; the show lights have not gone down yet.
+严禁字幕，画面中不出现任何文字。
+全片实速，不要慢镜头。
+不生成BGM：不要音乐、配乐、旋律，只保留对白、呼吸声、衣架挂钩和远处的脚步声和动作的声音。

@@ -1,0 +1,82 @@
+【第0集·段1】
+【全局视觉风格】
+Netflix 顶级美剧的真人实拍质感，当代美国豪门都市爱情剧，高预算剧集的布景、服装、化妆与电影级布光：《摘金奇缘》式豪门盛宴的金色华光，《绯闻女孩》式上流名利场的锋利光泽，顶级珠宝与香水广告级的皮肤和高光质感，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 电影胶片拍摄（日景 250D，夜景 500T），柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 35mm，中景 50mm，面部特写 85mm），1/8 黑柔焦滤镜，浅景深，奶油般柔和的圆形焦外，细腻的胶片颗粒。色彩以暖香槟金与深青蓝的冷暖对比为骨架，象牙白与祖母绿点缀，肤色温暖、红润、通透，饱和度浓郁而克制。真实材质：真丝缎面流动的长高光与被身体撑紧的褶皱，亮片、水晶与珠宝切面的细碎火彩，定制羊毛西装的织纹，抛光石材和玻璃里的倒影，香槟里一串串上升的气泡，烫金纸面的压凹纹路。真实活人皮肤：毛孔、细小绒毛、碎发、雀斑，鼻翼和额头一点自然的油润光泽，逆光时耳廓微微透红，自然妆面；身材与体态完全照参考图，丰满的身体有真实的重量，布料被真实地撑起和垂坠，不做美颜瘦身。负面提示词：动漫、二次元、卡通、插画、CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、网红滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、古装、奇幻魔法光效、文字、水印、LOGO。
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：粗布衣服磨得发白，木桌木柱有刀痕，刀剑是磨亮的冷铁；所有东西都笼在同一种暖香槟金色的光里，肤色暖而通透，暗部压深、带一点干净的深青蓝。
+【实拍特效规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+1. The hall is dim between the lamps. Light comes only from the oil lamps on the tables and the lanterns on the far wall. Every flame and spark lights its surroundings with an uneven flicker: faces, skin, steel, dust and the air itself, the light falling off into deep darkness. Nothing glows without lighting the world around it. Every face is lit the way a lead is lit in a high-end drama: a large, soft key from a light that is really in the scene, the shadow side of the face falling away cleanly into shade, a thin edge of light along the hair and shoulders that lifts the person off the background, and a clear catchlight in each eye. The eye always goes to the faces first: they are the most carefully lit thing in the frame, the background falls away behind them into soft focus, and the blacks are deep and clean yet still hold detail.
+FACING 1 (toward the far wall): the oil lamps light every face from screen-LEFT, warm and uneven; the lanterns on the far wall glow small in the depth; no bare flame is close to the lens.
+FACING 2 (toward the door and the overturned table): the oil lamps light every face from screen-RIGHT, warm and uneven; the door behind stays dark.
+2. Matter in the air: lamp smoke and dust hang in the lamplight the whole time; every fast move throws them up, and every impact throws a burst of dust along with whatever it breaks loose. Dust drifts between the camera and the fighters, some of it right across the lens. Shoot through foreground layers (the edge of a pillar down one side of the frame) so that everything feels photographed in one real space.
+3. Air: when a body or a blade moves fast, a visible push of air goes ahead of it, scattering the dust and bending the lamp flames; hair and cloth are pressed flat before the blow lands: the air arrives before the blow.
+4. Each kind of contact has its own effect. Sparks come only where metal strikes metal: a short burst of separate sparks of uneven size that fly apart in arcs under gravity, cool from white to orange to dull red and die on the floorboards. A blow to the body knocks a burst of sweat and dust out of the cloth. A blade in wood throws splinters.
+5. The saber and sword slashes: plain worn steel. Every swing tears through the lamp smoke along its arc and leaves a broad smear of it filling the whole area the blade sweeps, dense at the leading edge, gone within a third of a second; never a thin line.
+6. Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; the lamp highlights roll off into a soft, creamy bloom while the shadows sink into a deep, clean teal-blue darkness.
+7. Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+客栈大堂 @客栈_总览 ：外形照参考图，不采用参考图的光线和CG质感；下面几张是同一个地方朝不同方向看的样子，成片里就是这一个地方。一头是大门和一张倒下的桌子，另一头是挂灯笼的远墙和墙边一排桌子；中间一段空地，两边各一排木柱。约十二米长，屋顶比人高一倍。参考图里没有人：成片里只有下面写到的人。
+方向1背景 @客栈_1朝远墙 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向1（朝远墙）的镜头，背景就是图里这一头：尽头是挂灯笼的远墙和墙边一排桌子，中间一段空地，右边一排木柱。图里没有人。木柱比人高一倍。
+方向2背景 @客栈_2朝大门 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向2（朝大门）的镜头，背景就是图里这一头：尽头是关着的大门，门前一张倒下的桌子，两边木柱。图里没有人。倒下的桌子比人的腰矮一点。
+剑客 @剑客 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个剑客，别人都不长他的样子、不穿他的衣服。中等个子，比山匪矮一个头；一身深色布衣。右手一把直剑。这一段开场：站着，在倒下的桌子前，右手一把直剑。
+山匪 @山匪 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个山匪。比剑客高一个头，壮；长刀比他的手臂还长。右手一把长刀；镜3 起刀卡在柱子里。这一段开场：站着，在剑客面前两步，右手一把长刀。
+【场景：客栈大堂，夜】
+客栈大堂照参考图。深夜，客人都跑光了，整段在这一个地方，不换地点。
+地图：一头是大门和倒下的桌子，另一头是挂灯笼的远墙和墙边的桌子；中间是空地，两边是木柱。
+站位：剑客身后永远是方向2（大门和倒下的桌子）；山匪身后永远是方向1（远墙）。
+不入画：画面里没有字、牌匾、别的人。
+【打斗——最高优先级】
+ENGLISH ONLY: every spoken word is in American English, never Chinese; background people make only wordless sounds (gasps, breath, grunts).
+TONE: fierce and fast from the first frame, everything at real speed; hit-stops last only a few frames and snap back to full speed.
+FIGHT LOGIC: The bandit's long saber needs two paces; the swordsman's straight sword only works inside one. The swordsman must get inside the saber's reach; only a blow to the ribs counts. Each move is forced by the last: the table blocks his retreat, the overswung saber opens the ribs, the saber stuck in the pillar leaves the bandit unguarded.
+Every named character appears exactly once, and no extra looks like any of them.
+EVERY EXCHANGE is complete: intent, attack, dodge or block, impact, body reaction, loss of balance, change of position, next move; the momentum of one move starts the next. No pause lasts longer than half a second. Weapon contact lasts 2 to 4 frames, then they part.
+REAL HIT REACTIONS, VIOLENT, each heavier than the last: first the final acceleration, robes and hair dragged back, air pressed ahead of the blow; then the contact, 2 to 4 frames of hit-stop, then sweat and dust blasting outward and the camera knocked hard; then the transfer of force: the point of contact moves first, the body folds around it, the head whips after it; the bandit is hurled far, away from whoever hit them, crashing through a table. The face of whoever is hit shows the pain. Nobody recovers instantly.
+FACES: Swordsman (剑客): calm and exact; his eyes read the blade before he moves. Bandit (山匪): loud and sure of his reach; it shows in his wide swings. Before every big move a held breath and a set jaw; whoever is hit shows it in three beats: the breath knocked out, the pain on the face, then pushing through or going down; fear keeps the eyes on the threat. Effort and pain make only wordless sounds: grunts and breath.
+【镜头衔接——高优先级】
+FOUR SHOTS, hard cuts only at 3, 5 and 8 s. Every cut is matched on action: each shot opens by continuing the exact movement the last shot ended on, in the same direction, in the same place and light; no action restarts after a cut. 180-degree rule: the swordsman is always on the LEFT, the bandit on the RIGHT; the bandit attacks toward the lens, the swordsman attacks into the depth of the hall; anyone who is hit flies away from whoever hit them. Never cross the axis. Every shot is a new moment from a new angle; nothing is shown twice.
+TALL FRAME: the frame is tall and narrow. The two fighters are not spread across its width: when both are in frame, both stand on the same floor at their real heights, the nearer one larger, or one is above the other. Faces and every point of contact stay in the upper two thirds of the frame. Movement that must be read, a rush, a throw, a fall, runs along the length of the frame, toward or away from the lens or down its height, rather than across its narrow width.
+UPRIGHT: the camera is always level and the right way up: the floor at the bottom of the frame, gravity pulling down, heads above feet, even while the camera is knocked and tumbles.
+ONE IMAGE: every shot is one continuous image of one real space through one lens: no split screen, no panels, no picture in picture, no double exposure.
+VISUAL TENSION: the camera never holds still for more than half a second and never lingers on a face: it moves with the action, rushes in physically, never zooming, whips to each new threat a beat late, is knocked by every blow and tumbles with whoever is thrown.
+SPEED IS RELATIVE: when the camera follows a fighter, it keeps pace with them, so they stay sharp while the world tears past: whatever is within a few meters, pillars, lamp flames and flying splinters, flashes past in two or three frames as streaks; the far wall and its lanterns smears along the line of movement; the far background barely moves. The camera only just keeps up: on every turn it lags, overshoots and catches up. Speed leaves traces: the wake of each rush tears the lamp smoke into curls.
+【本段战损】
+BATTLE DAMAGE: at the start nobody is hurt. Each wound appears only at the moment it is dealt, then stays to the end: from shot 3 the bandit's saber is stuck in the pillar and his ribs are hurt.
+镜头1｜0–3s｜两刀把他逼到桌角
+[全景 24mm, 方向1（朝远墙），剑客右肩后、腰高；剑客的肩背在左下，山匪在深处右上，两人从头到脚都在画面里]
+运镜：贴着两人往后退 → 第二刀撞上时被震一下（因为山匪一路压过来）
+0–0.7s: Already mid-fight. The bandit is two paces from the swordsman, the overturned table right behind the swordsman. ATTACK: the bandit's long saber sweeps flat at waist height, the air ahead of it flattening the swordsman's robe.
+0.7–1.5s: DODGE: the swordsman's eyes catch it first; head, hips and shoulders pull back one step in that order, sleeve trailing, and the blade passes a hand's width from his belt.
+1.5–2.2s: ATTACK: the bandit swings straight back the other way, heavier.
+2.2–3s: DEFENSE: back against the table edge, no room left, the swordsman snaps his sword upright into the saber's path: one blink of contact, a deafening clang, sparks across the lens, the frame jolting, and the blades spring apart.
+Practical effects: The sparks light both faces for one blink.
+Sound: A deafening clang that rattles the cups.
+镜头2｜3–5s｜手麻了，他看见空当
+[近景 85mm, 方向2（朝大门），剑客斜前方一米半、眼高；剑客的脸在画面上半，山匪的肩和刀在右下角一闪]
+运镜：被那一下撞得一震 → 跟着他钻进去（因为他找到了空当）
+3–3.8s: Matched on action, REAL HIT REACTION: the shock runs up the swordsman's sword arm, his elbow buckling, his back driven into the table edge, dust jumping off the wood; his teeth set.
+3.8–4.3s: The bandit's saber has swung far past, his shoulder turning back for a third cut, his ribs wide open.
+4.3–5s: COUNTERATTACK: the swordsman drops under the returning blade and drives one step inside its reach, his pommel cracking into the bandit's sword wrist.
+Practical effects: Dust from the table hangs in the lamplight.
+Sound: A sharp crack of bone on brass.
+镜头3｜5–8s｜贴身一剑，把他打飞
+[中景 50mm, 方向1（朝远墙），两人侧前方两米、胸高；两个上半身一前一后叠着，柱子在画面右边]
+运镜：贴身跟着 → 跟着被打飞的人甩过去（因为这一下最重）
+5–5.8s: Matched on action, REAL HIT REACTION, heavier: the bandit's wrist goes dead, his fingers springing half open; the saber veers wide and bites deep into a pillar, splinters flying.
+5.8–6.7s: ATTACK: the swordsman turns with the same step, robe and hair dragged back, and whips the flat of his blade at the open ribs, the air pressed ahead of it denting the bandit's coat.
+6.7–8s: REAL HIT REACTION, the heaviest: one blink of contact, a dull crack, sweat and dust blasting out of the cloth, the camera knocked hard; the ribs go first, the body folds around the blade, the head whips after it, and the bandit is hurled away from the swordsman, up the length of the frame into the depth of the hall.
+Practical effects: Splinters and dust burst into the lamplight.
+Sound: A dull crack, then the whole hall shaking.
+镜头4｜8–12s｜他飞了多远
+[全景 24mm, 方向1（朝远墙），楼梯拐角的平台上、斜着往下看整个大堂；剑客在画面下方，远墙边的桌子在上方]
+运镜：站在高处 → 桌子碎开时被震一下（因为要看清他飞了多远）
+8–9.5s: Matched on action, seen from the stair landing, the bandit flies the length of the hall, from the swordsman low in the frame to a table by the far wall near the top, and crashes through it, splinters and dust bursting up.
+9.5–11s: In the wreck of the table the bandit's face twists in pain, teeth bared, one hand clamped to his ribs; the bandit does not get up.
+11–12s: The swordsman stands low in the frame, sword raised, breathing hard, the whole empty floor between them.
+Practical effects: The hanging lanterns swing from the crash.
+Sound: Wood splitting, then one long ragged breath.
+【结束状态】
+END STATE: the last frame is the end of shot 4, still moving: the bandit lies in the wreck of the far table clutching his ribs; the swordsman stands by the overturned table, sword raised; the bandit has not got up.
+严禁字幕，画面中不出现任何文字。
+全片实速，不要慢镜头。
+不生成BGM：不要音乐、配乐、旋律，只保留灯火声和脚步声、金属声、打斗音效、发力声和环境声。
+Practical in-camera effects only: real dust, splinters and sweat. No glowing energy, no light beams, no particle-system effects, no radial zoom blur, no drawn speed lines, no video-game effects.

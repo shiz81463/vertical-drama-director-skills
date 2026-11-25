@@ -1,0 +1,62 @@
+# 第 29 集 段 8
+段: 8
+戏种: 文戏
+场景: 发布会T台，夜
+环境声: 掌声和高跟鞋踩 T 台
+
+人: Ethan | 一直在鼓掌。
+人: Reporter |
+人: Guests | 站在第一排和后排鼓掌。
+人: PlusModel | 镜2 在谢幕的队伍里。
+人: SilverModel | 镜2 在谢幕的队伍里。
+人: ChairModel | 镜2 在谢幕的队伍里。
+人: Models | 镜2 穿着压轴款一个接一个走出来谢幕。
+人: Wendy |
+# 连续性账本：姿态 | 位置 | 手里的东西。上一段的收场要等于这一段的开场。
+开场: Ethan | 站着 | 在第一排、离台口第二个座位 | 手里没有东西
+开场: Wendy | 站着 | 在台口拱门前一步 | 手里一支话筒
+表演: Ethan (伊森): on his feet, proud and happy; it leaks from his smile, which he cannot put away.
+表演: The reporter (记者): sly and amused, a little mean.
+表演: Wendy (温蒂): for the first time, nothing held back; it leaks from her eyes, which crinkle as she laughs.
+
+空间: In the front row near the stage end, Ethan stands among the guests; four seats farther from the stage, one chair stands empty and the reporter sits beside it; Wendy stands one step in front of the arch; the models come out of the arch and down the runway. 180-degree rule: in the front-row shots the stage end is always at screen-RIGHT; in the shots along the runway the arch is always at the top of the frame; the camera never crosses to the other side of the runway.
+视线: the reporter looks screen-LEFT at his neighbor; Ethan looks screen-RIGHT and up toward Wendy; Wendy looks out over the room just past the lens.
+逻辑: The empty chair belongs to the woman who tried to ruin Wendy; nobody misses her. Wendy, at last, is simply happy.
+同框: The runway runs up the frame and people share it in depth, never spread across its width: people on the same floor keep their real heights, the nearer one larger.
+正反打: the front row is always seen across the runway from the same side and distance; Wendy from the front with the arch behind her.
+状态: the whole room stays on its feet; from shot 2 the models are on the runway in the finale pieces.
+结束: Wendy in close-up in front of the arch, laughing openly, the models blurred around her; nobody has spoken; she has not left the stage yet.
+
+== 镜头：那个空位 ==
+机位: 中景 50mm | 3 | T 台另一边的地面、站着的人眼高，隔着 T 台看第一排靠台尾的一段；T 台亮的边压在画面下方；台口在画面右边
+运镜: 固定（空椅子在正中）
+分镜秒: 4
+拍 2: Across the runway edge, the front row stands clapping; in the middle of the frame one chair stays empty.
+拍 2: Beside it the reporter, still seated, leans toward his neighbor with a short dry snort, one corner of his mouth pulled up; she laughs under her breath and shakes her head.
+声: Applause, one short snort.
+
+== 镜头：谢幕 ==
+机位: 大全景 35mm | 1 | T 台尽头的摄影师小台上、比人眼高，顺着 T 台往台口看；T 台从画面下方一路通到上方的拱门
+运镜: 固定（灯自己变）
+分镜秒: 5
+拍 1.5: Cut on the reaction, the runway lights dip and come back up warm and bright.
+拍 3.5: The models come out of the arch one after another in the finale pieces, the plus-size model, the silver-haired model and the young woman in the wheelchair among them, walking down the runway between the standing, clapping rows.
+声: Heels on the runway under the applause.
+
+== 镜头：他笑得停不下来 ==
+机位: 中近景 50mm | 3 | T 台另一边的地面、站着的人眼高，隔着 T 台看第一排；T 台亮的边压在画面下方；台口在画面右边
+运镜: 固定（他的笑先到）
+主体: Ethan
+分镜秒: 3
+拍 1.5: Cut on the look, Ethan, upper middle of the frame, still clapping, eyes screen-RIGHT and up toward the stage end.
+拍 1.5: His smile will not go away; he shakes his head at himself.
+声: His clapping.
+
+== 镜头：毫无负担的笑 ==
+机位: 近景 85mm | 1 | T 台上、她正前方约两米、眼高；脸在画面上半；身后是虚掉的拱门
+运镜: 固定（让这个笑停够）
+主体: Wendy
+分镜秒: 4
+拍 2: Cut on the look, Wendy stands in front of the arch, upper middle of the frame, the models passing on either side of her in soft focus; she looks out over the room.
+拍 2: For the first time she laughs with nothing held back, her eyes crinkling, her shoulders easing down.
+声: The applause rolling on.

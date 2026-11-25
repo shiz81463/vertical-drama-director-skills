@@ -1,0 +1,74 @@
+【第29集·段10】
+【全局视觉风格】
+Netflix 顶级美剧的真人实拍质感，当代美国豪门都市爱情剧，高预算剧集的布景、服装、化妆与电影级布光：《摘金奇缘》式豪门盛宴的金色华光，《绯闻女孩》式上流名利场的锋利光泽，顶级珠宝与香水广告级的皮肤和高光质感，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 电影胶片拍摄（日景 250D，夜景 500T），柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 35mm，中景 50mm，面部特写 85mm），1/8 黑柔焦滤镜，浅景深，奶油般柔和的圆形焦外，细腻的胶片颗粒。色彩以暖香槟金与深青蓝的冷暖对比为骨架，象牙白与祖母绿点缀，肤色温暖、红润、通透，饱和度浓郁而克制。真实材质：真丝缎面流动的长高光与被身体撑紧的褶皱，亮片、水晶与珠宝切面的细碎火彩，定制羊毛西装的织纹，抛光石材和玻璃里的倒影，香槟里一串串上升的气泡，烫金纸面的压凹纹路。真实活人皮肤：毛孔、细小绒毛、碎发、雀斑，鼻翼和额头一点自然的油润光泽，逆光时耳廓微微透红，自然妆面；身材与体态完全照参考图，丰满的身体有真实的重量，布料被真实地撑起和垂坠，不做美颜瘦身。负面提示词：动漫、二次元、卡通、插画、CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、网红滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、古装、奇幻魔法光效、文字、水印、LOGO。
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：白裙在暗处还发亮，白玫瑰花瓣有薄薄的纹理，黑丝绒吸光；所有东西都笼在同一种暖香槟金色的光里，肤色暖而通透，暗部压深、带一点干净的深青蓝。
+【实拍光影规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+Every light lights the faces near it, the light falling off into deep darkness. Nothing glows without lighting the world around it. In the wings, light comes only from the stage light pouring through the gap in the drapes and one blue work light clipped to a pipe. Every face is lit the way a lead is lit in a high-end drama: a large, soft key from a light that is really in the scene, the shadow side of the face falling away cleanly into shade, a thin edge of light along the hair and shoulders that lifts the person off the background, and a clear catchlight in each eye. The eye always goes to the faces first: they are the most carefully lit thing in the frame, the background falls away behind them into soft focus, and the blacks are deep and clean yet still hold detail.
+FACING 1 (toward the stage gap): the bright warm-white stage light pours through the gap behind whoever faces the camera and draws a strong bright edge on hair and shoulders; the face takes a soft warm key from screen-RIGHT, stage light spilling around the edge of the drape, as bright and clear as every other face in the scene, with a touch of cool blue from the work light at screen-LEFT; the only light source in frame is the glowing gap.
+FACING 2 (toward the backstage corridor): the warm stage glow comes from behind the camera and lights faces softly from the front; the blue work light at screen-RIGHT draws a thin cool edge; the corridor behind stays dim.
+Air: a faint haze from the stage drifts in through the gap in the drapes; shoot through the soft edge of a black drape down one side of the frame so that everything feels photographed in one real space.
+Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; the stage highlights roll off into a soft, creamy bloom while the shadows sink into a deep, clean teal-blue darkness.
+Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+侧台 @侧台_总览 ：外形照参考图，不采用参考图的光线和CG质感；下面几张是同一个地方朝不同方向看的样子，成片里就是这一个地方。一条约三米宽的窄道，两边黑丝绒幕布；一头只有一道幕布缝，舞台的光从缝里进来；另一头是一段暗走廊和一扇门。幕布比人高三倍。参考图里没有人：成片里只有温蒂和伊森。
+方向1背景 @侧台_1朝舞台 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向1（朝舞台）的镜头，背景就是图里这一头：尽头幕布缝里的暖白亮光，两边黑丝绒幕布，画面左边的铁管和吊绳。图里没有人。幕布比人高三倍。
+方向2背景 @侧台_2朝后台走廊 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向2（朝后台走廊）的镜头，背景就是图里这一头：尽头暗走廊和一扇暗色的门，画面右边铁管上的蓝工作灯，两边黑幕布。图里没有人。门比人高一点。
+温蒂 @Wendy ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个温蒂，别人都不长她的样子、不穿她的衣服。第 29 集是减重以后的她，体型照参考图；比伊森矮一个头；穿一条简约的白色长裙。只有这一束。这一段开场：站着，在伊森面前一步，双手捧着那束白玫瑰。
+伊森 @Ethan ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个伊森，别人都不长他的样子、不穿他的衣服。比温蒂高一个头；一身定制深色西装。这一段开场：站着，在靠走廊这一头，手里没有东西。
+【场景：侧台，夜】
+侧台照参考图。发布会当晚，整段在这一个地方，不换地点。
+地图：黑丝绒幕布夹着一条窄道；一头是幕布缝，舞台的暖白光从缝里涌进来；另一头是一段暗走廊。
+站位：温蒂身后永远是方向1（幕布缝的光）；伊森站在靠走廊这一头，身后永远是方向2（暗走廊）。
+不入画：观众；画面里没有字。
+【人物与表演——高优先级】
+SMALL AND TRUE: real people, a camera very close; two to four small physical signals at a time, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling leaking out, then control. The listener is always acting too, lips closed.
+Wendy (温蒂): warm, teasing a little; it leaks from her eyes, which laugh before her mouth does.
+Ethan (伊森): delighted, almost childlike; it leaks from his whole face and his quick nodding.
+Every named character appears exactly once.
+ENGLISH ONLY: every spoken word is in American English, never Chinese; background people make only wordless sounds (gasps, breath, laughter, applause). This segment has only these two lines, each spoken once, word for word, by the person named; only the speaker's lips move; nobody says anything else.
+【空间与视线——最高优先级】
+SPACE: In the narrow wings, Ethan stands near the corridor end facing the gap in the drapes; Wendy stands one pace in front of him with her back to the gap. 180-degree rule: Ethan is always on the LEFT of frame and Wendy on the RIGHT; the camera never crosses the line between them.
+EYELINES: when they look at each other, Ethan looks screen-RIGHT and a little down, Wendy looks screen-LEFT and a little up; the camera stays at their eye height. In singles each eyeline passes just beside the lens. Every look has a target in the scene.
+【戏的逻辑——高优先级】
+SCENE LOGIC: The oak tree is where they were promised to each other as children; asking him there is her way of saying yes to starting over. He understands at once.
+【镜头衔接——高优先级】
+FOUR SHOTS, hard cuts only at 3, 8 and 11 s. Every cut has a reason (a look, a line, a reaction, a movement); each shot opens exactly where the last one ended, and no line and no action restarts after a cut.
+TALL FRAME: the frame is tall and narrow. The two of them share it in depth, one seen over the other's shoulder, never spread across its width. Faces stay in the upper two thirds of the frame; anyone who comes or goes moves toward or away from the lens.
+UPRIGHT: the camera is always level and the right way up: floor at the bottom, gravity pulling down, heads above feet.
+ONE IMAGE: every shot is one continuous image of one real space through one lens: no split screen, no panels, no picture in picture, no double exposure.
+SHOT AND REVERSE SHOT: over Ethan's shoulder toward her with the bright gap behind her, over her shoulder toward him with the dim corridor behind him, both at the same size, tightening together.
+CAMERA FEELS: the camera moves only when a feeling changes, eases in as someone gives themselves away, and holds still while a feeling is held in; it never zooms and never cuts away before a reaction lands.
+【本段状态】
+STATE: Each change appears only at the moment it happens, then stays: the roses stay in Wendy's hands.
+镜头1｜0–3s｜补一句
+[中近景 50mm, 方向1（朝舞台），侧台、伊森右肩后、肩高；他的肩只占画面左下角、虚焦；画面尽头是幕布缝的亮光]
+运镜：固定（她说这句时他就在眼前）
+0–0.2s: Wendy, upper middle of the frame, smile deepening, looks screen-LEFT and a little up at him.
+0.2–3s: Wendy speaks; everyone else keeps their lips closed.
+Dialogue: 0.2–3s, Wendy, to Ethan, in American English, soft, almost laughing: {The one from when we were kids.}
+Sound: The roses shifting in her arms.
+镜头2｜3–8s｜他像拿到糖
+[近景 85mm, 方向2（朝后台走廊），侧台、温蒂左肩后、肩高；她的肩只占画面右下角、虚焦；伊森在画面上半；身后是虚掉的暗走廊和画面右边的蓝工作灯]
+运镜：固定（亮和点头都装下）
+3–3.3s: Cut on the line, Ethan's whole face opens up at once, upper middle of the frame, looking screen-RIGHT and a little down at her; he is already nodding.
+3.3–8s: He answers fast, nodding; at the bottom corner her blurred shoulder shakes with a quiet laugh.
+Dialogue: 3.3–8s, Ethan, to Wendy, in American English, fast and bright, tripping over himself: {Yeah! Yeah, absolutely. I'll pick you up. Saturday, 10 a.m.}
+Sound: His quick breath.
+镜头3｜8–11s｜她笑着点头
+[近景 85mm, 方向1（朝舞台），侧台、温蒂面前约一米、眼高；脸在画面上半；身后是虚掉的幕布缝亮光]
+运镜：固定（她的笑接住他的急）
+8–9.5s: Cut on the line, Wendy laughs softly at how fast he answered, the roses at her chest, eyes screen-LEFT and a little up on him.
+9.5–11s: She nods once, slowly, still smiling.
+Sound: Her soft laugh.
+镜头4｜11–15s｜藏不住的欢喜
+[近景 85mm, 方向2（朝后台走廊），侧台、温蒂左肩后、肩高；她的肩只占画面右下角、虚焦；伊森在画面上半；身后是虚掉的暗走廊和画面右边的蓝工作灯]
+运镜：缓推（最后一眼留给他）
+11–13s: Cut on the reaction, Ethan looks screen-RIGHT and a little down at her, upper middle of the frame; the corners of his mouth keep climbing.
+13–15s: He breathes out half a laugh and cannot stop smiling; his eyes stay on her.
+Sound: His breath, half a laugh.
+【结束状态】
+END STATE: the last frame is the end of shot 4: Ethan in close-up, smiling, eyes screen-RIGHT and a little down on her, the dim corridor behind him; every line has been spoken and all lips are closed; they have not left the wings.
+严禁字幕，画面中不出现任何文字。
+全片实速，不要慢镜头。
+不生成BGM：不要音乐、配乐、旋律，只保留对白、呼吸声、幕布后面闷闷的掌声和动作的声音。

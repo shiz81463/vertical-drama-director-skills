@@ -1,0 +1,79 @@
+# ❌ 反面案例：不要照抄。第 27 集段 4 的旧稿，成片 E27_分镜04 就是照它生成的。
+# 坏在哪：05 按头的手、背后的手两个孤立特写（剪辑时删了）；17 镜 3 单人近景露出半张画外人的脸；01、02、06、08 同段 1。
+【第27集·段4】
+【全局视觉风格】
+Netflix 顶级犯罪剧情剧的真人实拍质感，当代芝加哥圣诞季的黑帮家庭惊悚剧，高预算剧集的布景、服装、化妆与电影级布光：《教父》式低调暖光与沉进黑里的房间，《黑钱胜地》式冷峻钢蓝的夜，《继承之战》式克制的老钱豪宅与定制西装，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 电影胶片拍摄（日景 250D，夜景 500T），柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 35mm，中景 50mm，面部特写 85mm），1/8 黑柔焦滤镜，浅景深，柔和的圆形焦外，细腻的胶片颗粒。低调布光，大光比，光只来自画面里真实存在的灯：家里的暖是琥珀色（炉火、台灯、烛火、圣诞树彩灯），夜里的冷是钢蓝色（雪光、霓虹、屏幕光），社交场合的暖是过分柔和的金粉色（水晶灯、香槟、烟花）；一张脸一次只属于一种光，眼睛里始终有眼神光；黑位深而干净、带一点墨蓝，暗部仍有细节，饱和度克制，肤色真实。冬天的空气看得见：窗外的飘雪、室外呵出的白气、雪茄的青烟、炉火前的浮尘。真实材质：精纺羊毛西装与羊绒大衣的织纹、落在肩头没化的雪粒，真丝领带与缎面礼服窄长的高光，皮草的毛峰，胡桃木与旧皮面的包浆，黄铜、银器与怀表表壳上的细划痕，水晶杯与红酒里的倒影，结霜的玻璃，湿砖墙与生锈的集装箱铁皮。真实活人皮肤：毛孔、细纹、胡茬、鬓角的灰发、碎发，室外冻红的鼻尖和指节，鼻翼和额头一点自然的油光，自然妆面，中年人的脸有中年人的纹路，不做美颜。负面提示词：动漫、二次元、卡通、插画、漫画式黑帮、CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、网红滤镜、过饱和糖水色、圣诞贺卡式的饱和红绿、童话魔法闪光、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、眼睛陷在黑里、廉价布景感、赛博朋克霓虹、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、古装、文字、水印、LOGO。
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：湿木栈道反着灯光，生锈的铁栏杆挂着水珠，集装箱的漆皮剥落；暗部压深、带一点墨蓝。
+【实拍光影规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+Every light lights the faces near it, the light falling off into deep darkness. Nothing glows without lighting the world around it. On the pier, light comes only from a row of sodium-yellow dock lamps, with darkness between their pools, and from the cold glow of the lake and the misty city lights on its far shore. Each dock lamp is one sodium-yellow pool on wet planks with a halo of mist around the lamp head; between one pool and the next the pier is nearly black, the lake behind is a black surface with a few broken reflections, and the city lights across the water are small and soft through the mist. Outdoors and in unheated places every breath shows: a small pale cloud leaves the mouth or nose with each exhale and each spoken phrase, drifts a hand's width, catches whatever light is near and is gone within a second; indoors in the warm there is none. Whatever the colour of the light, the blacks are the same in every scene: deep, clean and faintly ink-blue, still holding detail in hair and dark wool. Every face keeps a clear catchlight in each eye from a light that is really in the scene, and the eyes are never lost in shadow.
+FACING 2 (toward the landward end of the pier): the cold glow of the lake lights the face pale and cool from screen-RIGHT, soft, with a cold catchlight in each eye; a dock lamp's yellow pool lies on the planks far behind, its lamp head small in frame.
+FACING 3 (toward the railing and the lake): the dock lamp above and behind the camera lights the face a soft sodium-yellow warm from above; the black lake behind holds only broken reflections.
+Air: a thin mist off the lake hangs over the pier and fine spray drifts in the wind; shoot through the soft edge of a rusted railing post or the corner of a container down one side of the frame so that everything feels photographed in one real space.
+Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; the dock lamp highlights clip and glow while the shadows sink into a deep ink-blue darkness.
+Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+旧码头 @旧码头_总览 ：外形照参考图，不采用参考图的光线和CG质感；下面几张是同一个地方朝不同方向看的样子，成片里就是这一个地方。一条沿湖的湿木栈道，约三米宽；一侧是生锈的铁栏杆，栏杆外是黑的湖面，另一侧是绿色、红褐色、灰色的旧集装箱，比人高一倍；栈道边每隔一段一根码头灯杆，灯池之间是暗的；一头通向城市那边，湖对面是雾里的城市灯火，另一头是来路。参考图里没有人：成片里只有下面写到的人。
+方向2背景 @旧码头_2朝来路 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向2（朝来路）的镜头，背景就是图里这一头：栈道往回延伸，画面右边是栏杆和湖，左边是集装箱的铁墙，远处一盏码头灯黄色的灯池。图里没有人。灯杆比人高一倍。
+方向3背景 @旧码头_3朝湖 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向3（朝湖）的镜头，背景就是图里这一头：生锈的铁栏杆和一根灯杆，栏杆外黑的湖面，对岸雾里的城市灯火。图里没有人。栏杆比人矮一大截，只到腰。
+伊森 @伊森 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个伊森。二十五岁，比文森特矮半个头；下巴上一层胡茬，眼下发青。右手腕断了；镜1 起双手被约束带捆在背后。这一段开场：趴着，脸朝下趴在湿栈道上，手里没有东西。
+伊琳娜 @伊琳娜 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个伊琳娜，伊森的母亲。四十八岁，比奥利维亚略高一点；妆花了，头发被风吹乱。妆花了，头发贴在脸上，被按在湿木板上。这一段开场：趴着，被两个队员按在湿栈道上，双手反剪在背后，手里没有东西。
+文森特 @文森特 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个文森特，别人都不长他的样子、不穿他的衣服。四十五岁，比伊森高半个头；西装外面一件长风衣。深色西装外面一件黑色长风衣，空着手。这一段开场：跪着，单膝压在伊森背上，右手按着伊森的肩。
+里奥 @利奥 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个里奥。四十七岁，比文森特略高一点；深色衣服，袖子卷到小臂。深色衣服，袖子卷到小臂，空着手。这一段开场：站着，在伊琳娜身边，手里没有东西。
+行动队 @行动队 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里所有队员都是参考图里那一组，穿一样的黑色衣服，长相各不相同，都不长主要人物的样子。正常成年男子的身高。几个穿黑衣服的队员压着伊森和伊琳娜；镜4 两个队员把伊森从地上架起来。
+奥利维亚 @奥利维亚 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个奥利维亚，别人都不长她的样子、不穿她的衣服。二十二岁，比伊森矮半个头；头发和大衣被湖上的水雾打湿，颈侧一道浅浅的红痕。头发湿成一缕一缕，颈侧一道浅浅的红痕，抱着膝坐在码头灯的灯池里，背靠栏杆柱。这一段开场：坐着，在旁边那盏码头灯的灯池里，背靠栏杆柱，手里没有东西。
+【场景：旧码头，夜】
+旧码头照参考图。绑架那一夜的深夜，湖边的旧码头，整段在这一个地方，不换地点。
+地图：一条沿湖的湿木栈道，一侧是铁栏杆和湖，另一侧是集装箱；一头朝城市，湖对面是城市灯火，另一头是来路。
+站位：伊森身后永远是方向1；文森特打斗时身后是方向2，转向女儿后是方向4；奥利维亚身后永远是方向3；伊琳娜、里奥身后是方向4。
+不入画：没有警察、警车；没有别的路人；画面里没有字。
+【人物与表演——高优先级】
+SMALL AND TRUE: real people, a camera very close; two to four small physical signals at a time, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling leaking out, then control. The listener is always acting too, lips closed.
+Ethan (伊森): beaten; only a grunt through his teeth when the strap bites.
+Vincent (文森特): finished with them; his face is hard and closed, his eyes on the planks.
+Leo (里奥): one small nod to his boss, nothing more.
+Olivia (奥利维亚): shaking and stunned; it shows in her wide eyes, her trembling chin and her arms locked around her knees.
+Every named character appears exactly once.
+ENGLISH ONLY: every spoken word is in American English, never Chinese; background people make only wordless sounds (gasps, breath, grunts). Nobody speaks in this segment; every mouth stays closed except for breath and laughter.
+【空间与视线——最高优先级】
+SPACE: Ethan lies face-down between two dock lamps with Vincent's knee in his back; Irina lies pinned a few steps away toward the containers, Leo beside her; Olivia sits in the yellow pool of the next dock lamp toward the city end, her back against a railing post. 180-degree rule: the camera stays on the container side of the boardwalk; Olivia always looks screen-LEFT toward her father; the camera never crosses the line between them.
+EYELINES: Olivia looks screen-LEFT at her father; Vincent looks down at the planks, not at her yet. In singles each eyeline passes just beside the lens. Every look has a target in the scene.
+【戏的逻辑——高优先级】
+SCENE LOGIC: It is over for Ethan and Irina. Olivia has just watched the father who carved the turkey and tucked her in break a man's wrist in under three seconds; she does not know this man.
+【镜头衔接——高优先级】
+FOUR SHOTS, hard cuts only at 3, 6 and 10 s. Every cut has a reason (a look, a line, a reaction, a movement); each shot opens exactly where the last one ended, and no line and no action restarts after a cut.
+TALL FRAME: the frame is tall and narrow. People share it in depth, never spread across its width; the pinned people lie low in the frame and those standing rise above them. Faces stay in the upper two thirds of the frame; anyone who comes or goes moves toward or away from the lens.
+UPRIGHT: the camera is always level and the right way up: floor at the bottom, gravity pulling down, heads above feet.
+ONE IMAGE: every shot is one continuous image of one real space through one lens: no split screen, no panels, no picture in picture, no double exposure.
+SHOT AND REVERSE SHOT: Olivia is always seen with the railing and the black lake behind her; Vincent is always seen with the boardwalk running back toward the landward end behind him.
+CAMERA FEELS: the camera moves only when a feeling changes, eases in as someone gives themselves away, and holds still while a feeling is held in; it never zooms and never cuts away before a reaction lands.
+【本段状态】
+STATE: Each change appears only at the moment it happens, then stays: from shot 1 Ethan's wrists are strapped behind his back; from shot 2 Vincent stands; from shot 4 two men hold Ethan up on his feet.
+镜头1｜0–3s｜约束带咔哒
+[特写 85mm, 方向2（朝来路），栈道上、蹲低朝伊森背在身后的手；手腕在画面中上，湿木板虚着]
+运镜：固定（咔哒一声 = 收网）
+0–1.5s: A man's gloved hands loop a black plastic strap around Ethan's wrists, pinned behind his back on the wet coat.
+1.5–3s: One hard pull: the strap zips tight with a sharp click; Ethan's fingers jerk and he grunts through his teeth.
+Sound: The ratchet of the strap, a sharp click, a muffled grunt.
+镜头2｜3–6s｜两个人都按住了
+[全景 35mm, 方向2（朝来路），栈道上、站着的高度，顺着栈道朝来路；被按住的两个人在画面下方，远处一盏码头灯的灯池在画面上方]
+运镜：固定（一切收住了）
+3–4.5s: Matched on action, along the boardwalk: Ethan and Irina both lie pinned on the wet planks, men in black kneeling on them; Vincent lifts his knee off Ethan's back and rises as two men take Ethan from him.
+4.5–6s: Leo, standing over Irina, gives Vincent one small nod; the wind carries off their ragged breathing and her muttered curses.
+Sound: Wind, ragged breathing, a curse lost in the wind.
+镜头3｜6–10s｜她看着一个陌生人
+[近景 85mm, 方向3（朝湖），集装箱那一侧、坐着的人的眼睛高度朝她；她的脸在画面中上，栏杆和湖虚着]
+运镜：固定（她的眼睛一点点睁大）
+6–8s: Cut on the look, Olivia sits hugging her knees in the yellow pool of the dock lamp, her back pressed to the railing post, her hair hanging in wet strands, a thin red mark on her neck, her whole body shaking.
+8–10s: She stares screen-LEFT at her father; her eyes widen a little more and her chin trembles; she does not know this man.
+Sound: Her shaking breath, the wind.
+镜头4｜10–13s｜她看到的他
+[中景 50mm, 方向2（朝来路），她身旁、坐着的人的高度，朝文森特；他在画面中上，来路虚着]
+运镜：固定（她的视角：那个三秒折断人手腕的男人）
+10–11.5s: Cut on the look, Vincent stands in the dark between two dock lamps, his long black coat lifting at the hem in the wind, his face hard, his eyes on the planks.
+11.5–13s: Behind him two men in black haul Ethan up off the planks by his strapped arms; Vincent does not turn to look.
+Sound: Wind, Ethan's groan as he is hauled up.
+【结束状态】
+END STATE: the last frame is the end of shot 4: Vincent stands in the dark between two dock lamps, his coat hem lifting in the wind, his eyes on the planks; behind him two men in black hold Ethan up by the arms; nobody has spoken; he has not looked at his daughter yet. 严禁字幕，画面中不出现任何文字。
+Shot on 35mm Kodak Vision3 film with Cooke spherical primes, high-end live-action crime family drama, Chicago at Christmas, low-key motivated light from fire, lamps and winter windows, warm amber against cold steel-blue with deep ink-blue blacks, halation, soft focus at the frame edges, fine film grain.
+不生成BGM：不要音乐、配乐、旋律，只保留呼吸声、湖水拍着木桩、风、码头灯的嗡嗡声和动作的声音。

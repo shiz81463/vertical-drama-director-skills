@@ -1,4 +1,0 @@
-interface:
-  display_name: "竖屏编导满血版"
-  short_description: "满血版统一处理文戏、武戏、险情与混合段，加上人物表演设计。"
-  default_prompt: "用 $vertical-performance-director，按满血版写分段提示词，使用人物表演档案、锁台词并检查跨段连续性。"

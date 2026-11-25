@@ -1,0 +1,8 @@
+# 集卡：这一集的基本信息。
+剧: 320磅未婚妻不忍了
+集: 29
+前缀: 第二十九集
+# 这一集背景里有掌声，所以背景声词多一个 applause（默认是 gasps, breath, laughter）
+背景声词: gasps, breath, laughter, applause
+# 这份范例是 2026-11-24 以前的旧格式，只给旧集参考；新的一集看 examples/V2_…
+格式: V1

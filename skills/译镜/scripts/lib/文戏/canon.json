@@ -1,0 +1,143 @@
+{
+  "note": "竖屏文戏编导提示词的原句库（从横屏原版改出来，2026-10-22）。每部戏的风格锁、画面质感、特效质感不在这里，在 竖屏制作/剧设定/<剧名>.md（规则 S1–S5）。这里只放所有戏通用的原句：texturePrefix 是画面质感的通用开头；required：必须一字不差的原句；status=verified 表示在验收通过的成片里用过（source 是哪一条，目前都来自打戏 v13），unverified 表示还没验证（文戏专用的句子都还没生成过）。第一条文戏验收通过后，用 make_canon.js 登记；改原句先问用户。 竖屏加了 V 开头的原句（TALL FRAME），都还没验证。",
+  "texturePrefix": "像一部用35mm胶片实拍的电影，不是CG动画",
+  "required": [
+    {
+      "id": "C1-胶片定性",
+      "level": "fail",
+      "text": "PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "C1-镜头和胶片",
+      "level": "fail",
+      "text": "Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches;",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "C2-光有来源",
+      "level": "fail",
+      "text": "Nothing glows without lighting the world around it.",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "C2-光往深暗衰减",
+      "level": "warn",
+      "text": "the light falling off into deep darkness",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "C3-前景层",
+      "level": "warn",
+      "text": "so that everything feels photographed in one real space",
+      "status": "verified",
+      "source": "v13"
+    },
+    {
+      "id": "C5-克制",
+      "level": "fail",
+      "text": "Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.",
+      "status": "verified",
+      "source": "v13；《320磅》第 1 集也用了。用户 2026-11-09：这句要的，不能砍（原来是 warn，改成 fail）"
+    },
+    {
+      "id": "E1-小而真",
+      "level": "fail",
+      "text": "SMALL AND TRUE:",
+      "alt": "REAL AND VISIBLE:",
+      "status": "unverified"
+    },
+    {
+      "id": "E2-反应三层",
+      "level": "warn",
+      "text": "THREE LAYERS:",
+      "status": "unverified"
+    },
+    {
+      "id": "E5-听的人也在演",
+      "level": "warn",
+      "text": "The listener is always acting too",
+      "whenRe": "\\nDialogue:",
+      "status": "unverified"
+    },
+    {
+      "id": "E7-眼睛不发光",
+      "level": "fail",
+      "text": "normal human eyes that never glow",
+      "unlessLockRe": "发光眼睛|眼睛发光",
+      "status": "unverified"
+    },
+    {
+      "id": "F2-轴线",
+      "level": "fail",
+      "text": "180-degree rule:",
+      "status": "unverified"
+    },
+    {
+      "id": "F3-视线方向",
+      "level": "fail",
+      "text": "EYELINES:",
+      "status": "unverified"
+    },
+    {
+      "id": "F5-入画绑在视线上",
+      "level": "warn",
+      "text": "they enter exactly where someone is already looking",
+      "whenRe": "\\b(enters?|entering|walks in|comes in|steps into (the )?frame)\\b|(?<![不没])入画",
+      "status": "unverified"
+    },
+    {
+      "id": "D2-戏的逻辑",
+      "level": "warn",
+      "text": "SCENE LOGIC:",
+      "status": "unverified"
+    },
+    {
+      "id": "G2-正反打同级",
+      "level": "warn",
+      "text": "SHOT AND REVERSE SHOT:",
+      "status": "unverified"
+    },
+    {
+      "id": "H2-镜头跟着情绪动",
+      "level": "fail",
+      "text": "CAMERA FEELS:",
+      "status": "unverified"
+    },
+    {
+      "id": "H1-切点有理由",
+      "level": "fail",
+      "text": "no line and no action restarts after a cut",
+      "status": "unverified"
+    },
+    {
+      "id": "B7-变化那一刻才出现",
+      "level": "warn",
+      "text": "Each change appears only at the moment it happens",
+      "status": "unverified"
+    },
+    {
+      "id": "V4-TALL FRAME",
+      "level": "fail",
+      "text": "TALL FRAME: the frame is tall and narrow.",
+      "status": "unverified"
+    },
+    {
+      "id": "V3-脸在画面上方",
+      "level": "warn",
+      "text": "stay in the upper two thirds of the frame",
+      "status": "unverified"
+    },
+    {
+      "id": "R3-每人只出现一次",
+      "level": "fail",
+      "text": "appears exactly once",
+      "status": "verified",
+      "source": "惹火私厨第34集 G1、G5 返工（文戏），用户 2026-10-23 认可"
+    }
+  ]
+}

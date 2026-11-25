@@ -1,0 +1,59 @@
+# 第 29 集 段 9
+段: 9
+戏种: 文戏
+场景: 侧台，夜
+环境声: 幕布后面闷闷的掌声、花瓣和纸的声音
+
+人: Wendy |
+人: Ethan | 白玫瑰用牛皮纸松松包着，只有这一束；镜3 起花在温蒂手里。
+# 连续性账本：姿态 | 位置 | 手里的东西。上一段的收场要等于这一段的开场。
+开场: Wendy | 走着 | 刚从幕布缝走下台 | 手里没有东西
+收场: Wendy | 站着 | 在伊森面前一步 | 双手捧着那束白玫瑰
+开场: Ethan | 站着 | 在靠走廊这一头 | 双手捧着一束简单的白玫瑰
+收场: Ethan | 站着 | 在靠走廊这一头 | 手里没有东西
+表演: Ethan (伊森): sincere and a little nervous; it leaks from his eyes, which do not leave her face, and from his hands on the roses.
+表演: Wendy (温蒂): warm and open now; it leaks from her eyes, which smile before her mouth does.
+
+空间: In the narrow wings, Ethan stands near the corridor end facing the gap in the drapes; Wendy stands one pace in front of him with her back to the gap. 180-degree rule: Ethan is always on the LEFT of frame and Wendy on the RIGHT; the camera never crosses the line between them.
+视线: when they look at each other, Ethan looks screen-RIGHT and a little down, Wendy looks screen-LEFT and a little up; the camera stays at their eye height.
+逻辑: Ethan does not make a show of it; the roses are all he dares. Wendy, who once waited ten years for him, is the one who asks this time.
+同框: The two of them share it in depth, one seen over the other's shoulder, never spread across its width.
+正反打: over Ethan's shoulder toward her with the bright gap behind her, over her shoulder toward him with the dim corridor behind him, both at the same size, tightening together.
+状态: from shot 3 the roses are in Wendy's hands and stay there.
+结束: Wendy in close-up holding the white roses, eyes on him, the question just asked, lips closing; every line has been spoken and all lips are closed; Ethan has not answered yet.
+
+== 镜头：她从亮处走下来 ==
+机位: 中景 50mm | 1 | 侧台、伊森右肩后、肩高；他的肩只占画面左下角、虚焦；画面尽头是幕布缝的亮光
+运镜: 固定（她走进暗处）
+主体: Wendy
+分镜秒: 3
+拍 3: Matched on action, Wendy comes through the bright gap in the drapes and walks toward the lens, a bright edge around her hair and shoulders, and stops one pace in front of him, upper middle of the frame; she looks screen-LEFT and a little up at him.
+声: Her steps; the applause muffled behind the drapes.
+
+== 镜头：白玫瑰 ==
+机位: 近景 85mm | 2 | 侧台、温蒂左肩后、肩高；她的肩只占画面右下角、虚焦；伊森在画面上半；身后是虚掉的暗走廊和画面右边的蓝工作灯
+运镜: 固定（他等了很久）
+主体: Ethan
+分镜秒: 5
+拍 0.5: Cut on the look, Ethan steps half a pace toward her, upper middle of the frame, and holds out the white roses with both hands, eyes screen-RIGHT and a little down on her face; a quick breath in.
+说 4.1: Ethan > Wendy | soft and quick, meaning every word | You were incredible up there. I'm so proud of you.
+说时: He speaks; at the bottom corner her blurred shoulder rises on a breath.
+拍 0.4: His lips close; his eyes stay on hers.
+声: The paper around the roses crinkling.
+
+== 镜头：指尖碰到 ==
+机位: 特写 85mm | 1 | 侧台、两人手的高度、侧前方约半米；背景是虚掉的幕布缝亮光
+运镜: 固定（只看手）
+分镜秒: 2
+拍 1: Matched on action, her hands close around the roses and her fingertips brush his.
+拍 1: Both hands stop for a heartbeat; then his let go and hers keep the flowers.
+声: A soft rustle of petals.
+
+== 镜头：这次她主动 ==
+机位: 近景 85mm | 1 | 侧台、温蒂面前约一米、眼高；脸在画面上半；身后是虚掉的幕布缝亮光
+运镜: 固定（这一次她主动）
+主体: Wendy
+分镜秒: 5
+拍 0.2: Cut on the reaction, Wendy holds the roses at her chest and raises her eyes to him, screen-LEFT and a little up, smiling with her eyes first.
+说 4.8: Wendy > Ethan | light, a smile in her voice, a little shy | Hey, this weekend… you wanna drive out to the old oak tree?
+声: The roses shifting in her arms.

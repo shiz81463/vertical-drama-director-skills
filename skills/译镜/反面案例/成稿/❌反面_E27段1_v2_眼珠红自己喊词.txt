@@ -1,0 +1,94 @@
+# ❌ 反面案例：结构是好的（V2），坏在这几句，不要照抄。第 27 集段 1 的 v2，成片 E27_分镜01。
+# 坏在哪：09 "通红的眼睛""红着眼"→ 眼珠画成红色；15 冲刺镜没写嘴 → 自己喊 "Fuck yeah!"；13 眼珠乱闪没有由头（后来补了警笛）。
+# 另外：这一条第一次生成被平台拦，原样再生成就过了（22：别把一次拦截当规律）。
+【第27集·段1】
+竖屏 9:16，全长 12 秒，4 个镜头，硬切在 3、6.5、9 秒。
+【全局视觉风格】
+真人实拍的当代芝加哥黑帮家庭惊悚剧，顶级流媒体犯罪剧情剧的质感，高预算剧集的布景、服装、化妆与电影级布光：低调暖光与沉进黑里的空间，冷峻钢蓝的夜，克制的老钱质感与定制大衣，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 500T 电影胶片拍摄，柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 28–35mm，中景 40–65mm，面部特写 85–100mm），1/8 黑柔焦滤镜，浅景深，柔和的圆形焦外，细腻的胶片颗粒。低调布光，大光比，光只来自画面里真实存在的灯：夜里的冷是钢蓝色（湖面和对岸城市的反光），唯一的暖是钠黄色的码头灯；一张脸一次只属于一种光，眼睛里始终有眼神光；黑位深而干净、带一点墨蓝，暗部仍有细节，饱和度克制，肤色真实。冬天的空气看得见：贴着湖面的薄雾、灯头周围的雾晕、室外呵出的白气、风里的细水雾。真实材质：精纺羊毛风衣的织纹、吸了潮气发沉的下摆、湿成一缕一缕的头发、反着灯光的湿木板、栏杆的锈和水珠、集装箱剥落的漆皮、钢刃和皮鞋上窄长的高光。真实活人皮肤：毛孔、细纹、胡茬、鬓角的灰发、碎发，室外冻红的鼻尖和指节，鼻翼和额头一点自然的油光，泪痕，自然妆面，中年人的脸有中年人的纹路，不做美颜。负面提示词：CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、眼睛陷在黑里、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、文字、水印、LOGO。
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：湿木栈道反着灯光，生锈的铁栏杆挂着水珠，集装箱的漆皮剥落；头发被湖风和雾气打湿成一缕一缕，脸上有泪痕和冻红，大衣吸了潮气发沉；暗部压深、带一点墨蓝。
+【实拍光影规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+Every light lights the faces near it, the light falling off into deep darkness. Nothing glows without lighting the world around it. On the pier, light comes only from three sodium-yellow dock lamps on the container side, with darkness between their pools, and from the cold glow of the lake and the misty city lights on its far shore. Each dock lamp is one sodium-yellow pool on wet planks with a halo of mist around the lamp head; between one pool and the next the pier is nearly black, the lake is a black surface with a few broken reflections, and the city lights across the water are small and soft through the mist. Outdoors every breath shows: a small pale cloud leaves the mouth or nose with each exhale and each spoken phrase, drifts a hand's width, catches whatever light is near and is gone within a second. Whatever the colour of the light, the blacks are the same in every scene: deep, clean and faintly ink-blue, still holding detail in hair and dark wool. Every face keeps a clear catchlight in each eye from a light that is really in the scene, and the eyes are never lost in shadow.
+Air: a thin mist off the lake hangs over the pier and fine spray drifts in the wind the whole time; every fast move tears it, and every breath shows; shoot through the soft edge of a rusted railing post, a coat collar or wet hair down one side of the frame so that everything feels photographed in one real space.
+Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; the dock lamp highlights clip and glow while the shadows sink into a deep ink-blue darkness.
+Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+【场景与方位】
+旧码头 @S50_旧码头栈道与集装箱藏身区_场景基础参考_飞书现图 ：外形照参考图，不采用参考图的光线和CG质感；总览图是同一座码头的几个视角，取它的结构、材质、灯的位置和方位；构图和光线以每个镜头写的为准。冬夜，栈道上只有本段写到的人。
+一条伸进湖里的湿木栈道，约五步宽。一头接陆地：水泥地、光秃的树、铁丝网，叫“陆地端”。另一头是一道横栏杆，外面全是湖，叫“尽头”，是死路。一条长边是齐腰的锈栏杆和湖，叫“湖栏”。另一条长边从陆地端往尽头依次是红集装箱、一道黑缝、蓝灰集装箱、一小段敞开的栏杆；集装箱比人高一倍。三盏码头灯都立在集装箱那一边：第一盏灯在红集装箱旁，第二盏灯在蓝灰集装箱旁，第三盏在尽头的转角，叫“尽头灯”。每盏灯在湿木板上落一圈钠黄的光，圈与圈之间是暗的；湖是平的、黑的，有几道碎反光，对岸城市的灯火隔着薄雾，小而软。
+朝尽头：集装箱和尽头灯在画面左侧，湖栏和黑的湖面在画面右侧，最远处横栏杆外是湖和对岸城市灯火。暗处的脸由右侧湖面的冷光照亮，左侧发际有尽头灯的一线暖边；尽头灯那圈光里的脸由左侧高处的钠黄暖光照亮。
+【人物与道具】
+伊森 @伊森 @伊森音频 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个伊森，别人都不长他的样子、不穿他的衣服。二十五岁，黑色湿短发，一层胡茬，眼下发青；黑衬衫、黑长裤。
+奥利维亚 @奥利维亚 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个奥利维亚，别人都不长她的样子、不穿她的衣服。二十二岁，比伊森矮半个头；金色长发湿成一缕一缕，橄榄色工装外套、米白毛衣，颈侧一道浅红痕。
+文森特 @文森特 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个文森特，别人都不长他的样子、不穿他的衣服。四十五岁，比伊森高半个头，鬓角少量灰白，短须；黑色长风衣，深色衬衫。
+短刀 @短刀 ：外形照参考图，不采用参考图的光线和背景；黑柄短刀，普通的钢刃，刀身比手掌长一点，全片只有这一把。
+Every named character appears exactly once.
+【承接画面】
+第一帧就从下面的状态开始，动作接着往下走：
+伊森：站在第二盏灯和尽头灯之间的暗处，贴着湖栏，脸朝陆地端；左臂从身后箍住奥利维亚，右手的短刀贴在她颈侧，手在抖。
+奥利维亚：站在伊森身前，背贴着他，脸朝陆地端；双手扒着他箍住自己的左臂。
+文森特：站在第二盏灯那圈光朝尽头的边沿，离他们四步，脸朝尽头，空着手，风衣下摆被湖风掀起。
+【戏的逻辑——高优先级】
+伊森已经没有路：陆地那头站着文森特，身后是尽头的横栏杆和湖，唯一的筹码是她颈边的刀，可文森特的眼睛一直没从他脸上挪开，他撑不住这双眼睛。奥利维亚离他最近，知道他的手在抖，她不怕自己受伤，怕父亲走上来。文森特一步不动，是在等他先崩。转折在伊森被那双眼睛拽回来的一瞬：他断了，吼出来，甩开人质，把最后的力气押在一刀上。
+【人物与表演——高优先级】
+REAL AND VISIBLE: real people, a camera very close; the feeling shows plainly on the face and in the voice, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling breaking through, and it stays visible. The listener is always acting too, lips closed.
+伊森是被逼到死路的人：眼珠乱闪、胸口起伏、刀在抖，防线在一句吼里断掉。奥利维亚怕，可她更怕父亲受伤：红着眼，只轻轻摇头。文森特冷而静，他的静就是压力。
+ENGLISH ONLY: every spoken word is in American English; background people make only wordless sounds (gasps, breath, grunts). This clip has one line, spoken once, word for word, by the person named; only the speaker's lips move; nobody says anything else.
+【机位与视线——最高优先级】
+全段机位都在湖栏这一侧，朝尽头。伊森和奥利维亚看画面左侧镜头旁的文森特。每一个眼神都落在戏里的人或东西上，单人镜头的视线擦着镜头边过去。
+【动作质感——高优先级】
+甩和冲都有重量。甩的力从伊森的腰和左肩出来，奥利维亚先是重心被带歪，脚追不上身体，踉跄两步才坐下去，后背撞栏杆时胸口一闷、气被撞出来。伊森起步第一脚打滑半寸才蹬住，湿衬衫贴在背上，水花从鞋底往后溅，白气被跑动扯成一条。
+【镜头语言——高优先级】
+每个镜头都是一台真实摄影机在现场拍下的完整竖幅画面，地平线是平的。镜头有呼吸：手持或稳定器带着随人物呼吸的细微浮动，每一镜有起点、有落点，快慢跟着情绪走，动作落定以后镜头也慢慢停稳，留半拍。景深分三层：前景虚（栏杆柱、衣角、湿发、肩膀），主体实，后景是化开的灯和湖面。构图用三分法和黄金比例，主体落在一侧三分线上，视线前方留出空间，人物关系靠前后纵深和站、跪、坐的姿态拉开。焦段有变化：广角给空间和冲势，标准镜给关系，长焦给情绪和压缩的灯。每个切点都由一个眼神、一句话或一个动作带出来，下一镜从上一镜停住的地方接着往下走。人物的视线落在戏里的对手身上，擦着镜头边过去。
+Every cut has a reason (a look, a line, a reaction, a movement); each shot opens exactly where the last one ended, and no line and no action restarts after a cut. The camera is always level and the right way up, gravity pulling down, heads above feet. Every shot is one continuous image of one real space, photographed through one lens.
+【本段变化】
+每一项变化只在发生的那一刻出现，然后保持：镜头4 起奥利维亚离开伊森，跌坐在尽头灯下；镜头4 起伊森举刀往陆地端冲；刀始终在伊森右手里；文森特全段空着手、站在原处。
+【分镜】
+镜头1｜0–3s｜刀压在颈侧
+机位：特写 85mm｜朝尽头｜奥利维亚面前一步、颈侧的高度
+运镜：贴着刀刃起，随她吸气缓缓移到她的眼睛，焦点再滑到她肩后伊森的眼睛，落定。
+构图：她的脸在右侧三分线，伊森的脸虚在她左后方，两张脸一前一后叠着，尽头灯在远处化成一颗暖色光斑。
+光影：尽头灯从左后方在两人的发丝和刀背上勾一线暖边，脸上是右侧湖面来的冷光，睫毛的水珠和瞳孔里各有一点冷的反光，刀刃只亮窄窄一条。
+0–1.2s：短刀的刃贴在她颈侧那道浅红痕上，握刀的手绷得发白，细细地抖，刀刃跟着抖。
+1.2–2.2s：她喉咙一紧，忍着咽了一下，睫毛上挂着水珠，红着眼盯住画面左侧的父亲。
+2.2–3s：焦点滑到她身后，伊森通红的眼睛越过她的发丝，也盯着画面左侧，眼神已经站不住。
+落幅：焦点停在伊森的眼睛上，奥利维亚的耳廓和湿发虚在前面。
+声音：湖风，他又急又乱的鼻息。
+镜头2｜3–6.5s｜父亲没退，他退了半步
+机位：中景 40mm｜朝尽头｜文森特右肩后、站着的高度
+运镜：接着伊森的眼神切过来。稳定器从文森特右肩后缓缓压近半步，带着他平稳的呼吸起伏，落定。
+构图：文森特虚化的右肩和翻动的衣领占住左侧一角，伊森和奥利维亚落在右侧三分线、紧贴湖栏；湿木板上的暖反光把视线引向他们，横栏杆和对岸城市灯火在最深处。
+光影：第二盏灯从身后在文森特的肩线上勾一道暖边，他前面几步是暗的；伊森和奥利维亚衬在尽头灯铺开的湿反光前，脸是冷的，轮廓是暖的。
+3–4.8s：伊森拖着奥利维亚往后蹭半步，鞋跟在湿木板上一滑，胯撞上湖栏，眼睛从文森特脸上闪开，又被拽回来。
+4.8–6.5s：奥利维亚朝父亲极轻地摇了一下头，嘴唇发颤；文森特的肩稳稳不动，只有风衣的边在风里翻。
+落幅：镜头停稳，三个人一前一后，伊森背贴湖栏，退不动了。
+声音：鞋跟打滑的一声，湖风灌过栏杆。
+镜头3｜6.5–9s｜他崩了
+机位：近景 100mm｜朝尽头｜伊森面前、他眼睛的高度
+运镜：接着他被拽回来的眼神切近。手持，随他的喘息微晃，慢慢逼近；吼出口的一瞬镜头一震，随即停住。
+构图：伊森的脸在右侧三分线，看的方向留在左侧；奥利维亚的湿发虚在右侧前景。
+光影：湖面的冷光从右侧压在他脸上，颧骨和汗亮起来，左侧发际只有一线暖；眼睛里一点冷的反光在抖。
+6.5–7.2s：他的眼珠乱闪，刀、文森特、身后的湖，收回来时有什么断了，下颌抖着咬紧。
+7.2–8.5s：伊森开口，其余人嘴唇合着。
+Emotion order, strong and plainly visible, a little overplayed: cornered → it snaps → he throws everything into the scream.
+Dialogue: 7.2–8.5s, Ethan, to Vincent, in American English, (a sharp ragged breath first) a hoarse scream, all in one breath: {Go to hell!}
+8.5–9s：他的嘴咬合，鼻孔喷出一团白气，肩膀已经往前压。
+落幅：他的嘴咬合，肩膀已经压出画面左侧。
+声音：嘶吼在夜风里散开。
+镜头4｜9–12s｜甩开她，冲过来
+机位：全景到中景 28mm｜朝尽头｜文森特身前两步、胸口的高度，正对伊森
+运镜：接着他前压的肩切开。手持，伊森一冲，镜头就以同样的速度后退，让他越逼越近，最后一瞬稳住。
+构图：伊森从右侧三分线的中景一路冲到前景；深处左侧的尽头灯暖光里，跌坐的奥利维亚始终露在他身旁；湖栏的柱子在右侧一根根掠过。
+光影：他从尽头灯的逆光里冲进中间的暗处，轮廓先暖后冷，水花在逆光里亮成一片碎点；奥利维亚坐的那圈光始终是整幅最暖的地方。
+9–10.3s：伊森左臂一甩，把奥利维亚朝尽头灯那边甩出去；她踉跄两步，跌坐进尽头灯那圈暖光里，后背撞上横栏杆，双手撑住湿木板。
+10.3–12s：伊森转回来，右手举起短刀，踩着积水直冲镜头左侧的文森特，脸越来越大，水花被踢开，白气拖在身后；深处的暖光里，奥利维亚撑着身子朝这边看。
+落幅：伊森的身体占满前景，刀举在肩旁，离文森特还有两步。
+声音：后背撞栏杆的闷响，湿木板上急促的脚步压过来。
+【结束画面】
+伊森：右手举着短刀，正踩着积水朝陆地端的文森特冲，离他两步。
+奥利维亚：跌坐在尽头灯那圈暖光里，背靠横栏杆，双手撑着湿木板，脸朝陆地端。
+文森特：站在第二盏灯那圈光朝尽头的边沿，一步没挪，脸朝尽头，空着手。
+台词已经说完，所有人嘴唇合着。
+【声音】
+全程现场同期声：对白清楚地在最前面，后面是湖风、湿木板、衣料、呼吸，加上每一镜写明的动作声；远近分得清，近的清楚、远的被风吹散。无配乐，无字幕。
+Shot on 35mm Kodak Vision3 film with Cooke spherical primes, high-end live-action crime family drama, Chicago winter night, low-key motivated light from dock lamps and the cold lake, sodium warm against cold steel-blue with deep ink-blue blacks, halation, soft focus at the frame edges, fine film grain.

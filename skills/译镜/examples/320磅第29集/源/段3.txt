@@ -1,0 +1,63 @@
+# 第 29 集 段 3
+段: 3
+戏种: 文戏
+场景: 发布会后台，夜
+环境声: 衣架挂钩和远处的脚步声
+
+人: Wendy | 头发别在一侧耳后。
+人: Ethan | 刚给轮椅模特扣好项链，镜3 站起来。
+人: Jenny | 镜1 凑到温蒂耳边。
+人: ChairModel | 在角落，镜3 在伊森身后虚着。
+# 连续性账本：姿态 | 位置 | 手里的东西。上一段的收场要等于这一段的开场。
+开场: Wendy | 站着 | 在试衣间口外一步 | 手里没有东西
+开场: Ethan | 蹲着 | 在最后一个衣架旁的角落 | 一只胳膊挎着那摞白披肩
+收场: Ethan | 站着 | 在最后一个衣架旁的角落 | 一只胳膊挎着那摞白披肩
+表演: Wendy (温蒂): composed; it leaks from the corners of her mouth and from her ears, which slowly warm.
+表演: Jenny (珍妮): quick and bright, one notch bigger than everyone else, enjoying every second of this.
+表演: Ethan (伊森): earnest; when he catches her looking, he stops for a heartbeat, then a boyish smile takes over his face.
+
+空间: Wendy stands one step outside the fitting room; Jenny leans in at her shoulder, half a step behind her; Ethan, at the far end of the aisle beside the last garment rack, stands up from a crouch and turns toward the fitting rooms, about six paces from her. 180-degree rule: Wendy is always nearer the lens with Jenny half a step behind her shoulder, both standing on the same floor; Ethan is always seen with the aisle and the drapes behind him; the camera never crosses the line between Wendy and Ethan.
+视线: Wendy looks screen-RIGHT just beside the lens toward Ethan; Jenny looks screen-LEFT and down at Wendy; Ethan looks screen-LEFT just beside the lens toward Wendy.
+逻辑: Jenny can see what Wendy will not admit, and teases her for it. Wendy denies it with her words while her face gives her away; when Ethan catches her looking, she is the one who looks away first.
+同框: People share it in depth, never spread across its width; people standing on the same floor keep their real heights, the nearer one larger.
+正反打: Wendy with the fitting-room curtains behind her, Ethan with the aisle and the drapes behind him, both singles at the same size, meeting eye to eye at the end.
+状态: from shot 1 Jenny is at Wendy's shoulder; from shot 3 Ethan is standing; from shot 4 Wendy's ear is pink.
+结束: Wendy in close-up, eyes down and away at screen-LEFT, lips pressed on a smile, one ear pink; every line has been spoken and all lips are closed; the show lights have not gone down yet.
+
+== 镜头：珍妮凑过来拆穿 ==
+机位: 中近景 50mm | 2 | 温蒂斜前方约两米、肩高；两人站在同一地面、拍到胸口以上，温蒂离镜头近，珍妮在她身后半步，比她矮一点；背景是帘子和全身镜
+运镜: 固定（悄悄话）
+主体: Wendy、Jenny
+分镜秒: 6
+拍 0.8: Wendy stands nearest the lens, seen from the chest up, eyes screen-RIGHT; Jenny leans in at her shoulder from screen-RIGHT, a little shorter than her, tablet and iced coffee in one hand, brows up.
+说 5.2: Jenny > Wendy | fast and low, close to her ear, teasing | Girl, if I didn't know better, I'd say he's actually in love.
+说时: Jenny speaks into her ear; Wendy keeps watching screen-RIGHT, lips closed, eyes not moving.
+声: Ice shifting in her cup.
+
+== 镜头：嘴硬，嘴角却翘了 ==
+机位: 近景 85mm | 2 | 温蒂面前约一米、眼高；脸撑满画面宽、在画面上半；身后是虚掉的帘子
+运镜: 固定（嘴和嘴角都要看见）
+主体: Wendy
+分镜秒: 3
+拍 0.5: Cut on the line, Wendy does not turn to Jenny; her eyes stay screen-RIGHT just beside the lens.
+说 2.1: Wendy > Jenny | flat and quiet, refusing the bait | He's just doing his job.
+拍 0.4: Her lips close, and one corner of her mouth curls up on its own.
+声: Her breath.
+
+== 镜头：他站起来，撞上她的眼 ==
+机位: 近景 85mm | 1 | 过道里、伊森面前约一米半、眼高；脸在画面上半；身后是虚掉的过道、衣架和幕布那道冷蓝的缝
+运镜: 固定（愣和笑都在一张脸上）
+主体: Ethan
+分镜秒: 3
+拍 1.5: Cut on the look, Ethan rises from his crouch and turns; his eyes land screen-LEFT just beside the lens, right on her, and he stops for a heartbeat, lips parted.
+拍 1.5: Then a wide, boyish smile reaches his eyes; his hand drifts up toward his tie and stops halfway.
+声: His knees cracking as he stands.
+
+== 镜头：她别开眼，耳根红了 ==
+机位: 近景 85mm | 2 | 温蒂面前约一米、眼高；脸撑满画面宽、在画面上半；身后是虚掉的帘子
+运镜: 固定（让耳朵的红留在画面里）
+主体: Wendy
+分镜秒: 3
+拍 1: Cut on the look, Wendy's eyes meet his, then drop away screen-LEFT and down at once.
+拍 2: She presses her lips together against a smile; behind the hair tucked over one ear, the ear slowly turns pink.
+声: A soft breath out.

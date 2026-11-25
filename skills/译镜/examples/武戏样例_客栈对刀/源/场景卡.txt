@@ -1,0 +1,36 @@
+# 武戏样例的场景卡。武戏要多写"特效规范"（多行）。
+== 场景：客栈大堂，夜 ==
+时间: 深夜，客人都跑光了
+材质: 粗布衣服磨得发白，木桌木柱有刀痕，刀剑是磨亮的冷铁
+光源: In the hall, light comes only from the oil lamps on the tables and the lanterns hanging on the far wall.
+空气: lamp smoke and dust hang in the lamplight
+前景: the dark edge of a pillar down one side of the frame
+高光: lamp
+总览图: @客栈_总览
+总览: 一头是大门和一张倒下的桌子，另一头是挂灯笼的远墙和墙边一排桌子；中间一段空地，两边各一排木柱。约十二米长，屋顶比人高一倍
+地图: 一头是大门和倒下的桌子，另一头是挂灯笼的远墙和墙边的桌子；中间是空地，两边是木柱
+站位: 剑客身后永远是方向2（大门和倒下的桌子）；山匪身后永远是方向1（远墙）
+不入画: 画面里没有字、牌匾、别的人
+锚点: Swordsman | 2
+锚点: Bandit | 1
+特效规范: <<<
+1. The hall is dim between the lamps. Light comes only from the oil lamps on the tables and the lanterns on the far wall. Every flame and spark lights its surroundings with an uneven flicker: faces, skin, steel, dust and the air itself, the light falling off into deep darkness. Nothing glows without lighting the world around it.
+2. Matter in the air: lamp smoke and dust hang in the lamplight the whole time; every fast move throws them up, and every impact throws a burst of dust along with whatever it breaks loose. Dust drifts between the camera and the fighters, some of it right across the lens. Shoot through foreground layers (the edge of a pillar down one side of the frame) so that everything feels photographed in one real space.
+3. Air: when a body or a blade moves fast, a visible push of air goes ahead of it, scattering the dust and bending the lamp flames; hair and cloth are pressed flat before the blow lands: the air arrives before the blow.
+4. Each kind of contact has its own effect. Sparks come only where metal strikes metal: a short burst of separate sparks of uneven size that fly apart in arcs under gravity, cool from white to orange to dull red and die on the floorboards. A blow to the body knocks a burst of sweat and dust out of the cloth. A blade in wood throws splinters.
+5. The saber and sword slashes: plain worn steel. Every swing tears through the lamp smoke along its arc and leaves a broad smear of it filling the whole area the blade sweeps, dense at the leading edge, gone within a third of a second; never a thin line.
+>>>
+
+-- 方向1：朝远墙 --
+图: @客栈_1朝远墙
+背景: 尽头是挂灯笼的远墙和墙边一排桌子，中间一段空地，右边一排木柱
+尺寸: 木柱比人高一倍
+朝: the far wall
+光: the oil lamps light every face from screen-LEFT, warm and uneven; the lanterns on the far wall glow small in the depth; no bare flame is close to the lens.
+
+-- 方向2：朝大门 --
+图: @客栈_2朝大门
+背景: 尽头是关着的大门，门前一张倒下的桌子，两边木柱
+尺寸: 倒下的桌子比人的腰矮一点
+朝: the door and the overturned table
+光: the oil lamps light every face from screen-RIGHT, warm and uneven; the door behind stays dark.

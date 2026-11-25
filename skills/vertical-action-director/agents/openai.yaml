@@ -1,4 +1,0 @@
-interface:
-  display_name: "竖屏武戏编导"
-  short_description: "用小版把竖屏动作戏的镜头、反应与衔接写成提示词，并附检查规则。"
-  default_prompt: "用 $vertical-action-director，根据分镜写这段虚构动作戏的提示词，保留镜头切点并跑检查。"

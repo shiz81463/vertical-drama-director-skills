@@ -1,0 +1,63 @@
+# 第 29 集 段 4
+段: 4
+戏种: 文戏
+场景: 发布会T台，夜
+环境声: 掌声、高跟鞋踩 T 台和轮椅轮子
+
+人: Wendy | 镜4 从拱门里走出来。
+人: Ethan |
+人: PlusModel | 走在模特队伍最前面。
+人: SilverModel | 走在模特队伍里。
+人: ChairModel | 坐着轮椅在 T 台上走秀。
+人: Models | 这一段五六位，依次从拱门走出来。
+人: Guests | 坐满 T 台两边的矮椅。
+人: Host | 镜4 站在台口拱门一侧。
+# 连续性账本：姿态 | 位置 | 手里的东西。上一段的收场要等于这一段的开场。
+开场: Wendy | 站着 | 在拱门里面、还没出来 | 手里没有东西
+收场: Wendy | 站着 | 在台口拱门前一步 | 手里一支话筒
+开场: Ethan | 坐着 | 在第一排、离台口第二个座位 | 手里没有东西
+表演: The models (模特们): each with her own walk, unhurried and sure of herself.
+表演: Ethan (伊森): in the front row, proud; it leaks from his eyes, which follow every model.
+表演: Wendy (温蒂): calm, every movement clean; she walks into the light without hurry.
+
+空间: The runway runs straight from the arched backdrop to the photographers' riser; the models walk from the arch toward the far end; the guests sit in rows on both sides; Ethan sits in the front row near the stage end. 180-degree rule: in the shots along the runway the arch is always at the top of the frame; in the front-row shot the stage end is always at screen-RIGHT; the camera never crosses to the other side of the runway.
+视线: the models look straight ahead down the runway, just past the lens; the front-row guests look screen-RIGHT and up at the runway; Ethan looks screen-RIGHT and up at the runway; the host looks toward the arch.
+逻辑: The audience came half expecting a novelty and is won over model by model. Wendy is about to stand in the light as herself.
+同框: The runway runs up the frame and people share it in depth, never spread across its width: people on the same floor keep their real heights, the nearer one larger.
+正反打: the runway is always seen from the far end with the arch at the top of the frame; the front row is always seen across the runway from the other side, at the same distance each time.
+状态: from shot 1 the house lights are down and the runway is lit; from shot 4 Wendy stands in the spotlight with the microphone and the host is out of the light.
+结束: Wendy alone in the soft spotlight one step in front of the arch, microphone in hand, the host off to the side in the dark; nobody has spoken; she has not begun her speech.
+
+== 镜头：灯一暗一亮，开秀 ==
+机位: 大全景 35mm | 1 | T 台尽头的摄影师小台上、比人眼高，顺着 T 台往台口看；T 台从画面下方一路通到上方的拱门
+运镜: 固定（灯自己变）
+分镜秒: 3
+拍 1.5: The house lights go down; the runway lights up white from end to end and the arched backdrop glows warm gold at the top of the frame; the rows on both sides fall dark.
+拍 1.5: The first model is already in the arch opening in the white light and starts down the runway toward the lens.
+声: The room going quiet.
+
+== 镜头：不同身材、年龄的女人走来 ==
+机位: 中景 85mm | 1 | T 台尽头、台面高度的低机位，长焦顺着 T 台；拱门在画面上方虚着
+运镜: 固定（让她们自己走近）
+分镜秒: 5
+拍 2: Matched on action, the plus-size model walks toward the lens, shoulders back, her necklace catching the light.
+拍 3: Behind her the silver-haired model and the young woman in the wheelchair come down the runway in a line, each wearing pieces from the same collection, each sure of herself.
+声: Heels on the runway, the soft roll of wheels.
+
+== 镜头：台下从议论到鼓掌 ==
+机位: 中近景 50mm | 3 | T 台另一边的地面、站着的人眼高，隔着 T 台看第一排；T 台亮的边压在画面下方；台口在画面右边
+运镜: 固定（反应自己变）
+主体: Ethan
+分镜秒: 3
+拍 1.5: Cut on the look, across the bright edge of the runway, front-row guests lean their heads together, then stop and watch screen-RIGHT and up, nodding.
+拍 1.5: They begin to clap; Ethan, second seat from the stage end at the right of the frame, claps with them, his eyes on the runway.
+声: Applause starting, then spreading.
+
+== 镜头：主持人请，她走进光里 ==
+机位: 全景 85mm | 1 | T 台尽头、台面高度的低机位，长焦；拱门和台口在画面上半
+运镜: 固定（她走进光里停住）
+主体: Wendy
+分镜秒: 4
+拍 1.5: Cut on the reaction, at the head of the runway the host turns to the arch and opens one hand toward it.
+拍 2.5: Wendy, in the simple white dress, walks out of the arch into a soft spotlight and stops one step in front of it; the host puts the microphone in her hand and steps aside, out of the light.
+声: The applause swelling.

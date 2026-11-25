@@ -1,0 +1,59 @@
+# 第 29 集 段 7
+段: 7
+戏种: 文戏
+场景: 发布会T台，夜
+环境声: 掌声
+
+人: Wendy |
+人: Ethan | 镜3 全场起立时站起来。
+人: Guests | 坐满 T 台两边，镜3 一排排站起来鼓掌。
+# 连续性账本：姿态 | 位置 | 手里的东西。上一段的收场要等于这一段的开场。
+开场: Wendy | 站着 | 在台口拱门前一步 | 手里一支话筒
+开场: Ethan | 坐着 | 在第一排、离台口第二个座位 | 手里没有东西
+收场: Ethan | 站着 | 在第一排、离台口第二个座位 | 手里没有东西
+表演: Wendy (温蒂): calm, her power rising with each phrase; it leaks from her eyes.
+表演: Ethan (伊森): on his feet, proud; it leaks from his eyes and from his hands, which will not stop clapping.
+
+空间: Wendy stands one step in front of the arch at the head of the runway; the audience fills the rows on both sides of the runway; Ethan is in the front row near the stage end. 180-degree rule: in Wendy's shots Ethan is always off screen-LEFT; in Ethan's shot the stage end is always at screen-RIGHT; the camera never crosses the line between them.
+视线: Wendy looks out over the audience just past the lens; Ethan looks screen-RIGHT and up at her.
+逻辑: The last words land on everyone at once. Ethan, who once judged her by her size, is the proudest person in the room.
+同框: Wendy stands in it with the arch behind her; seen from behind her, she is a small figure low in the frame with the whole room above.
+正反打: Wendy from the front with the arch behind her; the room from high behind her; Ethan across the runway with the rows behind him.
+状态: from shot 3 the whole room is on its feet and clapping, and stays so; from shot 4 Ethan is standing.
+结束: Ethan on his feet, clapping, eyes screen-RIGHT and up on her, the standing rows behind him; every line has been spoken and all lips are closed; the lights have not dimmed for the finale yet.
+
+== 镜头：越说越有力 ==
+机位: 中近景→近景 50mm | 1 | 第一排的高度、她斜前方约三米，略仰；她在画面上半；身后拱门一侧虚着
+运镜: 缓推（力量一点点上来）
+主体: Wendy
+分镜秒: 6
+拍 0.3: From a little below, Wendy draws a breath, eyes bright on the room.
+说 5.7: Wendy > the audience | rising, stronger with each phrase | It's in what you create, what you stand for, and how you treat people.
+声: Her voice close to the microphone.
+
+== 镜头：最后一句落地 ==
+机位: 近景 85mm | 1 | T 台上、她正前方约两米、眼高；脸在画面上半；身后是虚掉的拱门
+运镜: 固定（干净的落点）
+主体: Wendy
+分镜秒: 3
+拍 0.3: Cut on the line, Wendy faces the room squarely, upper middle of the frame.
+说 2: Wendy > the audience | calm, landing it | That's what “Unfiltered” is about.
+拍 0.7: She lowers the microphone a little; the corners of her mouth loosen.
+声: A breath of silence.
+
+== 镜头：全场起立 ==
+机位: 大全景 35mm | 2 | 台口、她身后高处的灯架下，顺着 T 台往台尾看；她的背影在画面下方，T 台和一排排观众往上铺开
+运镜: 固定（全场自己站起来）
+分镜秒: 3
+拍 1.5: Cut on the reaction, seen from high behind her, Wendy is a small white figure low in the frame; up the frame the whole room breaks into applause.
+拍 1.5: Row after row, people rise to their feet, clapping.
+声: Loud applause from every row.
+
+== 镜头：他最用力 ==
+机位: 中近景 50mm | 3 | T 台另一边的地面、站着的人眼高，隔着 T 台看第一排；T 台亮的边压在画面下方；台口在画面右边
+运镜: 固定（骄傲留在脸上）
+主体: Ethan
+分镜秒: 3
+拍 1.5: Cut on the reaction, Ethan is already on his feet in the front row, upper middle of the frame, clapping hard, eyes screen-RIGHT and up on her.
+拍 1.5: His eyes shine; he looks nowhere else.
+声: His palms clapping close by.

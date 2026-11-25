@@ -1,0 +1,18 @@
+# 情绪的固定句（V1.2，2026-11-20）。和别的模板一样，只有总控改。
+# 依据：《黑帮老大的圣诞礼物》第 29 集段 5 对照测试（E:\Desktop\第29集\对照测试_段5_台词与中文逐拍）。
+#   E 组写"moderate and readable, never overplayed"，用户看片：情绪平；
+#   F 组写"strong and plainly visible, a little overplayed"、把模板"小而真"那句换成下面的"放开"句，用户看片：情绪、音量、语气都对了。
+#
+# 一、段落源"情绪: 档 | 格1 → 格2"编译成 "Emotion order, <短语>: 格1 → 格2."，档翻成下面的短语。
+#     只有"过"测过（F 组）；收、显、破是按同一个写法推的，没测过。
+档 收: subtle but readable
+档 显: strong and plainly visible
+档 过: strong and plainly visible, a little overplayed
+档 破: overwhelming, breaking down
+#
+# 二、一段里有一条"情绪"的档是 显、过、破，就把模板里"小而真"那句换掉（按顺序找，先找整句，找不到再找前半句）。
+#     文戏模板是整句；险情模板只有前半句，后半句是险情自己的三层，不动。武戏模板没有这句。
+原: SMALL AND TRUE: real people, a camera very close; two to four small physical signals at a time, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling leaking out, then control.
+换: REAL AND VISIBLE: real people, a camera very close; the feeling shows plainly on the face and in the voice, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling breaking through, and it stays visible.
+原: SMALL AND TRUE: real people, a camera very close; two to four small physical signals at a time, never mimed, never a blank face.
+换: REAL AND VISIBLE: real people, a camera very close; the feeling shows plainly on the face and in the voice, never mimed, never a blank face.

@@ -1,0 +1,71 @@
+# 第 29 集 段 1
+段: 1
+戏种: 文戏
+场景: 发布会后台，夜
+环境声: 化妆刷、衣架挂钩和脚步声
+
+人: Wendy | 镜4 从试衣间里走出来。
+人: Ethan | 镜2 把饮料递给大码模特。
+人: PlusModel | 坐在第二面化妆镜前的化妆椅上，椅子转过来朝着过道。
+人: Models | 这一段四五位，在化妆镜前化妆、试戴珠宝，笑着，不看镜头。
+# 连续性账本：姿态 | 位置 | 手里的东西。上一段的收场要等于这一段的开场。
+开场: Wendy | 站着 | 在试衣间里、帘子后面 | 手里没有东西
+收场: Wendy | 站着 | 在试衣间口外一步 | 手里没有东西
+开场: Ethan | 走着 | 在过道里 | 一只胳膊挎着一摞叠好的白披肩，另一只手拿着一小瓶饮料
+收场: Ethan | 站着 | 在过道里 | 一只胳膊挎着那摞白披肩
+表演: Ethan (伊森): no airs left tonight, busy and glad to help; it leaks from his eyes, which keep finding her and darting away.
+表演: Wendy (温蒂): composed and quietly radiant; it leaks from the corners of her mouth, which rise before she can stop them.
+表演: The plus-size model (大码模特): relaxed and teasing, laughing easily.
+
+空间: In the aisle, the plus-size model sits in a makeup chair turned toward the aisle and Ethan stops one pace in front of her; Wendy steps out of a fitting room at the other end, about six paces from him. 180-degree rule: the plus-size model is always on the LEFT of frame and Ethan on the RIGHT; the camera never crosses the line between Wendy and Ethan.
+视线: the model looks screen-RIGHT and up at Ethan, Ethan looks screen-LEFT and down at her; Wendy looks screen-RIGHT just beside the lens, down the aisle toward Ethan.
+逻辑: Ethan has dropped every trace of the arrogant heir and is quietly working to earn Wendy back, though he never says so. Wendy sees it, and her face softens before she means it to.
+同框: People share it in depth, never spread across its width; people standing on the same floor keep their real heights, the nearer one larger.
+正反打: Ethan is always seen with the aisle and the stage drapes behind him, Wendy always with the fitting-room curtains behind her; both singles at the same size.
+状态: from shot 2 the small bottle is in the plus-size model's hand; from shot 4 Wendy stands just outside the fitting room.
+结束: Wendy alone in close-up outside the fitting room, the curtains blurred behind her, eyes screen-RIGHT just beside the lens, a small smile; every line has been spoken and all lips are closed; Julian has not come over yet.
+
+== 镜头：反差：总裁抱着披肩打杂 ==
+机位: 大全景 35mm | 1 | 试衣间口旁、比人眼略高，顺着过道往舞台口看；化妆镜那一排在画面左边，衣架在右边，尽头是黑幕布
+运镜: 固定（让他自己走近）
+分镜秒: 3
+拍 1.5: Models sit along the bulb-lit mirrors on the left of the frame doing make-up and trying on necklaces, smiling; garment racks run up the right side.
+拍 1.5: Out of the depth of the aisle Ethan walks quickly toward the lens, a neat stack of folded white shawls over one arm and a small bottle in his other hand, weaving between the chairs.
+声: Make-up brushes, hangers clicking on a rail, quick footsteps.
+
+== 镜头：递水，模特调侃他 ==
+机位: 中景 50mm | 1 | 过道里、肩高，在第二面化妆镜对面；模特近、在画面左下，伊森远一步、在画面上方；画面尽头是过道和幕布
+运镜: 固定（两个人自己说）
+分镜秒: 4
+拍 0.3: Matched on action, Ethan stops one pace from the plus-size model and holds out the bottle; she takes it, her eyes lifting to his face, already laughing.
+说 3.6: the plus-size model > Ethan | light and quick, teasing him | Mr. Voss, you don't have to do all this!
+说时: She teases him, laughing; Ethan listens, a smile starting.
+拍 0.1: She smiles up at him; he shrugs, the shawls slipping a little on his arm.
+声: The bottle cap crackling.
+
+== 镜头：他摆摆手，一点架子都没有 ==
+机位: 近景 85mm | 1 | 过道里、伊森面前约一米半、眼高；脸在画面上半；身后是虚掉的过道和幕布那道冷蓝的缝
+运镜: 固定（只看他的笑）
+主体: Ethan
+分镜秒: 3
+拍 0.2: Cut on the line, Ethan looks screen-LEFT and down at her with an easy smile and brushes it off with a flick of his free hand.
+说 2.8: Ethan > the plus-size model | easy and warm, brushing it off | Nah, it's show night. Everyone pitches in.
+声: The shawls rustling on his arm.
+
+== 镜头：白裙出场 ==
+机位: 全景→中景 35mm | 2 | 过道里、离试衣间约三米、眼高；两道象牙色帘子在画面中间，全身镜斜着、照不到镜头
+运镜: 缓推（她走出来的那一下）
+主体: Wendy
+分镜秒: 4
+拍 2: Cut on the line, one ivory curtain slides open from inside and Wendy steps out in a simple white dress, composed, unhurried.
+拍 2: She walks two steps toward the lens and stops just outside the fitting room, upper middle of the frame; her eyes go screen-RIGHT, down the aisle.
+声: The curtain rings sliding on the brass rail.
+
+== 镜头：看见他，嘴角先动了 ==
+机位: 近景 85mm | 2 | 温蒂面前约一米、眼高；脸撑满画面宽、在画面上半；身后是虚掉的帘子
+运镜: 固定（嘴角自己跑出来）
+主体: Wendy
+分镜秒: 3
+拍 1.5: Cut on the look, Wendy's eyes search screen-RIGHT just beside the lens and find him; a soft blink.
+拍 1.5: The corners of her mouth rise before she can stop them; a small breath out through her nose.
+声: Her breath.

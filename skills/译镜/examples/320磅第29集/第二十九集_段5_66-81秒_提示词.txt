@@ -1,0 +1,73 @@
+【第29集·段5】
+【全局视觉风格】
+Netflix 顶级美剧的真人实拍质感，当代美国豪门都市爱情剧，高预算剧集的布景、服装、化妆与电影级布光：《摘金奇缘》式豪门盛宴的金色华光，《绯闻女孩》式上流名利场的锋利光泽，顶级珠宝与香水广告级的皮肤和高光质感，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 电影胶片拍摄（日景 250D，夜景 500T），柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 35mm，中景 50mm，面部特写 85mm），1/8 黑柔焦滤镜，浅景深，奶油般柔和的圆形焦外，细腻的胶片颗粒。色彩以暖香槟金与深青蓝的冷暖对比为骨架，象牙白与祖母绿点缀，肤色温暖、红润、通透，饱和度浓郁而克制。真实材质：真丝缎面流动的长高光与被身体撑紧的褶皱，亮片、水晶与珠宝切面的细碎火彩，定制羊毛西装的织纹，抛光石材和玻璃里的倒影，香槟里一串串上升的气泡，烫金纸面的压凹纹路。真实活人皮肤：毛孔、细小绒毛、碎发、雀斑，鼻翼和额头一点自然的油润光泽，逆光时耳廓微微透红，自然妆面；身材与体态完全照参考图，丰满的身体有真实的重量，布料被真实地撑起和垂坠，不做美颜瘦身。负面提示词：动漫、二次元、卡通、插画、CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、网红滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、古装、奇幻魔法光效、文字、水印、LOGO。
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：白裙在白光里发亮，珠宝切面闪碎光，石墙粗糙有颗粒；所有东西都笼在同一种暖香槟金色的光里，肤色暖而通透，暗部压深、带一点干净的深青蓝。
+【实拍光影规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+Every light lights the faces near it, the light falling off into deep darkness. Nothing glows without lighting the world around it. In the show hall the house lights are down: light comes only from the white wash on the runway, the warm gold wash on the backdrop and, while Wendy speaks, one soft-edged spotlight on her; a light haze shows the rays of light. Every face is lit the way a lead is lit in a high-end drama: a large, soft key from a light that is really in the scene, the shadow side of the face falling away cleanly into shade, a thin edge of light along the hair and shoulders that lifts the person off the background, and a clear catchlight in each eye. The eye always goes to the faces first: they are the most carefully lit thing in the frame, the background falls away behind them into soft focus, and the blacks are deep and clean yet still hold detail.
+FACING 1 (toward the arched backdrop): white light from the truss falls on everyone on the runway from above and in front; Wendy stands in a soft-edged spotlight that comes from behind the camera; the backdrop glows warm gold; the audience on both sides stays dark; no lamp is in frame, only soft rays in the haze.
+Air: a light haze hangs in the light over the runway; shoot through the blurred edge of a front-row chair or of the arch along one side of the frame so that everything feels photographed in one real space.
+Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; the stage-light highlights roll off into a soft, creamy bloom while the shadows sink into a deep, clean teal-blue darkness.
+Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+发布会T台 @T台_总览 ：外形照参考图，不采用参考图的光线和CG质感；下面几张是同一个地方朝不同方向看的样子，成片里就是这一个地方。只有一条直 T 台，约二十米长、高到人的膝盖；一头是暖沙色石墙和亚麻板的背板，正中只有一道高拱门；另一头是摄影师小台。T 台两边各五六排浅灰褐色矮软椅，第一排紧贴台边。参考图里没有人：成片里只有下面写到的人。
+方向1背景 @T台_1朝背板 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向1（朝背板）的镜头，背景就是图里这一头：正中的高拱门，暖沙色石墙和亚麻板，两边暗着的观众席。图里没有人。拱门比人高两倍。
+温蒂 @Wendy ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个温蒂，别人都不长她的样子、不穿她的衣服。第 29 集是减重以后的她，体型照参考图；比伊森矮一个头；穿一条简约的白色长裙。这一段开场：站着，在台口拱门前一步，手里一支话筒。
+【场景：发布会T台，夜】
+发布会T台照参考图。发布会当晚，场内灯光压暗，整段在这一个地方，不换地点。
+地图：一条直 T 台，一头是拱门背板（台口），另一头是摄影师小台（台尾）；两边是观众席，第一排紧贴台边。
+站位：温蒂致辞时站在台口拱门前一步，身后永远是方向1（拱门背板）；伊森坐在第一排、离台口第二个座位，身后永远是方向3（第一排和后排），台口在他的画面右边；同一排往台尾数第四个座位空着。
+不入画：画面里没有字、品牌名、屏幕。
+【人物与表演——高优先级】
+SMALL AND TRUE: real people, a camera very close; two to four small physical signals at a time, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling leaking out, then control. The listener is always acting too, lips closed.
+Wendy (温蒂): calm and still, speaking with quiet power; it leaks from her eyes, a brightness she holds down with a steady jaw.
+Every named character appears exactly once.
+ENGLISH ONLY: every spoken word is in American English, never Chinese; background people make only wordless sounds (gasps, breath, laughter, applause). This segment has only these four lines, each spoken once, word for word, by the person named; only the speaker's lips move; nobody says anything else.
+【空间与视线——最高优先级】
+SPACE: Wendy stands alone one step in front of the arch at the head of the runway, facing the audience down the runway; the audience is in front of her, below and beyond the lens. 180-degree rule: the arch is always behind her; the camera always stays on the audience side of her and never goes behind the backdrop.
+EYELINES: Wendy looks out over the audience just past the lens, a little down toward the rows; Wendy looks screen-LEFT only when her eyes drop for an instant. In singles each eyeline passes just beside the lens. Every look has a target in the scene.
+【戏的逻辑——高优先级】
+SCENE LOGIC: Wendy is saying in public what she believed about herself for years. It costs her something, and she lets it show only in her eyes.
+【镜头衔接——高优先级】
+FOUR SHOTS, hard cuts only at 2, 7 and 12 s. Every cut has a reason (a look, a line, a reaction, a movement); each shot opens exactly where the last one ended, and no line and no action restarts after a cut.
+TALL FRAME: the frame is tall and narrow. Wendy stands in it alone with the arch rising behind her. Faces stay in the upper two thirds of the frame; anyone who comes or goes moves toward or away from the lens.
+UPRIGHT: the camera is always level and the right way up: floor at the bottom, gravity pulling down, heads above feet.
+ONE IMAGE: every shot is one continuous image of one real space through one lens: no split screen, no panels, no picture in picture, no double exposure.
+SHOT AND REVERSE SHOT: Wendy is shot from the front only, alternating a level close shot and a slightly low three-quarter shot, both with the arch blurred behind her.
+CAMERA FEELS: the camera moves only when a feeling changes, eases in as someone gives themselves away, and holds still while a feeling is held in; it never zooms and never cuts away before a reaction lands.
+【本段状态】
+STATE: Each change appears only at the moment it happens, then stays: from shot 3 her eyes are bright and stay bright.
+镜头1｜0–2s｜开口
+[近景 85mm, 方向1（朝背板），T 台上、她正前方约两米、眼高；脸在画面上半；身后是虚掉的拱门]
+运镜：固定（话说给每一个人）
+0–2s: Wendy stands in the soft light, upper middle of the frame, microphone steady at her chin, and speaks to the rows just past the lens.
+Dialogue: 0–2s, Wendy, to the audience, in American English, calm, clear and unhurried: {Thank you all for coming.}
+Sound: Her voice in the quiet hall.
+镜头2｜2–7s｜说到体重秤
+[中近景 50mm, 方向1（朝背板），第一排的高度、她斜前方约三米，略仰；她在画面上半；身后拱门一侧虚着]
+运镜：固定（说的是低处的过去）
+2–2.2s: Cut on the line, Wendy seen from a little below, upper half of the frame, the arch blurred beside her; a small breath in.
+2.2–7s: She speaks; on the last words her eyes drop to screen-LEFT for an instant and come back up.
+Dialogue: 2.2–7s, Wendy, to the audience, in American English, slow and even, plain truth: {For a long time, I thought my worth was on a scale.}
+Sound: A chair creaking far off.
+镜头3｜7–12s｜说到最难的那半句
+[近景→特写 85mm, 方向1（朝背板），T 台上、她正前方约两米、眼高；脸在画面上半；身后是虚掉的拱门]
+运镜：缓推（说到最难的地方）
+7–7.4s: Matched on action, her eyes come back up and hold the room.
+7.4–11.8s: Wendy speaks; everyone else keeps their lips closed.
+Dialogue: 7.4–11.8s, Wendy, to the audience, in American English, even and low, holding steady: {That if I wasn't thin, I didn't deserve to be seen,}
+11.8–12s: Her eyes have gone bright; her jaw stays set.
+Sound: Her breath close to the microphone.
+镜头4｜12–15s｜说完它，站稳
+[中近景 50mm, 方向1（朝背板），第一排的高度、她斜前方约三米，略仰；她在画面上半；身后拱门一侧虚着]
+运镜：固定（她站稳了）
+12–12.1s: Cut on the line, from a little below again, she goes on without a pause.
+12.1–14.9s: Wendy speaks; everyone else keeps their lips closed.
+Dialogue: 12.1–14.9s, Wendy, to the audience, in American English, steady, a little quieter, finishing the thought: {to be loved, to be taken seriously.}
+14.9–15s: Her lips press together; her head stays high; the bright eyes do not spill.
+Sound: Silence in the hall.
+【结束状态】
+END STATE: the last frame is the end of shot 4: Wendy in the soft light seen from a little below, lips pressed together, head high, eyes bright; every line has been spoken and all lips are closed; her eyes have not yet gone to Ethan.
+严禁字幕，画面中不出现任何文字。
+全片实速，不要慢镜头。
+不生成BGM：不要音乐、配乐、旋律，只保留对白、呼吸声、场内的安静和动作的声音。

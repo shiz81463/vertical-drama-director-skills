@@ -1,0 +1,35 @@
+# 从 E27 v2 段 2（生成验证过）搬过来。改过的只有一处："朝集装箱"不用了（平台总览图里没有这个方向，成片变成了朝尽头），动作改在朝尽头、朝陆地里拍。
+== 场景：旧码头，冬夜 ==
+时间: 冬夜
+成片里: 栈道上只有本段写到的人
+材质: 湿木栈道反着灯光，生锈的铁栏杆挂着水珠，集装箱的漆皮剥落；头发被湖风和雾气打湿成一缕一缕，脸上有泪痕和冻红，大衣吸了潮气发沉
+颜色句: 暗部压深、带一点墨蓝。
+风格锁: 真人实拍的当代芝加哥黑帮家庭惊悚剧，顶级流媒体犯罪剧情剧的质感，高预算剧集的布景、服装、化妆与电影级布光：低调暖光与沉进黑里的空间，冷峻钢蓝的夜，克制的老钱质感与定制大衣，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 500T 电影胶片拍摄，柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 28–35mm，中景 40–65mm，面部特写 85–100mm），1/8 黑柔焦滤镜，浅景深，柔和的圆形焦外，细腻的胶片颗粒。低调布光，大光比，光只来自画面里真实存在的灯：夜里的冷是钢蓝色（湖面和对岸城市的反光），唯一的暖是钠黄色的码头灯；一张脸一次只属于一种光，眼睛里始终有眼神光；黑位深而干净、带一点墨蓝，暗部仍有细节，饱和度克制，肤色真实。冬天的空气看得见：贴着湖面的薄雾、灯头周围的雾晕、室外呵出的白气、风里的细水雾。真实材质：精纺羊毛风衣的织纹、吸了潮气发沉的下摆、湿成一缕一缕的头发、反着灯光的湿木板、栏杆的锈和水珠、集装箱剥落的漆皮、钢刃和皮鞋上窄长的高光。真实活人皮肤：毛孔、细纹、胡茬、鬓角的灰发、碎发，室外冻红的鼻尖和指节，鼻翼和额头一点自然的油光，泪痕，自然妆面，中年人的脸有中年人的纹路，不做美颜。负面提示词：CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、眼睛陷在黑里、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、文字、水印、LOGO。
+光源: On the pier, light comes only from three sodium-yellow dock lamps on the container side, with darkness between their pools, and from the cold glow of the lake and the misty city lights on its far shore. Each dock lamp is one sodium-yellow pool on wet planks with a halo of mist around the lamp head; between one pool and the next the pier is nearly black, the lake is a black surface with a few broken reflections, and the city lights across the water are small and soft through the mist. Outdoors every breath shows: a small pale cloud leaves the mouth or nose with each exhale and each spoken phrase, drifts a hand's width, catches whatever light is near and is gone within a second.
+空气: a thin mist off the lake hangs over the pier and fine spray drifts in the wind the whole time; every fast move tears it, and every breath shows
+前景: the soft edge of a rusted railing post, a coat collar or wet hair down one side of the frame
+高光: dock lamp
+总览图: @S50_旧码头栈道与集装箱藏身区_场景基础参考_飞书现图
+总览说明: 总览图是同一座码头的几个视角，取它的结构、材质、灯的位置和方位
+总览: 一条伸进湖里的湿木栈道，约五步宽。一头接陆地：水泥地、光秃的树、铁丝网，叫“陆地端”。另一头是一道横栏杆，外面全是湖，叫“尽头”，是死路。一条长边是齐腰的锈栏杆和湖，叫“湖栏”。另一条长边从陆地端往尽头依次是红集装箱、一道黑缝、蓝灰集装箱、一小段敞开的栏杆；集装箱比人高一倍。三盏码头灯都立在集装箱那一边：第一盏灯在红集装箱旁，第二盏灯在蓝灰集装箱旁，第三盏在尽头的转角，叫“尽头灯”。每盏灯在湿木板上落一圈钠黄的光，圈与圈之间是暗的；湖是平的、黑的，有几道碎反光，对岸城市的灯火隔着薄雾，小而软。
+地标: 湖栏 横栏杆 集装箱 尽头灯 第二盏灯 栏杆
+前景层: 栏杆柱、衣角、湿发、肩膀
+后景层: 化开的灯和湖面
+环境声: 湖风、湿木板、衣料、呼吸
+近处的东西: railing posts, lamp poles and drifting spray
+远处的东西: the black lake and the misty city lights
+速度痕迹: each rush tears the lake mist into curls and kicks spray off the planks
+打出来的东西: spray and mist
+动作特效: <<<
+Air: when a body moves fast, a visible push of air goes ahead of it, scattering the mist; coat tails and hair are pressed flat before the move lands. A body put down onto the wet planks throws up a burst of spray. The snap of the wrist is a sharp sound only.
+The knife: a short plain steel blade; it flashes once in the lamp light as it drops and clatters on the wet planks, then lies still.
+>>>
+结尾: Shot on 35mm Kodak Vision3 film with Cooke spherical primes, high-end live-action crime family drama, Chicago winter night, low-key motivated light from dock lamps and the cold lake, sodium warm against cold steel-blue with deep ink-blue blacks, halation, soft focus at the frame edges, fine film grain.
+-- 方向1：朝尽头 --
+背景: 集装箱和尽头灯在画面左侧，湖栏和黑的湖面在画面右侧，最远处横栏杆外是湖和对岸城市灯火
+光: 暗处的脸由右侧湖面的冷光照亮，左侧发际有尽头灯的一线暖边；尽头灯那圈光里的脸由左侧高处的钠黄暖光照亮
+依据: 平台 @S50 总览图的"朝尽头"格，左右和俯视格核对过
+-- 方向2：朝陆地 --
+背景: 湖栏和黑的湖面在画面左侧，画面右侧由近到远是蓝灰集装箱和第二盏灯、黑缝、红集装箱和第一盏灯，最远处是光秃的树和铁丝网
+光: 暗处的脸由左侧湖面的冷光照亮，第二盏灯从右后方在头发和肩上勾一道暖边；尽头灯那圈光里的脸由右侧高处的钠黄暖光照亮
+依据: 平台 @S50 总览图的"朝陆地"格，左右和俯视格核对过（俯视格里机位转 180°，左右对调）

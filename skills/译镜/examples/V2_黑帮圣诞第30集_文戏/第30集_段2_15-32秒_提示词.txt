@@ -1,0 +1,95 @@
+【第30集·段2】
+竖屏 9:16，全长 17 秒，4 个镜头，硬切在 3、9、11 秒。
+【全局视觉风格】
+真人实拍的当代芝加哥圣诞夜家庭剧情剧，原创故事，高端剧集的布景、服装、化妆与电影级布光：低调暖琥珀光与沉进墨蓝里的老钱豪宅房间，定制西装与柔和针织，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 500T 电影胶片拍摄，柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 28–35mm，中景 40–65mm，面部特写 85–100mm），1/8 黑柔焦滤镜，浅景深，柔和的圆形焦外，细腻的胶片颗粒。低调布光，大光比，光只来自画面里真实存在的灯：餐桌蜡烛、水晶吊灯、壁炉活火、边柜台灯与圣诞树暖白彩灯；一张脸一次只属于一种暖琥珀光，眼睛里始终有真实的眼神光；黑位深而干净、带一点墨蓝，暗部仍有细节，饱和度克制，肤色真实。冬夜的空气看得见：炉火前的浮尘、烛火的薄烟、玻璃墙外静静飘落的细雪。真实材质：深棕精纺羊毛西装的织纹、砖红罗纹针织裙的细密针脚、胡桃木长桌的温润包浆、银质雕花刀叉上的细划痕、高脚水晶杯与红酒里的微光、烤火鸡金黄酥脆的纹理、米白厚卡纸与正红丝带的质感。真实活人皮肤：毛孔、细纹、眼尾笑纹、鬓角少量灰发与碎发、自然的鼻翼微光与真实妆面，中年人的脸有中年人的纹路，不做美颜。负面提示词：CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、眼睛陷在黑里、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、文字、水印、LOGO。
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：胡桃木长桌泛着温润包浆，烤火鸡金黄冒热气，高脚水晶杯映着暖烛，米白文件封套系着正红丝带；暗部压深、带一点墨蓝。
+【实拍光影规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+Every light lights the faces near it, the light falling off into deep darkness. Nothing glows without lighting the world around it. In the dining room, light comes only from the crystal chandelier over the table, the tall taper candles along the table, the living fire in the stone fireplace, the warm table lamp on the sideboard and the warm-white lights of the single Christmas tree by the glass wall; beyond the intact glass wall is the snowy night. The warm light is amber and low: it wraps one side of a face warmly and lets the room beyond fall softly into ink-blue shadow. Each candle flame is small and alive, flickering gently in the warm room. The fireplace holds a low living orange fire casting soft shifting warmth across the far stone hearth. Whatever the light, the blacks stay deep, clean and faintly ink-blue, holding detail in hair and dark wool; every face keeps a clear catchlight in each eye from a real practical light. Whatever the colour of the light, the blacks are the same in every scene: deep, clean and faintly ink-blue, still holding detail in hair and dark wool. Every face keeps a clear catchlight in each eye from a light that is really in the scene, and the eyes are never lost in shadow.
+Air: thin candle smoke and fine dust drift before the hearth; shoot through the soft edge of a burning candle flame, a crystal glass or a seated shoulder down one side of the frame so that everything feels photographed in one real space.
+Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; the candle highlights clip and glow while the shadows sink into a deep ink-blue darkness.
+Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+【场景与方位】
+莫雷蒂豪宅餐厅 @餐厅完好_总览 ：外形照参考图，不采用参考图的光线和CG质感；总览图是同一个地方的几个视角，取它的结构、材质、灯的位置和方位；构图和光线以每个镜头写的为准。又一年圣诞夜。屋里只有文森特和奥利维亚两人，其余餐椅空着。
+一条深色胡桃木长餐桌纵向摆在餐厅中央，铺着波斯地毯，桌中央摆着一整只金黄烤火鸡、白瓷餐盘、银质雕花刀叉、细长白色蜡烛与高脚水晶红酒杯。长桌一头是雕花石砌壁炉和正上方的华丽水晶大吊灯（称壁炉端），另一头是深木双开门（称门口端）。面向壁炉看时：左侧是一整面完好无损的黑框落地玻璃墙（墙角靠门口端立着唯一一棵挂暖白金红彩灯的圣诞树，窗外深蓝夜空静静飘雪），右侧是深木餐边柜、柜上一盏暖黄布罩台灯与虚化旧木相框。
+朝边柜：机位在餐桌靠玻璃墙一侧斜朝壁炉与边柜交角；画面右侧是深木餐边柜、暖黄布罩台灯与虚化旧木相框，左侧深处带出雕花壁炉一角暖火。水晶吊灯与桌面烛火从画面左侧给出柔和明亮的暖琥珀主光，右侧暖台灯化作柔和暖色光点。
+朝玻璃墙：机位在餐桌靠边柜一侧斜朝玻璃墙与壁炉交角；画面左侧近处墙角是挂暖白金红彩灯的圣诞树，正面是整面完好黑框落地玻璃墙与窗外深蓝飘雪夜，右侧深处带出雕花壁炉一角暖火。桌面烛火与水晶吊灯从画面右侧给出柔和明亮的暖琥珀主光，窗外深蓝夜色只留在玻璃之外的远景里。
+【人物与道具】
+奥利维亚 @奥利维亚 @奥利维亚音频 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个奥利维亚，别人都不长她的样子、不穿她的衣服。二十二岁，比文森特矮一个头，栗棕长发微卷半扎；穿砖红罗纹长袖针织裙，领口外戴着父亲送的细金项链，双手干净、手指光洁。
+文森特 @文森特 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个文森特，别人都不长他的样子、不穿他的衣服。四十五岁，比奥利维亚高一个头，鬓角少量灰白，眼尾有温和细纹；穿深棕精纺羊毛西装与米白开领衬衫，领口自然敞开平整。
+股权文件 @股权文件 ：外形照参考图，不采用参考图的光线和背景；成片里只有这一份米白色厚卡纸折装的正式股权转让文件封套，比手掌略长、腰身系着一截正红丝带，纸面在暖光下只见纹理与印痕，完全虚化为纸质细节。
+项链 @项链 ：外形照参考图，不采用参考图的光线和背景；成片里只有这一条细金项链，坠着一枚比指甲盖小的圆形金吊坠，贴在奥利维亚针织裙领口外。
+Every named character appears exactly once.
+【承接画面】
+第一帧就从下面的状态开始，动作接着往下走：
+文森特：坐着，在长桌靠玻璃墙一侧近壁炉位，双手自然轻放在桌沿，眼神温和含笑，等待女儿回应，面向右侧的奥利维亚。
+奥利维亚：坐着，在长桌靠边柜一侧对面，双手自然轻放在桌沿，视线落在身前的红丝带文件上，面向左侧的父亲。
+股权文件：平放在奥利维亚身前的胡桃木桌面上，正红丝带在烛光里清晰可见。
+【戏的逻辑——高优先级】
+一年前奥利维亚急切地想要接管公司，把父亲的守护当成控制；经历过生死骗局后，她彻底长大了。她没有接过这份捷径，而是沉稳地把文件轻轻推回父亲手边，决定从基层自己学起、亲手挣来。文森特看着推回手边的文件猛地一愣，随即意识到眼前这个从容坚定的姑娘真的长大了。
+【人物与表演——高优先级】
+REAL AND VISIBLE: real people, a camera very close; the feeling shows plainly on the face and in the voice, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling breaking through, and it stays visible. The listener is always acting too, lips closed.
+奥利维亚沉稳清醒，动作不急不躁，目光清澈笃定、不再有去年的稚气与冲动。文森特先是真切意外地一愣，随即眼底涌上滚烫的惊喜与欣慰。
+ENGLISH ONLY: every spoken word is in American English; background people make only wordless sounds (breath, soft laughter). This clip has three lines, each spoken once, word for word, by the person named; only the speaker's lips move; nobody says anything else.
+【机位与视线——最高优先级】
+全段机位稳守长桌靠门口端一侧，绝不越轴。奥利维亚始终在右侧、看画面左侧镜头旁的父亲；文森特始终在左侧、看画面右侧镜头旁的女儿。单人镜头的视线擦着镜头边过去，绝不直视镜头。每一个眼神都落在戏里的人或东西上，单人镜头的视线擦着镜头边过去。
+【镜头语言——高优先级】
+每个镜头都是一台真实摄影机在现场拍下的完整竖幅画面，地平线是平的。镜头有呼吸：手持或稳定器带着随人物呼吸的细微浮动，每一镜有起点、有落点，快慢跟着情绪走，动作落定以后镜头也慢慢停稳。景深分三层：前景虚（燃烧白烛、高脚水晶杯、坐姿肩膀），主体实，后景是柔化成圆斑的暖灯、壁炉火光与窗外飘雪。构图用三分法和黄金比例，主体落在一侧三分线上，视线前方留出空间，人物关系靠前后纵深和站、跪、坐的姿态拉开。焦段有变化：28–35mm 交代豪宅对称纵深与双人圆满，40–50mm 拍过肩互动与桌面手部，85–100mm 拍眼尾细纹与含泪微光。每个切点都由一个眼神、一句话或一个动作带出来，下一镜从上一镜停住的地方接着往下走。
+Every cut has a reason (a look, a line, a reaction, a movement); each shot opens exactly where the last one ended, and no line and no action restarts after a cut. The camera is always level and the right way up, gravity pulling down, heads above feet. Every shot is one continuous image of one real space, photographed through one lens.
+【本段变化】
+每一项变化只在发生的那一刻出现，然后保持：镜头1 内奥利维亚用右手将红丝带股权文件一次性稳稳推回文森特手边，随后双手收回并自然交叠在桌沿；镜头2 起文件静静留在文森特手边桌面，再无人触碰。
+【分镜】
+镜头1｜0–3s｜她把文件轻轻推回
+机位：中近景 50mm｜朝边柜｜文森特右肩后、坐姿眼高
+运镜：接着父亲的等待反打切入过肩视角。稳定器随奥利维亚伸手推回文件的动作微微前压半步，在文件推到位、她抬眼直视父亲时稳稳停住。
+构图：文森特虚化的深棕西装右肩压住左侧前景一角；奥利维亚落在右侧三分线，领口外细金项链在暖光下隐约微闪，桌面上的红丝带文件清晰入画；身后右侧是深木餐边柜与暖黄布罩台灯，左侧深处带出壁炉一角暖火。
+光影：吊灯与桌面烛火从画面左侧柔和照亮奥利维亚整张脸，眼神光清澈，右侧餐边柜暖台灯在肩后化作温润暖色柔光点。
+0–0.8s：过文森特虚化的深棕右肩看去，奥利维亚先低头看了一眼身前的红丝带文件，随即右手掌心平平按上封套，一次性从容地将它顺桌面推回左侧父亲手边，同时抬起清澈的眼睛望向父亲。
+0.8–2.8s：奥利维亚将双手自然收回交叠在桌沿，望向画面左侧的父亲温柔而坚定地开口；左侧前景文森特虚化的肩背微微一顿、略略前倾。
+Emotion order, strong and plainly visible, a little overplayed: calm reflection → clear grounded resolve → warm gentle firmness.
+Dialogue: 0.8–2.8s, Olivia, to Vincent, in American English, warm, clear and unhurried, gently declining: {Keep it a little longer.}
+2.8–3s：她唇角轻合，眼神沉稳直视左侧父亲。
+落幅：文件已安稳停回父亲一侧，奥利维亚双手交叠桌沿、目光沉静望向左侧。
+声音：厚卡纸顺着抛光胡桃木滑回的轻响。
+镜头2｜3–9s｜想从基层自己挣来
+机位：近景 85mm｜朝边柜｜餐桌靠门口与玻璃墙一侧三脚架、坐姿眼高
+运镜：接着她坚定的目光切近单人近景。稳定器顺着她逐层递进的决心极缓推近，把镜头呼吸一点点贴近她明亮的双眼，话音落时停稳。
+构图：奥利维亚四分之三侧脸落在右侧三分线，目光望向左侧镜头旁留出开阔视线空间，领口外细金项链微闪；身后深木边柜暖台灯与壁炉暖壁化作大片柔焦暖金与深墨蓝背景。
+光影：暖琥珀烛光从画面左侧勾亮她的眼眸、鼻梁与自然肤质，右侧发梢带出一圈来自边柜台灯的柔和暖边。
+3–3.2s：奥利维亚呼吸平稳，眉眼清明地注视左侧镜头旁的父亲，下颌线条沉稳舒展。
+3.2–8.9s：奥利维亚语气清晰有力地道出从基层学起、亲手挣来的决心，说到每一层时眼神愈发明亮、带着一次克制而笃定的轻颔首，肩线自然舒展挺直。
+Emotion order, strong and plainly visible, a little overplayed: grounded conviction → earnest honest determination → proud quiet self-respect on the final words.
+Dialogue: 3.2–8.9s, Olivia, to Vincent, in American English, clear, earnest and resonant, building weight on each clause: {I want to start at the bottom, learn every part of it, earn it.}
+8.9–9s：她双唇利落合上，目光毫不躲闪地望住父亲。
+落幅：近景停在奥利维亚明亮坚定的侧脸上，暖烛在她眼里跳动。
+声音：壁炉柔和的木柴噼啪声。
+镜头3｜9–11s｜父亲听后微微一愣
+机位：近景 85mm｜朝玻璃墙｜餐桌靠门口与边柜一侧三脚架、坐姿眼高
+运镜：接着女儿那句掷地有声的话切到父亲反应。手持带着极细微的自然呼吸浮动，在他抬眼化开笑意的那一瞬轻缓前探一寸落定。
+构图：文森特落在左侧三分线，视线先向右侧桌沿低落再抬回右侧镜头旁；身后完好黑框玻璃墙外飘雪与左侧圣诞树暖灯虚成深蓝与暖金柔焦光斑。
+光影：桌面烛火从画面右侧暖亮照出他眼底细微的变化，眼神光在惊讶与惊喜之间骤然亮起。
+9–10s：文森特视线先往下扫了一眼推回手边的红丝带文件，双眉真切意外地微微一挑，嘴唇无声轻张半瞬，整个人愣了一下。
+10–11s：他轻眨一下眼，目光缓缓抬回右侧镜头旁的女儿，脸上的意外肉眼可见地化开成一片滚烫而惊喜的暖意。
+落幅：文森特眼中闪着惊喜与骄傲的光望向右侧女儿，嘴唇合着。
+声音：壁炉里一根木柴清晰轻爆的一声。
+镜头4｜11–17s｜等能扛事再交给我
+机位：近景到特写 85mm｜朝边柜｜餐桌靠门口与玻璃墙一侧三脚架、坐姿眼高
+运镜：接着父亲抬起的目光切回女儿。稳定器从近景极其平滑地缓推至特写，让观众亲眼见证她真正长大的从容气场，在浅笑落定后缓缓停稳。
+构图：奥利维亚的脸落在右侧三分线，面向左侧镜头旁留出呼吸空间；细金项链在砖红针织领口外闪过一缕暖光，身后暖台灯化作金色圆形光斑。
+光影：烛火从左侧柔暖照亮她微红的耳尖、清澈双眸与自然肤质，眼神光稳如暖星。
+11–11.2s：奥利维亚轻缓吸进一口温柔的气，下颌平稳，目光清亮地望向左侧父亲。
+11.2–16s：她真诚而笃定地许下父女间的新约定，说到扛起责任时眉眼柔和微扬、轻轻点了一下头，嘴角带着历经成长后的从容笑意。
+Emotion order, strong and plainly visible, a little overplayed: quiet maturity → deep heartfelt promise → tender confident warmth as she finishes.
+Dialogue: 11.2–16s, Olivia, to Vincent, in American English, warm, steady and sincere, landing softly on the final words: {When I'm truly ready to carry it, then you hand it over.}
+16–17s：她嘴唇轻合弯出一抹沉稳温柔的浅笑，目光安静望住父亲，镜头缓推到位稳稳停住。
+落幅：特写停在奥利维亚沉稳笃定的浅笑上，细金项链在暖光里微闪。
+声音：她轻柔的呼气声与暖烛微弱的跳动。
+【结束画面】
+文森特：坐着，在长桌靠玻璃墙一侧近壁炉位，双手自然轻放在桌沿，眼中的意外已化为亮起的欣慰暖意，面向右侧的奥利维亚。
+奥利维亚：坐着，在长桌靠边柜一侧对面，双手已从文件收回并自然交叠在桌沿，唇角带着沉稳笃定的浅笑，面向左侧的父亲。
+股权文件：已由奥利维亚推回文森特手边的胡桃木桌面上，静静放着。
+台词已经说完，所有人嘴唇合着。
+【声音】
+全程现场同期声：对白清楚地在最前面，后面是厚卡纸滑回胡桃木桌面的轻响、壁炉木柴一声轻爆与轻缓呼吸声，加上每一镜写明的动作声；远近分得清，近的清楚、远的轻。无配乐，无字幕。
+Shot on 35mm Kodak Vision3 film with Cooke spherical primes, high-end live-action original family drama, Chicago on Christmas Eve, low-key motivated light from chandelier, candles, hearth fire and winter glass, warm amber against deep ink-blue shadows, gentle halation, soft focus at the frame edges, fine film grain.

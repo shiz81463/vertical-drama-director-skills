@@ -1,0 +1,68 @@
+# 第 29 集 段 6
+段: 6
+戏种: 文戏
+场景: 发布会T台，夜
+环境声: 场内的安静
+
+人: Wendy |
+人: Ethan |
+人: Guests | 坐在第一排伊森两边，安静地听，不看镜头。
+# 连续性账本：姿态 | 位置 | 手里的东西。上一段的收场要等于这一段的开场。
+开场: Wendy | 站着 | 在台口拱门前一步 | 手里一支话筒
+开场: Ethan | 坐着 | 在第一排、离台口第二个座位 | 手里没有东西
+表演: Wendy (温蒂): calm, speaking with quiet power; it leaks from her eyes, which find one face in the room and stay on it.
+表演: Ethan (伊森): seated, holding his breath, proud; it leaks from his eyes, which do not leave her.
+
+空间: Wendy stands one step in front of the arch at the head of the runway; Ethan sits in the front row near the stage end, below her and to her right, about six paces away. 180-degree rule: in her shots Ethan is always off screen-LEFT; in his shots the stage end and Wendy are always off screen-RIGHT; the camera never crosses the line between them.
+视线: when they look at each other, Wendy looks screen-LEFT and a little down, Ethan looks screen-RIGHT and up.
+逻辑: Wendy chooses to say the second half to one person as much as to the room. Ethan knows it is meant for him and does not move.
+同框: Wendy stands in it alone with the arch rising behind her; Ethan sits or stands with the front row around him and the runway edge low in the frame.
+正反打: Wendy from the front with the arch behind her, Ethan across the runway with the rows behind him, both at the same size, tightening together.
+状态: from shot 1, whenever Wendy looks screen-LEFT, her eyes rest on Ethan.
+结束: Wendy in close-up facing the room, lips just closing; every line has been spoken and all lips are closed; the applause has not started.
+
+== 镜头：停顿，找一个人 ==
+机位: 近景 85mm | 1 | T 台上、她正前方约两米、眼高；脸在画面上半；身后是虚掉的拱门
+运镜: 固定（跟着她的眼睛）
+主体: Wendy
+分镜秒: 3
+拍 1.5: Wendy pauses; her eyes travel slowly across the rows from screen-RIGHT to screen-LEFT.
+拍 1.5: They stop low at screen-LEFT, on one face, and rest there; her breathing settles.
+声: Near silence.
+
+== 镜头：是他 ==
+机位: 中近景 50mm | 3 | T 台另一边的地面、站着的人眼高，隔着 T 台看第一排；T 台亮的边压在画面下方；台口在画面右边
+运镜: 固定（他一动不动）
+主体: Ethan
+分镜秒: 3
+拍 1.5: Cut on the look, Ethan in the front row, upper middle of the frame, looks screen-RIGHT and up at her; his lips part and he holds his breath.
+拍 1.5: He does not blink; his hands lie still on his knees.
+声: His held breath.
+
+== 镜头：这句说给他 ==
+机位: 近景→特写 85mm | 1 | T 台上、她正前方约两米、眼高；脸在画面上半；身后是虚掉的拱门
+运镜: 缓推（这一句给他）
+主体: Wendy
+分镜秒: 3
+拍 0.3: Cut on the look, Wendy still looks screen-LEFT and a little down, at him.
+说 2.5: Wendy > Ethan and the room | calm and firm, word by word | But beauty doesn't have a size.
+拍 0.2: Her eyes stay on him a moment longer.
+声: Her voice in the quiet hall.
+
+== 镜头：收回到全场 ==
+机位: 中近景 50mm | 1 | 第一排的高度、她斜前方约三米，略仰；她在画面上半；身后拱门一侧虚着
+运镜: 固定（回到所有人）
+主体: Wendy
+分镜秒: 4
+拍 0.3: Cut on the line, from a little below, Wendy lifts her eyes from him to the whole room, head high.
+说 3.7: Wendy > the audience | firm, carrying to the back rows | It doesn't have an age or a skin color.
+声: Her voice carrying.
+
+== 镜头：正面一句 ==
+机位: 近景 85mm | 1 | T 台上、她正前方约两米、眼高；脸在画面上半；身后是虚掉的拱门
+运镜: 固定（这一句要听清）
+主体: Wendy
+分镜秒: 3
+拍 0.1: Cut on the line, Wendy faces the room squarely, upper middle of the frame.
+说 2.9: Wendy > the audience | clear and level | Your value isn't in how you look.
+声: The hall holding still.

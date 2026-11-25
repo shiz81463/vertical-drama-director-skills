@@ -1,0 +1,92 @@
+# 武戏样例：客栈里剑客对山匪，12 秒 4 镜。为了说明"先设计、再写镜头"编的，没有生成过。
+# 编译：node scripts/build.js <这个源文件夹> --bible <任意一部戏的剧设定.md>
+# 编出来约 12,500 字，比没台词段的区间上限 12,000 长一点（N1 提醒）：武戏的固定句就占了七千多字。这条提醒留着，回复里说明。
+段: 1
+戏种: 武戏
+场景: 客栈大堂，夜
+环境声: 灯火声和脚步声
+
+# —— 打戏设计：先写这一块，再写镜头（手册/6_打戏设计.md）——
+讲什么: 山匪仗着刀长，把剑客逼到倒下的桌子前；剑客发现他每次横扫都收不回刀，钻进去贴身打，最后一下把他打飞。剑客学到"贴身他就废了"，山匪学到"这人不怕我的刀"。
+设定: Swordsman | 中等个子；小动作快 | 被长刀隔在两步外，够不着人 | 被逼到桌角，退不了 | 一步以内贴身：最安全，也最能打到 | 钻进去那一步要从刀下过，慢了就挨上
+设定: Bandit | 高一个头、壮；横扫起手短而重，然后又快又挡不住 | 贴到一步以内的人他看不清，刀在外圈回不来 | 被人贴身 | 两步外：刀够得着，剑够不着 | 横扫用力过猛，刀会甩过头，肋下露出来
+回合: 一·逼到桌角 | 山匪 | 长刀连着两下横扫 | 剑客第一下后撤躲开；第二下背后是桌子退不了，竖剑硬挡 | 从两步外压到桌角 | 剑客：硬挡手会麻，不能再挡；山匪：他退不动了
+回合: 二·钻进去 | 剑客 | 趁第二刀甩过头，从刀下钻进一步以内，剑柄撞手腕，剑身抽肋下 | 山匪想收刀回防，刀卡进柱子，来不及 | 两步变贴身，再被打飞到大堂另一头 | 剑客：贴身他就废了；山匪：这人不怕刀
+# 攻防表：镜号 | 谁 | 属于 | 动作 | 为什么没防住（受击才写）
+攻防: 1 | Bandit | 进攻 | 已经在打：长刀齐腰横扫
+攻防: 1 | Swordsman | 闪避 | 眼先动，头、胯、肩依次往后让一步，袖子落在后面
+攻防: 1 | Bandit | 进攻 | 反手第二刀扫回来，更重
+攻防: 1 | Swordsman | 防守 | 背后是桌角，竖剑硬挡，一眨眼的接触就弹开
+攻防: 2 | Swordsman | 受击轻 | 持剑的手臂被震麻，后背撞上桌角 | 背后是倒下的桌子，没地方卸力
+攻防: 2 | Bandit | 起手 | 刀甩过了头，肩往后转，要抡第三刀，肋下空着
+攻防: 2 | Swordsman | 反击 | 从刀下钻进一步以内，剑柄撞他持刀的手腕
+攻防: 3 | Bandit | 受击中 | 手腕一麻，刀偏出去砍进柱子 | 刀在外圈，贴身的人他防不到
+攻防: 3 | Swordsman | 进攻 | 顺着同一步转身，剑身平着抽向他的肋下
+攻防: 3 | Bandit | 受击重 | 身体绕着剑身折起，被打得离地，往大堂深处飞 | 刀卡在柱子里，手还没松开，肋下全空
+攻防: 4 | Bandit | 关系 | 飞过整段空地，撞碎远处墙边的桌子
+攻防: 4 | Bandit | 反应 | 碎木堆里的脸：疼得咬牙，一只手捂着肋下
+攻防: 4 | Swordsman | 关系 | 剑客在近处持剑站定，中间一整段空地
+
+实拍特效: real dust, splinters and sweat
+逻辑: The bandit's long saber needs two paces; the swordsman's straight sword only works inside one. The swordsman must get inside the saber's reach; only a blow to the ribs counts. Each move is forced by the last: the table blocks his retreat, the overswung saber opens the ribs, the saber stuck in the pillar leaves the bandit unguarded.
+打出来的东西: sweat and dust
+挨打的人: the bandit
+撞到什么: crashing through a table
+轴线: the swordsman is always on the LEFT, the bandit on the RIGHT
+进攻方向: the bandit attacks toward the lens, the swordsman attacks into the depth of the hall; anyone who is hit flies away from whoever hit them
+同框: both stand on the same floor at their real heights, the nearer one larger
+近处的东西: pillars, lamp flames and flying splinters
+远处的东西: the far wall and its lanterns
+速度痕迹: the wake of each rush tears the lamp smoke into curls
+战损开场: nobody is hurt
+战损新增: from shot 3 the bandit's saber is stuck in the pillar and his ribs are hurt
+结束: the bandit lies in the wreck of the far table clutching his ribs; the swordsman stands by the overturned table, sword raised; the bandit has not got up.
+
+人: Swordsman | 右手一把直剑。
+人: Bandit | 右手一把长刀；镜3 起刀卡在柱子里。
+开场: Swordsman | 站着 | 在倒下的桌子前 | 右手一把直剑
+开场: Bandit | 站着 | 在剑客面前两步 | 右手一把长刀
+收场: Bandit | 躺着 | 在远处墙边的碎桌子里 | 手里没有东西
+表演: Swordsman (剑客): calm and exact; his eyes read the blade before he moves.
+表演: Bandit (山匪): loud and sure of his reach; it shows in his wide swings.
+
+== 镜头：两刀把他逼到桌角 ==
+机位: 全景 24mm | 1 | 剑客右肩后、腰高；剑客的肩背在左下，山匪在深处右上，两人从头到脚都在画面里
+运镜: 贴着两人往后退 → 第二刀撞上时被震一下（因为山匪一路压过来）
+分镜秒: 3
+拍 0.7: Already mid-fight. The bandit is two paces from the swordsman, the overturned table right behind the swordsman. ATTACK: the bandit's long saber sweeps flat at waist height, the air ahead of it flattening the swordsman's robe.
+拍 0.8: DODGE: the swordsman's eyes catch it first; head, hips and shoulders pull back one step in that order, sleeve trailing, and the blade passes a hand's width from his belt.
+拍 0.7: ATTACK: the bandit swings straight back the other way, heavier.
+拍 0.8: DEFENSE: back against the table edge, no room left, the swordsman snaps his sword upright into the saber's path: one blink of contact, a deafening clang, sparks across the lens, the frame jolting, and the blades spring apart.
+特效: The sparks light both faces for one blink.
+声: A deafening clang that rattles the cups.
+
+== 镜头：手麻了，他看见空当 ==
+机位: 近景 85mm | 2 | 剑客斜前方一米半、眼高；剑客的脸在画面上半，山匪的肩和刀在右下角一闪
+运镜: 被那一下撞得一震 → 跟着他钻进去（因为他找到了空当）
+分镜秒: 2
+拍 0.8: Matched on action, REAL HIT REACTION: the shock runs up the swordsman's sword arm, his elbow buckling, his back driven into the table edge, dust jumping off the wood; his teeth set.
+拍 0.5: The bandit's saber has swung far past, his shoulder turning back for a third cut, his ribs wide open.
+拍 0.7: COUNTERATTACK: the swordsman drops under the returning blade and drives one step inside its reach, his pommel cracking into the bandit's sword wrist.
+特效: Dust from the table hangs in the lamplight.
+声: A sharp crack of bone on brass.
+
+== 镜头：贴身一剑，把他打飞 ==
+机位: 中景 50mm | 1 | 两人侧前方两米、胸高；两个上半身一前一后叠着，柱子在画面右边
+运镜: 贴身跟着 → 跟着被打飞的人甩过去（因为这一下最重）
+分镜秒: 3
+拍 0.8: Matched on action, REAL HIT REACTION, heavier: the bandit's wrist goes dead, his fingers springing half open; the saber veers wide and bites deep into a pillar, splinters flying.
+拍 0.9: ATTACK: the swordsman turns with the same step, robe and hair dragged back, and whips the flat of his blade at the open ribs, the air pressed ahead of it denting the bandit's coat.
+拍 1.3: REAL HIT REACTION, the heaviest: one blink of contact, a dull crack, sweat and dust blasting out of the cloth, the camera knocked hard; the ribs go first, the body folds around the blade, the head whips after it, and the bandit is hurled away from the swordsman, up the length of the frame into the depth of the hall.
+特效: Splinters and dust burst into the lamplight.
+声: A dull crack, then the whole hall shaking.
+
+== 镜头：他飞了多远 ==
+机位: 全景 24mm | 1 | 楼梯拐角的平台上、斜着往下看整个大堂；剑客在画面下方，远墙边的桌子在上方
+运镜: 站在高处 → 桌子碎开时被震一下（因为要看清他飞了多远）
+分镜秒: 4
+拍 1.5: Matched on action, seen from the stair landing, the bandit flies the length of the hall, from the swordsman low in the frame to a table by the far wall near the top, and crashes through it, splinters and dust bursting up.
+拍 1.5: In the wreck of the table the bandit's face twists in pain, teeth bared, one hand clamped to his ribs; the bandit does not get up.
+拍 1: The swordsman stands low in the frame, sword raised, breathing hard, the whole empty floor between them.
+特效: The hanging lanterns swing from the crash.
+声: Wood splitting, then one long ragged breath.

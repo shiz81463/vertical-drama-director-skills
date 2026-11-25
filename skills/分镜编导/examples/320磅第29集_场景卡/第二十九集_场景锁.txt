@@ -1,0 +1,45 @@
+第 29 集场景锁（v4，规则 X1）。每段提示词从这里复制，不重写。每场戏四样：总览资产行、方向背景图资产行（这一段用到哪个方向就复制哪一条）、LIGHT 一句（放进【实拍光影规范】第二行）、FACING 光句（用到哪个方向复制哪一句）；最后是【场景】块，整块复制。
+检查：node "D:\漫剧公司\.claude\skills\译镜\scripts\lib\check_scene.js" "D:\漫剧公司\320磅未婚妻不忍了\第二十九集总\第三阶段_成片生成"
+
+== 场景：发布会后台，夜 ==
+发布会后台 @后台_总览 ：外形照参考图，不采用参考图的光线和CG质感；下面几张是同一个地方朝不同方向看的样子，成片里就是这一个地方。一头是两个试衣间，另一头是通往 T 台的黑色幕布；化妆镜只有一排，在一面长墙上，衣架和珠宝桌在对面那面长墙。约十二米长、七米宽，屋顶比人高一倍多。参考图里没有人：成片里只有下面写到的人。
+方向1背景 @后台_1朝舞台口 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向1（朝舞台口）的镜头，背景就是图里这一头：左边一排灯泡化妆镜，右边衣架和墨绿珠宝桌，尽头黑幕布中间一道冷蓝的缝。图里没有人。化妆镜比人高一点。
+方向2背景 @后台_2朝试衣间 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向2（朝试衣间）的镜头，背景就是图里这一头：两道象牙色丝绒帘、中间一面全身镜、一瓶白玫瑰，右边沿露出最后几盏化妆镜灯泡。图里没有人。帘子比人高一个头。
+方向3背景 @后台_3朝衣架 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向3（朝衣架）的镜头，背景就是图里这一头：衣架上的白衣服和叠好的披肩，墨绿丝绒珠宝桌和小铜灯，衣架旁边一个空角落。图里没有人。衣架比人矮一点。
+LIGHT: Backstage, light comes only from the warm round bulbs framing the vanity mirrors, small brass lamps on the jewelry table, a few dim warm work lights overhead and one thin cool line of stage light at the gap in the drapes.
+FACING 1 (toward the stage drapes): the warm vanity bulbs along the left wall light every face from screen-LEFT, soft and even, the bulbs themselves glowing along the left edge of the frame; the far end falls into darkness except one thin cool blue-white line of stage light at the gap in the drapes.
+FACING 2 (toward the fitting rooms): the warm vanity bulbs light every face from screen-RIGHT, soft and even, only a few bulbs at the right edge of the frame; the ivory curtains behind glow softly under two small warm spotlights.
+FACING 3 (toward the garment racks): the vanity bulbs are behind the camera and light faces softly from the front; the small brass lamps on the jewelry table put tiny sharp sparks on the jewels; no bare bulb is in frame.
+【场景：发布会后台，夜】
+发布会后台照参考图。发布会当晚，整段在这一个地方，不换地点。
+地图：一头是两个试衣间，另一头是通往 T 台的黑色幕布；站在试衣间口往幕布看，左边一整排灯泡化妆镜，右边是衣架和珠宝桌。
+站位：温蒂和走到她身边说话的人在试衣间口外一步，身后永远是方向2（试衣间）；伊森站着时身后永远是方向1（过道深处和幕布），蹲在角落时身后是方向3（衣架）。
+不入画：镜头不对着化妆镜拍，镜子里不出现镜头和人的倒影；画面里没有字、牌子、屏幕。
+
+== 场景：发布会T台，夜 ==
+发布会T台 @T台_总览 ：外形照参考图，不采用参考图的光线和CG质感；下面几张是同一个地方朝不同方向看的样子，成片里就是这一个地方。只有一条直 T 台，约二十米长、高到人的膝盖；一头是暖沙色石墙和亚麻板的背板，正中只有一道高拱门；另一头是摄影师小台。T 台两边各五六排浅灰褐色矮软椅，第一排紧贴台边。参考图里没有人：成片里只有下面写到的人。
+方向1背景 @T台_1朝背板 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向1（朝背板）的镜头，背景就是图里这一头：正中的高拱门，暖沙色石墙和亚麻板，两边暗着的观众席。图里没有人。拱门比人高两倍。
+方向2背景 @T台_2朝观众席 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向2（朝观众席）的镜头，背景就是图里这一头：往远处伸的亮 T 台，两边一排排矮椅，尽头的摄影师小台。图里没有人。T 台比人的膝盖略高。
+方向3背景 @T台_3第一排 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向3（朝第一排）的镜头，背景就是图里这一头：画面下方一道亮的 T 台边，第一排浅灰褐色矮软椅，后排暗下去，台口在画面右边。图里没有人。椅背比人的腰矮一点。
+LIGHT: In the show hall the house lights are down: light comes only from the white wash on the runway, the warm gold wash on the backdrop and, while Wendy speaks, one soft-edged spotlight on her; a light haze shows the rays of light.
+FACING 1 (toward the arched backdrop): white light from the truss falls on everyone on the runway from above and in front; Wendy stands in a soft-edged spotlight that comes from behind the camera; the backdrop glows warm gold; the audience on both sides stays dark; no lamp is in frame, only soft rays in the haze.
+FACING 2 (toward the audience): the light comes from behind the camera, from the stage, and softly lights the faces in the first rows warm, each row darker than the last; a few small lamps high at the far end shine toward the camera, small and never over a face.
+FACING 3 (toward the front row): the bright runway edge bounces soft white light up into the front-row faces from below and in front; the stage end is at screen-RIGHT and its warm glow rims the hair on that side; the rows behind sink into darkness.
+【场景：发布会T台，夜】
+发布会T台照参考图。发布会当晚，场内灯光压暗，整段在这一个地方，不换地点。
+地图：一条直 T 台，一头是拱门背板（台口），另一头是摄影师小台（台尾）；两边是观众席，第一排紧贴台边。
+站位：温蒂致辞时站在台口拱门前一步，身后永远是方向1（拱门背板）；伊森坐在第一排、离台口第二个座位，身后永远是方向3（第一排和后排），台口在他的画面右边；同一排往台尾数第四个座位空着。
+不入画：画面里没有字、品牌名、屏幕。
+
+== 场景：侧台，夜 ==
+侧台 @侧台_总览 ：外形照参考图，不采用参考图的光线和CG质感；下面几张是同一个地方朝不同方向看的样子，成片里就是这一个地方。一条约三米宽的窄道，两边黑丝绒幕布；一头只有一道幕布缝，舞台的光从缝里进来；另一头是一段暗走廊和一扇门。幕布比人高三倍。参考图里没有人：成片里只有温蒂和伊森。
+方向1背景 @侧台_1朝舞台 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向1（朝舞台）的镜头，背景就是图里这一头：尽头幕布缝里的暖白亮光，两边黑丝绒幕布，画面左边的铁管和吊绳。图里没有人。幕布比人高三倍。
+方向2背景 @侧台_2朝后台走廊 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向2（朝后台走廊）的镜头，背景就是图里这一头：尽头暗走廊和一扇暗色的门，画面右边铁管上的蓝工作灯，两边黑幕布。图里没有人。门比人高一点。
+LIGHT: In the wings, light comes only from the stage light pouring through the gap in the drapes and one blue work light clipped to a pipe.
+FACING 1 (toward the stage gap): the bright warm-white stage light pours through the gap behind whoever faces the camera and draws a strong bright edge on hair and shoulders; the face takes a soft warm key from screen-RIGHT, stage light spilling around the edge of the drape, as bright and clear as every other face in the scene, with a touch of cool blue from the work light at screen-LEFT; the only light source in frame is the glowing gap.
+FACING 2 (toward the backstage corridor): the warm stage glow comes from behind the camera and lights faces softly from the front; the blue work light at screen-RIGHT draws a thin cool edge; the corridor behind stays dim.
+【场景：侧台，夜】
+侧台照参考图。发布会当晚，整段在这一个地方，不换地点。
+地图：黑丝绒幕布夹着一条窄道；一头是幕布缝，舞台的暖白光从缝里涌进来；另一头是一段暗走廊。
+站位：温蒂身后永远是方向1（幕布缝的光）；伊森站在靠走廊这一头，身后永远是方向2（暗走廊）。
+不入画：观众；画面里没有字。

@@ -1,0 +1,62 @@
+# ❌ V1 的骨架，V2 不用，留着备查（里面有 upper two thirds、no split screen、不生成BGM 这些不好的写法，见 反面案例/README.md）。V2 手写单镜照 examples/V2_… 编出来的提示词改。
+【视频{{编号}}】
+【全局视觉风格】
+{{风格锁原文：照抄这部戏的竖屏剧设定（竖屏制作\剧设定\<剧名>.md）那一行，一字不动}}
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：{{这一场特有的材质，风格锁里写过的不再写，不超过 40 字，如"羊毛西装有织纹和分量，大理石里有倒影"}}；{{剧设定里的颜色句，照抄}}
+【实拍光影规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+{{用了剧设定的特效定义（里面已经写了光从哪来）就删掉这半句：Light comes only from <这一场有来源的光，用门、窗、灯这些东西说，不写东南西北>.}} Every light lights the faces near it, the light falling off into deep darkness. Nothing glows without lighting the world around it. {{剧设定"特效质感：固定句"，照抄}} {{这一场用到的特效定义，照抄剧设定；没用到就删}} {{光在这段里怎么变，有画面里的物理原因才写一句；没有就删}}
+{{v4：这一段用到的方向，每个一句光，照抄场景锁（X5），以 FACING N (toward <什么>): 开头，写主光从画面哪边来、软硬、光源本身进不进画面。没用到的方向不写}}
+Air: {{空气里的东西，一句，如 fine dust drifts through the window light}}; shoot through {{虚焦的前景层，写清压在画面哪条边，如 the blurred edge of a glass case down one side}} so that everything feels photographed in one real space.
+Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; {{剧设定里的后半句，照抄}}
+{{风格锁里没写真实皮肤（毛孔等）时才加这一句，写了就删：Faces up close are real skin: pores, fine hairs, the wet line of the lower lid; never smooth, never plastic.}}
+Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+{{资产行：画面里出现的场景、人物、群演、道具，有参考图的每样一行（规则 R1）；只写尺寸、数量、状态、在干什么和与参考图不同的地方，不写外形；人物行不超过 200 字，场景行不超过 300 字。用不到的格式删掉}}
+{{地点}} @{{地方}}_总览 ：{{v4：照抄这一集"场景锁"里的总览资产行，不重写（X1、X2）。格式：外形照参考图，不采用参考图的光线和CG质感；下面几张是同一个地方朝不同方向看的样子，成片里就是这一个地方。独一无二的东西在哪一头；尺寸，对比人；参考图里没有人：成片里只有下面写到的人。不用多格拼图}}
+方向{{N}}背景 @{{地方}}_{{N朝哪}} ：{{v4：照抄场景锁里这个方向的背景图资产行；这一段用到几个方向写几条，没用到的不写（X2）。格式：外形照参考图，不采用参考图的构图和CG质感；成片里方向N（朝什么）的镜头，背景就是图里这一头：2–3 样东西在画面哪边。图里没有人。尺寸，对比人。不写"不采用参考图的光线"：这张图的光要用}}
+{{人物名}} {{@人物资产}} ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感{{；要背影时加：背对镜头时不采用参考图的正面朝向}}；成片里只有一个{{人物名}}{{；容易被拿去套脸的主角加：别人都不长他的样子、不穿他的衣服}}。{{尺寸，对比画面里看得见的东西}}；{{开场状态：手里拿着什么、衣服什么样}}。
+{{群演名}} {{@群演资产}} ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里所有{{群演名}}都是参考图里那一身，都不长主要人物的样子。{{尺寸}}；{{这一段几名、在干什么、看不看镜头}}。
+{{道具名}} {{@道具资产}} ：外形照参考图，不采用参考图的光线、背景和CG质感；成片里只有一个。{{尺寸}}；{{在谁手里、第几镜换手}}。
+【场景：{{场景名}}】
+{{v4：整块照抄场景锁里的【场景】块（X3）：地图（用实物说，不写东南西北）；站位锚点（谁身后固定是方向几）；不入画；整段在这一个地方，不换地点。没有资产图的群演写清长相和衣服（R4）}}
+【人物与表演——高优先级】
+SMALL AND TRUE: real people, a camera very close; each feeling shows as two to four small physical signals (eyes, brows, mouth, breath, swallow, jaw, shoulders, hands), never mimed, and no face is ever blank. THREE LAYERS: a key reaction is a flicker, then the feeling leaking out, then control. The listener is always acting too, lips closed.
+{{每个在场的人一句英文，从剧设定的人物表演档案里挑这一段用得上的（表演 T1、T2），不超过 160 字，格式：<英文称呼> (<中文名>): <这一段的状态>; <情绪从哪漏>; <习惯动作>. 如 Ethan (伊森): came far too early, head high, at ease on the surface; it leaks from his hands, which keep going back to his tie and cuffs. 背对镜头的人加 only his head turns, never his body.}}
+Every named character appears exactly once.{{风格锁负面词里没有"发光眼睛"时才加： Everyone has normal human eyes that never glow.}}
+ENGLISH ONLY: every spoken word is in American English, never Chinese; background people make only wordless sounds (gasps, breath, laughter).
+{{有台词才写：This segment has only these {{台词句数，英文，如 three}} lines, each spoken once, word for word, by the person named; only the speaker's lips move; nobody says anything else.}}
+【空间与视线——最高优先级】
+SPACE: {{谁在哪、相距几步、面朝哪样东西（门、窗、桌），不写东南西北（P5）}}. 180-degree rule: {{A}} is always on the LEFT of frame and {{B}} on the RIGHT; the camera never crosses the line between them.
+EYELINES: when they look at each other, {{A}} looks screen-RIGHT and {{B}} looks screen-LEFT; {{视线高低一句，如 he looks a little down, she a little up; the camera stays at their eye height}}. In singles each eyeline passes just beside the lens. Every look has a target in the scene.{{有人入画才加： When anyone enters the frame, they enter exactly where someone is already looking.}}
+【戏的逻辑——高优先级】
+SCENE LOGIC: {{英文 2–3 句：每个人想要什么、藏着什么；转折由什么触发。只写镜头里看不出来的，不复述镜头标题，不引用台词原文（Q2）}}
+【镜头衔接——高优先级】
+{{镜头数，英文大写，如 FIVE}} SHOTS, hard cuts only at {{切点，如 3, 7, 11 and 15}} s. Every cut has a reason (a look, a line, a reaction, a movement); each shot opens exactly where the last one ended, and no line and no action restarts after a cut.
+TALL FRAME: the frame is tall and narrow. The two of them share it in depth, never spread across its width: {{真有高低差（坐/跪/蹲对站、台阶、镜头在高处）才写：A near the lens and low in the frame, B farther back and higher；两人站在同一地面就写：both stand on the same floor at their real heights, heads at about the same level, the nearer one larger（P21）}}, or one seen over the other's shoulder. Faces stay in the upper two thirds of the frame; anyone who comes or goes moves toward or away from the lens.
+UPRIGHT: the camera is always level and the right way up: the floor at the bottom of the frame, gravity pulling down, heads above feet.
+ONE IMAGE: every shot is one continuous image of one real space through one lens: no split screen, no panels, no picture in picture, no double exposure.
+SHOT AND REVERSE SHOT: both sides at the same size and from matching angles, tightening together as the feeling rises; {{过肩还是单人，如 over the shoulder while they face each other, a clean single once he is alone}}.
+CAMERA FEELS: the camera moves only when a feeling changes: it eases in as someone gives themselves away and holds still while a feeling is held in; it never zooms and never cuts away before a reaction lands.
+【本段状态】
+STATE: Each change appears only at the moment it happens, then stays: {{这一段新出现的变化写在第几镜起，如 from shot 4 the receptionist is gone; 开场状态资产行写过的不再写}}.
+镜头1｜0–{{秒}}s｜{{中文，不超过 15 字：这一镜的情绪任务}}
+[{{景别}} {{焦距}}, 方向{{N}}（朝{{什么}}），{{机位：在谁那一边、多高、朝哪样东西；过肩写肩在画面哪个下角（过左肩在右下，过右肩在左下，P16）}}]
+运镜：{{固定 / 缓推 / 缓拉 / 跟……}}（{{触发它的情绪，不超过 12 字}}）
+0–{{x}}s: {{这一拍：位置一句（谁近在下、谁远在上、看 screen-LEFT / screen-RIGHT）+ 2–4 个这个景别里看得见的信号（T10）；强度按设计单的档写（T9：1 收 / 2 显 / 3 破，一段最多一次 3 档）；不用表演坑词（T12）}}
+Sound: {{一个最要紧的声音，不写没写稿的人声（P13）}}
+镜头2｜{{a}}–{{b}}s｜{{中文，不超过 15 字}}
+[{{景别}} {{焦距}}, 方向{{N}}（朝{{什么}}），{{机位}}]
+运镜：{{}}（{{}}）
+{{a}}–{{x}}s: {{切点类型，四选一：Cut on the look, / Cut on the line, / Cut on the reaction, / Matched on action,}} {{接上一镜的哪个视线、反应或动作；位置一句；说前：让这句话出来的那个信号，如 his eyes land on her face and he takes a small breath in（表演 T4）}}
+{{x}}–{{y}}s: {{说时：说的人的一个动作或姿态；听的人在画面里就写眼睛在哪（看说的人，或故意不看、看哪）→ 一个跟着这句话的小信号 → 嘴唇闭着（T5），不引用台词原文（Q2），如 She speaks; Ethan keeps his eyes screen-LEFT on her, a smile starting on her last words, lips closed.。逐拍时间要从镜头开头连到结尾，台词那几秒也要有这一拍，不然检查报 B6 ❌。台词从这一镜开头就说的，删掉上面说前那一拍，这一拍开头写切点类型（H1）}}
+Dialogue: {{x}}–{{y}}s, {{谁}}, to {{谁}}, in American English, {{语气：快慢 + 音量 + 音色各挑最多一个，加一个意图短语，不超过 10 个英文词，不写情绪副词（T6）；剧本括号里有表演提示的，从它翻过来（T7）}}: {{{台词原文，一字不改}}}
+{{y}}–{{b}}s: {{说后：说的人嘴唇合上、眼睛停在哪；听的人在 0.5 秒内的一个信号（T4、T5），如 his lips close and his eyes stay on her; her shoulder sinks a fraction}}
+Sound: {{}}
+{{Light: 只在这一镜光落在脸上有变化时写一句（谁进了光、谁退进暗里）；没变化就不写这一行}}
+{{其余镜头照镜头2 的格式；一段最多 5 镜（R8）；一个移动在一镜里写完起点和终点（R7）；Dialogue 行紧跟在说这句的那一拍后面，写起止秒（Q4）；逐拍里不引用台词原文（Q2）；最后一句台词说完至少留 1 秒（Q5）}}
+【结束状态】
+END STATE: the last frame is the end of shot {{最后一镜编号}}: {{最后一帧谁在哪、朝哪看、什么表情；有台词的段写 every line has been spoken and all lips are closed}}; {{什么还没发生}}.
+严禁字幕，画面中不出现任何文字。{{剧设定"结尾：固定句"里其余的句子，照抄，如 全片实速，不要慢镜头。}}
+不生成BGM：不要音乐、配乐、旋律，只保留对白、呼吸声、{{这一场的环境声，不写没写稿的人声}}和动作的声音。
+{{剧设定要求英文风格复述的戏才写；《320磅》这类剧设定写了"不复述"的，不写。结尾不再写英文禁止项（和风格锁负面词、中文固定句重复，N2）}}

@@ -1,0 +1,102 @@
+【第30集·段3】
+竖屏 9:16，全长 20 秒，5 个镜头，硬切在 4、9、13、17 秒。
+【全局视觉风格】
+真人实拍的当代芝加哥圣诞夜家庭剧情剧，原创故事，高端剧集的布景、服装、化妆与电影级布光：低调暖琥珀光与沉进墨蓝里的老钱豪宅房间，定制西装与柔和针织，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 500T 电影胶片拍摄，柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 28–35mm，中景 40–65mm，面部特写 85–100mm），1/8 黑柔焦滤镜，浅景深，柔和的圆形焦外，细腻的胶片颗粒。低调布光，大光比，光只来自画面里真实存在的灯：餐桌蜡烛、水晶吊灯、壁炉活火、边柜台灯与圣诞树暖白彩灯；一张脸一次只属于一种暖琥珀光，眼睛里始终有真实的眼神光；黑位深而干净、带一点墨蓝，暗部仍有细节，饱和度克制，肤色真实。冬夜的空气看得见：炉火前的浮尘、烛火的薄烟、玻璃墙外静静飘落的细雪。真实材质：深棕精纺羊毛西装的织纹、砖红罗纹针织裙的细密针脚、胡桃木长桌的温润包浆、银质雕花刀叉上的细划痕、高脚水晶杯与红酒里的微光、烤火鸡金黄酥脆的纹理、米白厚卡纸与正红丝带的质感。真实活人皮肤：毛孔、细纹、眼尾笑纹、鬓角少量灰发与碎发、自然的鼻翼微光与真实妆面，中年人的脸有中年人的纹路，不做美颜。负面提示词：CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、眼睛陷在黑里、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、文字、水印、LOGO。
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：胡桃木长桌泛着温润包浆，烤火鸡金黄冒热气，高脚水晶杯映着暖烛，米白文件封套系着正红丝带；暗部压深、带一点墨蓝。
+【实拍光影规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+Every light lights the faces near it, the light falling off into deep darkness. Nothing glows without lighting the world around it. In the dining room, light comes only from the crystal chandelier over the table, the tall taper candles along the table, the living fire in the stone fireplace, the warm table lamp on the sideboard and the warm-white lights of the single Christmas tree by the glass wall; beyond the intact glass wall is the snowy night. The warm light is amber and low: it wraps one side of a face warmly and lets the room beyond fall softly into ink-blue shadow. Each candle flame is small and alive, flickering gently in the warm room. The fireplace holds a low living orange fire casting soft shifting warmth across the far stone hearth. Whatever the light, the blacks stay deep, clean and faintly ink-blue, holding detail in hair and dark wool; every face keeps a clear catchlight in each eye from a real practical light. Whatever the colour of the light, the blacks are the same in every scene: deep, clean and faintly ink-blue, still holding detail in hair and dark wool. Every face keeps a clear catchlight in each eye from a light that is really in the scene, and the eyes are never lost in shadow.
+Air: thin candle smoke and fine dust drift before the hearth; shoot through the soft edge of a burning candle flame, a crystal glass or a seated shoulder down one side of the frame so that everything feels photographed in one real space.
+Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; the candle highlights clip and glow while the shadows sink into a deep ink-blue darkness.
+Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+【场景与方位】
+莫雷蒂豪宅餐厅 @餐厅完好_总览 ：外形照参考图，不采用参考图的光线和CG质感；总览图是同一个地方的几个视角，取它的结构、材质、灯的位置和方位；构图和光线以每个镜头写的为准。又一年圣诞夜。屋里只有文森特和奥利维亚两人，其余餐椅空着。
+一条深色胡桃木长餐桌纵向摆在餐厅中央，铺着波斯地毯，桌中央摆着一整只金黄烤火鸡、白瓷餐盘、银质雕花刀叉、细长白色蜡烛与高脚水晶红酒杯。长桌一头是雕花石砌壁炉和正上方的华丽水晶大吊灯（称壁炉端），另一头是深木双开门（称门口端）。面向壁炉看时：左侧是一整面完好无损的黑框落地玻璃墙（墙角靠门口端立着唯一一棵挂暖白金红彩灯的圣诞树，窗外深蓝夜空静静飘雪），右侧是深木餐边柜、柜上一盏暖黄布罩台灯与虚化旧木相框。
+朝玻璃墙：机位在餐桌靠边柜一侧斜朝玻璃墙与壁炉交角；画面左侧近处墙角是挂暖白金红彩灯的圣诞树，正面是整面完好黑框落地玻璃墙与窗外深蓝飘雪夜，右侧深处带出雕花壁炉一角暖火。桌面烛火与水晶吊灯从画面右侧给出柔和明亮的暖琥珀主光，窗外深蓝夜色只留在玻璃之外的远景里。
+朝边柜：机位在餐桌靠玻璃墙一侧斜朝壁炉与边柜交角；画面右侧是深木餐边柜、暖黄布罩台灯与虚化旧木相框，左侧深处带出雕花壁炉一角暖火。水晶吊灯与桌面烛火从画面左侧给出柔和明亮的暖琥珀主光，右侧暖台灯化作柔和暖色光点。
+朝壁炉：尽头是燃火雕花石壁炉与正上方水晶大吊灯，画面左侧是完好黑框落地玻璃墙与墙角亮灯圣诞树，右侧是深木餐边柜与暖黄台灯。水晶吊灯与桌面烛火给出柔和暖琥珀主光，壁炉暖火在深处勾出柔和轮廓。
+【人物与道具】
+文森特 @文森特 @文森特音频 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个文森特，别人都不长他的样子、不穿他的衣服。四十五岁，比奥利维亚高一个头，鬓角少量灰白，眼尾有温和细纹；穿深棕精纺羊毛西装与米白开领衬衫，领口自然敞开平整。
+奥利维亚 @奥利维亚 @奥利维亚音频 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个奥利维亚，别人都不长她的样子、不穿她的衣服。二十二岁，比文森特矮一个头，栗棕长发微卷半扎；穿砖红罗纹长袖针织裙，领口外戴着父亲送的细金项链，双手干净、手指光洁。
+项链 @项链 ：外形照参考图，不采用参考图的光线和背景；成片里只有这一条细金项链，坠着一枚比指甲盖小的圆形金吊坠，贴在奥利维亚针织裙领口外。
+Every named character appears exactly once.
+【承接画面】
+第一帧就从下面的状态开始，动作接着往下走：
+文森特：坐着，在长桌靠玻璃墙一侧近壁炉位，双手自然轻放在桌沿，眼中的意外已化为亮起的欣慰暖意，面向右侧的奥利维亚。
+奥利维亚：坐着，在长桌靠边柜一侧对面，双手已从文件收回并自然交叠在桌沿，唇角带着沉稳笃定的浅笑，面向左侧的父亲。
+【戏的逻辑——高优先级】
+女儿拒绝立刻接手、要靠自己挣来的这番话，彻底化开了文森特心底最后一块石头；女儿眼眶微红笑着感谢父亲给了自己长大的机会。谈完公司的事，家宴正式开席：文森特不再像去年那样把刀叉递给外人，而是亲手从容切下第一片烤火鸡盛盘递给女儿，奥利维亚微笑端起红酒杯祝父亲圣诞快乐。
+【人物与表演——高优先级】
+REAL AND VISIBLE: real people, a camera very close; the feeling shows plainly on the face and in the voice, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling breaking through, and it stays visible. The listener is always acting too, lips closed.
+文森特作为父亲由衷骄傲，神情松弛慈爱，手上的动作温和安稳。奥利维亚满怀感恩与真情，温柔大方，毫不掩饰对父亲的爱意。
+ENGLISH ONLY: every spoken word is in American English; background people make only wordless sounds (breath, soft laughter). This clip has three lines, each spoken once, word for word, by the person named; only the speaker's lips move; nobody says anything else.
+【机位与视线——最高优先级】
+全段机位稳守长桌靠门口端一侧，绝不越轴。文森特始终在左侧、看画面右侧镜头旁的奥利维亚；奥利维亚始终在右侧、看画面左侧镜头旁的文森特。单人镜头的视线擦着镜头边过去，绝不直视镜头。每一个眼神都落在戏里的人或东西上，单人镜头的视线擦着镜头边过去。
+【镜头语言——高优先级】
+每个镜头都是一台真实摄影机在现场拍下的完整竖幅画面，地平线是平的。镜头有呼吸：手持或稳定器带着随人物呼吸的细微浮动，每一镜有起点、有落点，快慢跟着情绪走，动作落定以后镜头也慢慢停稳。景深分三层：前景虚（燃烧白烛、高脚水晶杯、坐姿肩膀），主体实，后景是柔化成圆斑的暖灯、壁炉火光与窗外飘雪。构图用三分法和黄金比例，主体落在一侧三分线上，视线前方留出空间，人物关系靠前后纵深和站、跪、坐的姿态拉开。焦段有变化：28–35mm 交代豪宅对称纵深与双人圆满，40–50mm 拍过肩互动与桌面手部，85–100mm 拍眼尾细纹与含泪微光。每个切点都由一个眼神、一句话或一个动作带出来，下一镜从上一镜停住的地方接着往下走。
+Every cut has a reason (a look, a line, a reaction, a movement); each shot opens exactly where the last one ended, and no line and no action restarts after a cut. The camera is always level and the right way up, gravity pulling down, heads above feet. Every shot is one continuous image of one real space, photographed through one lens.
+【本段变化】
+每一项变化只在发生的那一刻出现，然后保持：镜头2 奥利维亚眼眶泛红含泪微笑；镜头3 文森特双手拿起银质雕花刀叉切下第一片火鸡；镜头4 他盛入白瓷盘双手递过桌面放到奥利维亚身前；镜头5 白瓷盘已在奥利维亚身前桌面，她右手端起高脚水晶红酒杯举在胸前。
+【分镜】
+镜头1｜0–4s｜你是真的长大了
+机位：特写 85mm｜朝玻璃墙｜餐桌靠门口与边柜一侧三脚架、坐姿眼高
+运镜：接着女儿的约定切回父亲特写。稳定器极缓前推贴近文森特舒展的眉眼，随他释然的笑气微微起伏后停稳。
+构图：文森特面部特写落在左侧三分线，目光望向右侧镜头旁留出呼吸空间；身后完好黑框玻璃墙外飘雪与左侧圣诞树暖灯虚成深蓝与金斑。
+光影：桌面烛火从右侧近距柔照他的脸，眼尾与眉间的岁月纹路在暖琥珀光里彻底柔化，眼神光明亮温暖。
+0–0.8s：文森特从鼻间轻呼出一口释然的暖气，眉间最后一道折痕彻底松开，嘴角由衷地向上扬起一个欣慰的父亲笑容。
+0.8–3.4s：他带着发自内心的骄傲与赞叹望向右侧女儿开口，眼角笑纹深深舒展，头微微轻点一下。
+Emotion order, strong and plainly visible, a little overplayed: amazed realization → swelling fatherly pride → warm affectionate wonder.
+Dialogue: 0.8–3.4s, Vincent, to Olivia, in American English, (a soft breath of a laugh first) low, warm and deeply pleased, pausing briefly after the first word: {You've… really grown up on me.}
+3.4–4s：他嘴唇合在温柔的笑意上，满眼慈爱地停在右侧女儿脸上。
+落幅：特写停在文森特欣慰舒展的笑颜上，暖光映亮他的双眸。
+声音：一声温柔的笑气与壁炉细微噼啪。
+镜头2｜4–9s｜是你给了我长大的机会
+机位：特写 100mm｜朝边柜｜餐桌靠门口与玻璃墙一侧三脚架、坐姿眼高
+运镜：接着父亲的夸奖切到女儿特写落戏1重音。长焦手持带着极细微的自然呼吸感稳稳贴近，在她泪光闪动的笑容里缓缓定住。
+构图：奥利维亚面部特写落在右侧三分线，目光望向左侧镜头旁；领口外细金项链在微焦边缘闪过一缕金光，身后深木边柜暖台灯彻底化作柔和金色光晕。
+光影：暖琥珀烛光从左侧贴面照亮她骤然泛红发亮的眼眶与润湿的下眼睑，泪光与烛光在瞳仁里交映。
+4–4.8s：听到父亲的夸奖，奥利维亚的眼眶瞬间泛红润湿，下唇极轻地颤了一瞬，随即没有落泪，反而绽开一抹满溢爱意与感激的灿烂笑容。
+4.8–8.2s：她含着泛亮眼眶望向左侧父亲轻声致谢，说到中间温柔顿了半拍、喉咙微动，眼里满是终于读懂父爱的炽热温柔。
+Emotion order, strong and plainly visible, a little overplayed: sudden emotional rush, eyes brimming → grateful tenderness catching in her throat → radiant loving gratitude.
+Dialogue: 4.8–8.2s, Olivia, to Vincent, in American English, (she swallows once with a soft breath) warm, husky and smiling through emotion, pausing softly midway: {You made sure… I got the chance to.}
+8.2–9s：她双唇轻合在含泪的温柔笑容里，目光清澈滚烫地望住左侧父亲。
+落幅：100mm 长焦特写稳稳停在奥利维亚泛红发亮的笑眼上。
+声音：她轻缓克制的吸气声与室内暖意静谧。
+镜头3｜9–13s｜父亲亲手切下第一片火鸡
+机位：特写 50mm｜朝壁炉｜长桌靠门口端桌缘低矮滑轨、贴桌斜俯
+运镜：随着谈心情绪圆满落定，切到餐桌中央。滑轨贴着桌面顺着刀锋行进方向极缓侧移跟推，焦点从闪光的雕花刀刃顺势带到升起的热气落定。
+构图：前景左侧压着一根虚焦暖烛，长桌中央烤得金黄油亮的整只火鸡占住黄金分割主位，文森特修长稳健的双手握着银质雕花刀叉入画；深处虚焦是壁炉跃动的橙火。
+光影：烛火暖光在银质雕花刀背上拉出一道窄长高光，金黄烤皮与轻腾热气被暖琥珀光温柔勾勒。
+9–11s：文森特左手稳稳按住银质餐叉、右手松弛从容地握起雕花餐刀（寻常慈父的安稳握法，毫无戾气），刀刃轻落金黄酥脆的火鸡胸口。
+11–13s：刀锋不疾不徐地顺着纹理滑下，切开第一片鲜嫩完整的火鸡肉，一缕细白热气在暖烛光里缓缓升腾。
+落幅：第一片金黄火鸡肉平整切下，热气袅袅升起，父亲的手沉稳温和。
+声音：餐刀轻切酥脆烤皮的细脆声，炉火温柔噼啪。
+镜头4｜13–17s｜父亲盛盘双手递给女儿
+机位：中景 45mm｜朝玻璃墙｜奥利维亚左肩后、坐姿眼高
+运镜：接着切好的火鸡拉松成过肩中景呼吸。稳定器随文森特端起白瓷盘前递的轨迹微微向右平滑跟移，在盘子稳落女儿身前时停稳。
+构图：奥利维亚虚化的砖红左肩压住右侧前景一角；中景左侧三分线上，文森特带着寻常父亲的烟火暖笑盛盘前递；身后完好黑框玻璃墙外飘雪静落，墙角圣诞树暖灯温柔闪耀。
+光影：水晶吊灯与桌面烛火把父女之间的桌面照得暖意融融，白瓷盘与银叉泛出干净柔光。
+13–15s：过奥利维亚虚化的砖红左肩看去，文森特微笑着用餐叉把切好的火鸡肉整齐放进白瓷餐盘，轻轻放回刀叉。
+15–17s：他双手端起热气微腾的白瓷盘，稳稳越过烛光桌面送到右侧奥利维亚身前轻轻放定，眼角笑意温厚如常。
+落幅：白瓷盘安稳落在女儿身前桌面，文森特双手收回、慈爱注视着她。
+声音：银叉轻碰瓷盘的微响，瓷盘轻放桌布的声音。
+镜头5｜17–20s｜接盘举杯祝圣诞快乐
+机位：中近景 50mm｜朝边柜｜文森特右肩后、坐姿眼高
+运镜：接着放定的白瓷盘反打过肩。稳定器随着奥利维亚举起高脚水晶杯的弧线轻缓上带两寸，在她微笑望住父亲时稳稳落定。
+构图：文森特虚化的深棕右肩压住左侧前景一角；奥利维亚落在右侧三分线，身前桌面摆着盛好火鸡的白瓷盘，右手高脚水晶红酒杯在烛光里晶莹剔透；身后深木边柜暖黄台灯柔和发光。
+光影：烛火从左侧照亮她发亮的眼眸与水晶杯里的宝石红酒液，细金项链在领口外闪过柔光。
+17–17.6s：过文森特虚化的深棕右肩看去，奥利维亚指尖轻扶一下身前刚放稳的热瓷盘，随即右手从容端起高脚水晶红酒杯举到胸前，眼里跳着烛光望向左侧父亲。
+17.6–19s：奥利维亚举杯微笑开口，眉眼弯起暖意，杯中红酒微微轻漾；左侧前景文森特虚化的右肩自然微微前倾回应。
+Emotion order, strong and plainly visible, a little overplayed: heartfelt warmth → sparkling holiday joy → tender filial closeness.
+Dialogue: 17.6–19s, Olivia, to Vincent, in American English, bright, warm and affectionate: {Merry Christmas, Daddy.}
+19–20s：她唇角噙着明亮温暖的笑容，稳稳端着高脚红酒杯注视左侧父亲。
+落幅：奥利维亚高举水晶红酒杯含笑看着父亲，眼中跃动烛光。
+声音：手指轻提水晶杯脚的微响与轻柔呼吸声。
+【结束画面】
+文森特：坐着，在长桌靠玻璃墙一侧近壁炉位，双手自然放在桌沿，嘴角挂着寻常父亲的温暖笑意，热气腾腾的火鸡盘已送到女儿身前，面向右侧的奥利维亚。
+奥利维亚：坐着，在长桌靠边柜一侧对面，身前桌面上摆着盛好火鸡的白瓷盘，右手稳稳端着高脚水晶红酒杯举在胸前，眼神亮晶晶的，面向左侧的父亲。
+台词已经说完，所有人嘴唇合着。
+【声音】
+全程现场同期声：对白清楚地在最前面，后面是轻柔笑气、银刀切开烤火鸡酥皮的细脆声、瓷盘轻落桌布与水晶杯脚轻提的微响，加上每一镜写明的动作声；远近分得清，近的清楚、远的轻。无配乐，无字幕。
+Shot on 35mm Kodak Vision3 film with Cooke spherical primes, high-end live-action original family drama, Chicago on Christmas Eve, low-key motivated light from chandelier, candles, hearth fire and winter glass, warm amber against deep ink-blue shadows, gentle halation, soft focus at the frame edges, fine film grain.

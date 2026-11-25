@@ -1,0 +1,57 @@
+# 第 29 集 段 5
+段: 5
+戏种: 文戏
+场景: 发布会T台，夜
+环境声: 场内的安静
+
+人: Wendy |
+# 连续性账本：姿态 | 位置 | 手里的东西。上一段的收场要等于这一段的开场。
+开场: Wendy | 站着 | 在台口拱门前一步 | 手里一支话筒
+表演: Wendy (温蒂): calm and still, speaking with quiet power; it leaks from her eyes, a brightness she holds down with a steady jaw.
+
+空间: Wendy stands alone one step in front of the arch at the head of the runway, facing the audience down the runway; the audience is in front of her, below and beyond the lens. 180-degree rule: the arch is always behind her; the camera always stays on the audience side of her and never goes behind the backdrop.
+视线: Wendy looks out over the audience just past the lens, a little down toward the rows; Wendy looks screen-LEFT only when her eyes drop for an instant.
+逻辑: Wendy is saying in public what she believed about herself for years. It costs her something, and she lets it show only in her eyes.
+同框: Wendy stands in it alone with the arch rising behind her.
+正反打: Wendy is shot from the front only, alternating a level close shot and a slightly low three-quarter shot, both with the arch blurred behind her.
+状态: from shot 3 her eyes are bright and stay bright.
+结束: Wendy in the soft light seen from a little below, lips pressed together, head high, eyes bright; every line has been spoken and all lips are closed; her eyes have not yet gone to Ethan.
+
+== 镜头：开口 ==
+机位: 近景 85mm | 1 | T 台上、她正前方约两米、眼高；脸在画面上半；身后是虚掉的拱门
+运镜: 固定（话说给每一个人）
+主体: Wendy
+分镜秒: 2
+说 2: Wendy > the audience | calm, clear and unhurried | Thank you all for coming.
+说时: Wendy stands in the soft light, upper middle of the frame, microphone steady at her chin, and speaks to the rows just past the lens.
+声: Her voice in the quiet hall.
+
+== 镜头：说到体重秤 ==
+机位: 中近景 50mm | 1 | 第一排的高度、她斜前方约三米，略仰；她在画面上半；身后拱门一侧虚着
+运镜: 固定（说的是低处的过去）
+主体: Wendy
+分镜秒: 5
+拍 0.2: Cut on the line, Wendy seen from a little below, upper half of the frame, the arch blurred beside her; a small breath in.
+说 4.8: Wendy > the audience | slow and even, plain truth | For a long time, I thought my worth was on a scale.
+说时: She speaks; on the last words her eyes drop to screen-LEFT for an instant and come back up.
+声: A chair creaking far off.
+
+== 镜头：说到最难的那半句 ==
+机位: 近景→特写 85mm | 1 | T 台上、她正前方约两米、眼高；脸在画面上半；身后是虚掉的拱门
+运镜: 缓推（说到最难的地方）
+主体: Wendy
+分镜秒: 5
+拍 0.4: Matched on action, her eyes come back up and hold the room.
+说 4.4: Wendy > the audience | even and low, holding steady | That if I wasn't thin, I didn't deserve to be seen,
+拍 0.2: Her eyes have gone bright; her jaw stays set.
+声: Her breath close to the microphone.
+
+== 镜头：说完它，站稳 ==
+机位: 中近景 50mm | 1 | 第一排的高度、她斜前方约三米，略仰；她在画面上半；身后拱门一侧虚着
+运镜: 固定（她站稳了）
+主体: Wendy
+分镜秒: 3
+拍 0.1: Cut on the line, from a little below again, she goes on without a pause.
+说 2.8: Wendy > the audience | steady, a little quieter, finishing the thought | to be loved, to be taken seriously.
+拍 0.1: Her lips press together; her head stays high; the bright eyes do not spill.
+声: Silence in the hall.

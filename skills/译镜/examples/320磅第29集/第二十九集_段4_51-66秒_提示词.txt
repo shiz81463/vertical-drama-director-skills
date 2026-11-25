@@ -1,0 +1,79 @@
+【第29集·段4】
+【全局视觉风格】
+Netflix 顶级美剧的真人实拍质感，当代美国豪门都市爱情剧，高预算剧集的布景、服装、化妆与电影级布光：《摘金奇缘》式豪门盛宴的金色华光，《绯闻女孩》式上流名利场的锋利光泽，顶级珠宝与香水广告级的皮肤和高光质感，每一帧单独截出来都是一张高级剧照。35mm 柯达 Vision3 电影胶片拍摄（日景 250D，夜景 500T），柯达 2383 印片色彩，Cooke 球面定焦镜头（全景 35mm，中景 50mm，面部特写 85mm），1/8 黑柔焦滤镜，浅景深，奶油般柔和的圆形焦外，细腻的胶片颗粒。色彩以暖香槟金与深青蓝的冷暖对比为骨架，象牙白与祖母绿点缀，肤色温暖、红润、通透，饱和度浓郁而克制。真实材质：真丝缎面流动的长高光与被身体撑紧的褶皱，亮片、水晶与珠宝切面的细碎火彩，定制羊毛西装的织纹，抛光石材和玻璃里的倒影，香槟里一串串上升的气泡，烫金纸面的压凹纹路。真实活人皮肤：毛孔、细小绒毛、碎发、雀斑，鼻翼和额头一点自然的油润光泽，逆光时耳廓微微透红，自然妆面；身材与体态完全照参考图，丰满的身体有真实的重量，布料被真实地撑起和垂坠，不做美颜瘦身。负面提示词：动漫、二次元、卡通、插画、CGI 渲染感、游戏引擎感、AI 感、塑料皮肤、蜡像感、过度磨皮、瓷娃娃皮肤、美颜瘦脸滤镜、网红滤镜、过饱和糖水色、HDR 过度处理感、过度锐化的数码感、廉价电视剧平光、廉价影楼光、脸部发灰欠曝、廉价布景感、模糊低清、畸形手指、多余肢体、发光皮肤、发光眼睛、古装、奇幻魔法光效、文字、水印、LOGO。
+【画面质感——高优先级】
+像一部用35mm胶片实拍的电影，不是CG动画：白裙在白光里发亮，珠宝切面闪碎光，石墙粗糙有颗粒；所有东西都笼在同一种暖香槟金色的光里，肤色暖而通透，暗部压深、带一点干净的深青蓝。
+【实拍光影规范——高优先级】
+PRACTICAL EFFECTS ONLY. Every effect must look physically shot in camera on a film set on 35mm film, never added in post.
+Every light lights the faces near it, the light falling off into deep darkness. Nothing glows without lighting the world around it. In the show hall the house lights are down: light comes only from the white wash on the runway, the warm gold wash on the backdrop and, while Wendy speaks, one soft-edged spotlight on her; a light haze shows the rays of light. Every face is lit the way a lead is lit in a high-end drama: a large, soft key from a light that is really in the scene, the shadow side of the face falling away cleanly into shade, a thin edge of light along the hair and shoulders that lifts the person off the background, and a clear catchlight in each eye. The eye always goes to the faces first: they are the most carefully lit thing in the frame, the background falls away behind them into soft focus, and the blacks are deep and clean yet still hold detail.
+FACING 1 (toward the arched backdrop): white light from the truss falls on everyone on the runway from above and in front; Wendy stands in a soft-edged spotlight that comes from behind the camera; the backdrop glows warm gold; the audience on both sides stays dark; no lamp is in frame, only soft rays in the haze.
+FACING 3 (toward the front row): the bright runway edge bounces soft white light up into the front-row faces from below and in front; the stage end is at screen-RIGHT and its warm glow rims the hair on that side; the rows behind sink into darkness.
+Air: a light haze hangs in the light over the runway; shoot through the blurred edge of a front-row chair or of the arch along one side of the frame so that everything feels photographed in one real space.
+Real lens and real film: highlights bloom and halate with a red-orange halo, slight chromatic fringing, softer focus at the frame edges, heavy motion blur and step-printed smearing on fast action, film grain and faint scratches; the stage-light highlights roll off into a soft, creamy bloom while the shadows sink into a deep, clean teal-blue darkness.
+Restraint: a few large, motivated effects rather than many small ones. Every effect has a physical cause and a physical consequence.
+发布会T台 @T台_总览 ：外形照参考图，不采用参考图的光线和CG质感；下面几张是同一个地方朝不同方向看的样子，成片里就是这一个地方。只有一条直 T 台，约二十米长、高到人的膝盖；一头是暖沙色石墙和亚麻板的背板，正中只有一道高拱门；另一头是摄影师小台。T 台两边各五六排浅灰褐色矮软椅，第一排紧贴台边。参考图里没有人：成片里只有下面写到的人。
+方向1背景 @T台_1朝背板 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向1（朝背板）的镜头，背景就是图里这一头：正中的高拱门，暖沙色石墙和亚麻板，两边暗着的观众席。图里没有人。拱门比人高两倍。
+方向3背景 @T台_3第一排 ：外形照参考图，不采用参考图的构图和CG质感；成片里方向3（朝第一排）的镜头，背景就是图里这一头：画面下方一道亮的 T 台边，第一排浅灰褐色矮软椅，后排暗下去，台口在画面右边。图里没有人。椅背比人的腰矮一点。
+温蒂 @Wendy ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个温蒂，别人都不长她的样子、不穿她的衣服。第 29 集是减重以后的她，体型照参考图；比伊森矮一个头；穿一条简约的白色长裙。镜4 从拱门里走出来。这一段开场：站着，在拱门里面、还没出来，手里没有东西。
+伊森 @Ethan ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个伊森，别人都不长他的样子、不穿他的衣服。比温蒂高一个头；一身定制深色西装。这一段开场：坐着，在第一排、离台口第二个座位，手里没有东西。
+大码模特 @大码模特 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个，不长主要人物的样子。丰满，正常成年女子的身高；戴着这一系列的珠宝。走在模特队伍最前面。
+银发模特 @银发模特 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个，一头银发的老奶奶。正常成年女子的身高；戴着这一系列的珠宝。走在模特队伍里。
+轮椅模特 @轮椅模特 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个，坐在轮椅上的年轻姑娘。坐着时比站着的伊森矮一大截；戴着这一系列的珠宝。坐着轮椅在 T 台上走秀。
+其他模特 @发布会模特 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里所有其他模特都是参考图里那几位，身材、年龄、肤色各不相同，都不长主要人物的样子。正常成年女子的身高；这一段五六位，依次从拱门走出来。
+秀场宾客 @秀场宾客 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里所有宾客都是参考图里那一组，长相、衣服各不相同，都不长主要人物的样子。正常成年人的身高；坐满 T 台两边的矮椅。
+主持人 @主持人 ：外形照参考图，不采用参考图的光线、背景、姿势和CG质感；成片里只有一个，不长主要人物的样子。正常成年男子的身高；手里一支话筒，不说话。镜4 站在台口拱门一侧。
+【场景：发布会T台，夜】
+发布会T台照参考图。发布会当晚，场内灯光压暗，整段在这一个地方，不换地点。
+地图：一条直 T 台，一头是拱门背板（台口），另一头是摄影师小台（台尾）；两边是观众席，第一排紧贴台边。
+站位：温蒂致辞时站在台口拱门前一步，身后永远是方向1（拱门背板）；伊森坐在第一排、离台口第二个座位，身后永远是方向3（第一排和后排），台口在他的画面右边；同一排往台尾数第四个座位空着。
+不入画：画面里没有字、品牌名、屏幕。
+【人物与表演——高优先级】
+SMALL AND TRUE: real people, a camera very close; two to four small physical signals at a time, never mimed, never a blank face. THREE LAYERS: a key reaction is a flicker, then the feeling leaking out, then control. The listener is always acting too, lips closed.
+The models (模特们): each with her own walk, unhurried and sure of herself.
+Ethan (伊森): in the front row, proud; it leaks from his eyes, which follow every model.
+Wendy (温蒂): calm, every movement clean; she walks into the light without hurry.
+Every named character appears exactly once.
+ENGLISH ONLY: every spoken word is in American English, never Chinese; background people make only wordless sounds (gasps, breath, laughter, applause). Nobody speaks in this segment; every mouth stays closed except for breath and laughter.
+【空间与视线——最高优先级】
+SPACE: The runway runs straight from the arched backdrop to the photographers' riser; the models walk from the arch toward the far end; the guests sit in rows on both sides; Ethan sits in the front row near the stage end. 180-degree rule: in the shots along the runway the arch is always at the top of the frame; in the front-row shot the stage end is always at screen-RIGHT; the camera never crosses to the other side of the runway.
+EYELINES: the models look straight ahead down the runway, just past the lens; the front-row guests look screen-RIGHT and up at the runway; Ethan looks screen-RIGHT and up at the runway; the host looks toward the arch. In singles each eyeline passes just beside the lens. Every look has a target in the scene.
+【戏的逻辑——高优先级】
+SCENE LOGIC: The audience came half expecting a novelty and is won over model by model. Wendy is about to stand in the light as herself.
+【镜头衔接——高优先级】
+FOUR SHOTS, hard cuts only at 3, 8 and 11 s. Every cut has a reason (a look, a line, a reaction, a movement); each shot opens exactly where the last one ended, and no line and no action restarts after a cut.
+TALL FRAME: the frame is tall and narrow. The runway runs up the frame and people share it in depth, never spread across its width: people on the same floor keep their real heights, the nearer one larger. Faces stay in the upper two thirds of the frame; anyone who comes or goes moves toward or away from the lens.
+UPRIGHT: the camera is always level and the right way up: floor at the bottom, gravity pulling down, heads above feet.
+ONE IMAGE: every shot is one continuous image of one real space through one lens: no split screen, no panels, no picture in picture, no double exposure.
+SHOT AND REVERSE SHOT: the runway is always seen from the far end with the arch at the top of the frame; the front row is always seen across the runway from the other side, at the same distance each time.
+CAMERA FEELS: the camera moves only when a feeling changes, eases in as someone gives themselves away, and holds still while a feeling is held in; it never zooms and never cuts away before a reaction lands.
+【本段状态】
+STATE: Each change appears only at the moment it happens, then stays: from shot 1 the house lights are down and the runway is lit; from shot 4 Wendy stands in the spotlight with the microphone and the host is out of the light.
+镜头1｜0–3s｜灯一暗一亮，开秀
+[大全景 35mm, 方向1（朝背板），T 台尽头的摄影师小台上、比人眼高，顺着 T 台往台口看；T 台从画面下方一路通到上方的拱门]
+运镜：固定（灯自己变）
+0–1.5s: The house lights go down; the runway lights up white from end to end and the arched backdrop glows warm gold at the top of the frame; the rows on both sides fall dark.
+1.5–3s: The first model is already in the arch opening in the white light and starts down the runway toward the lens.
+Sound: The room going quiet.
+镜头2｜3–8s｜不同身材、年龄的女人走来
+[中景 85mm, 方向1（朝背板），T 台尽头、台面高度的低机位，长焦顺着 T 台；拱门在画面上方虚着]
+运镜：固定（让她们自己走近）
+3–5s: Matched on action, the plus-size model walks toward the lens, shoulders back, her necklace catching the light.
+5–8s: Behind her the silver-haired model and the young woman in the wheelchair come down the runway in a line, each wearing pieces from the same collection, each sure of herself.
+Sound: Heels on the runway, the soft roll of wheels.
+镜头3｜8–11s｜台下从议论到鼓掌
+[中近景 50mm, 方向3（朝第一排），T 台另一边的地面、站着的人眼高，隔着 T 台看第一排；T 台亮的边压在画面下方；台口在画面右边]
+运镜：固定（反应自己变）
+8–9.5s: Cut on the look, across the bright edge of the runway, front-row guests lean their heads together, then stop and watch screen-RIGHT and up, nodding.
+9.5–11s: They begin to clap; Ethan, second seat from the stage end at the right of the frame, claps with them, his eyes on the runway.
+Sound: Applause starting, then spreading.
+镜头4｜11–15s｜主持人请，她走进光里
+[全景 85mm, 方向1（朝背板），T 台尽头、台面高度的低机位，长焦；拱门和台口在画面上半]
+运镜：固定（她走进光里停住）
+11–12.5s: Cut on the reaction, at the head of the runway the host turns to the arch and opens one hand toward it.
+12.5–15s: Wendy, in the simple white dress, walks out of the arch into a soft spotlight and stops one step in front of it; the host puts the microphone in her hand and steps aside, out of the light.
+Sound: The applause swelling.
+【结束状态】
+END STATE: the last frame is the end of shot 4: Wendy alone in the soft spotlight one step in front of the arch, microphone in hand, the host off to the side in the dark; nobody has spoken; she has not begun her speech.
+严禁字幕，画面中不出现任何文字。
+全片实速，不要慢镜头。
+不生成BGM：不要音乐、配乐、旋律，只保留呼吸声、掌声、高跟鞋踩 T 台和轮椅轮子和动作的声音。

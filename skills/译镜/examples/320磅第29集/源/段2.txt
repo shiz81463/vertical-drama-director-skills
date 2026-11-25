@@ -1,0 +1,72 @@
+# 第 29 集 段 2
+段: 2
+戏种: 文戏
+场景: 发布会后台，夜
+环境声: 衣架挂钩、远处吹风机和项链扣的声音
+
+人: Wendy |
+人: Ethan |
+人: Julian | 镜2 走到温蒂身边。
+人: ChairModel | 在最后一个衣架旁的角落。
+人: Models | 这一段三四位。
+# 连续性账本：姿态 | 位置 | 手里的东西。上一段的收场要等于这一段的开场。
+开场: Wendy | 站着 | 在试衣间口外一步 | 手里没有东西
+开场: Ethan | 站着 | 在过道里 | 一只胳膊挎着那摞白披肩
+收场: Ethan | 蹲着 | 在最后一个衣架旁的角落 | 一只胳膊挎着那摞白披肩
+表演: Wendy (温蒂): composed, quietly radiant; it leaks from her eyes, which keep going back down the aisle to him.
+表演: Ethan (伊森): earnest, a little clumsy; it leaks from his hands.
+表演: Julian (朱利安): warm and measured; it shows in his eyes behind the glasses, amused and kind.
+表演: The wheelchair model (轮椅模特): patient, smiling at his fumbling.
+
+空间: Wendy stands one step outside the fitting room with Julian half a step behind her shoulder; far down the aisle Ethan helps a model at a mirror, then crouches by the young woman in the wheelchair beside the last garment rack. 180-degree rule: Wendy is always nearer the lens with Julian half a step behind her shoulder, both standing on the same floor; the camera never crosses the line between Wendy and Ethan.
+视线: Wendy looks screen-RIGHT just beside the lens, down the aisle toward Ethan; Julian looks screen-LEFT and a little down at her.
+逻辑: Julian, once Ethan's rival, sees the change and says it aloud. Wendy agrees too softly; she is starting to trust Ethan again.
+同框: People share it in depth, never spread across its width; people standing on the same floor keep their real heights, the nearer one larger.
+正反打: Wendy is always seen with the fitting-room curtains behind her, Ethan always down the aisle; her single and her two-shot with Julian come from the same side.
+状态: from shot 2 Julian is at Wendy's shoulder; from shot 4 Ethan is crouched in the corner; from shot 5 the clasp is fastened.
+结束: Ethan's hands close to the necklace, the clasp shut, the racks blurred behind; every line has been spoken and all lips are closed; Ethan has not stood up yet and Jenny has not come over.
+
+== 镜头：她看过去：他在人堆里忙 ==
+机位: 中景 85mm | 1 | 试衣间口旁、比人眼略高，长焦顺着过道看过去；化妆镜在画面左边，尽头是幕布
+运镜: 固定（她的视线）
+主体: Ethan
+分镜秒: 3
+拍 1.5: Cut on the look, far down the aisle Ethan sets a necklace straight on one of the models at a mirror on the left of the frame.
+拍 1.5: He hurries a few steps deeper, never looking toward the lens.
+声: Hangers clicking, a hair dryer far off.
+
+== 镜头：朱利安走到她身边 ==
+机位: 中近景 50mm | 2 | 温蒂斜前方约两米、肩高；两人站在同一地面、拍到胸口以上，温蒂离镜头近，朱利安在她身后半步，比她高半个头；背景是帘子和全身镜
+运镜: 固定（两个人并肩）
+主体: Wendy、Julian
+分镜秒: 6
+说 6: Julian > Wendy | unhurried and warm, a smile in it | He's come a long way from the stuck-up CEO I met at the summit.
+说时: Cut on the look, Wendy stands nearest the lens, seen from the chest up, still watching screen-RIGHT; Julian steps up from screen-LEFT and stops half a step behind her shoulder, a smile behind his glasses, and speaks.
+声: His shoes stopping on the floor.
+
+== 镜头：她点头，声音软了 ==
+机位: 近景 85mm | 2 | 温蒂面前约一米、眼高；脸撑满画面宽、在画面上半；身后是虚掉的帘子
+运镜: 固定（软下来的那一下）
+主体: Wendy
+分镜秒: 3
+拍 0.6: Cut on the line, Wendy keeps her eyes screen-RIGHT just beside the lens; her face softens and she nods once.
+说 1.4: Wendy > Julian | low and soft, conceding | Yeah. He has.
+拍 1: Her lips close; her eyes stay down the aisle; the small smile stays.
+声: Her breath.
+
+== 镜头：他蹲在角落扣项链 ==
+机位: 中景→近景 85mm | 1 | 试衣间口旁、比人眼略高，长焦顺着过道看；角落在画面右边、最后一个衣架旁
+运镜: 缓推（她越看越进去）
+主体: Ethan
+分镜秒: 4
+拍 2: Cut on the look, beside the last garment rack, Ethan crouches in front of the young woman in the wheelchair, head bent, reaching behind her neck to fasten a fine necklace; the clasp slips from his fingers.
+拍 2: He tries again, slower; she smiles down at him and waits.
+声: The tiny click of a clasp missing.
+
+== 镜头：扣上了 ==
+机位: 特写 85mm | 3 | 化妆镜这一边、蹲低到手的高度，侧面拍；背景是虚掉的衣架和珠宝桌的小铜灯
+运镜: 固定（只看手）
+分镜秒: 3
+拍 1.5: Matched on action, seen from the side, Ethan's fingers fasten the tiny clasp behind her neck; the chain settles on her collarbone.
+拍 1.5: His hands hover, then let go.
+声: The clasp clicking shut.
